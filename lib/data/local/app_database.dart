@@ -2,11 +2,9 @@ import 'package:path/path.dart' as p;
 import 'package:sqflite/sqflite.dart';
 
 /// Schema v1:
-///   words (id, en, translations TEXT JSON, short_score, long_score,
-///          last_long_up_at, learned_at, decay_step, batch, cefr)
-///   app_state (key TEXT PRIMARY KEY, value TEXT)
-///   answer_log (id INTEGER PRIMARY KEY, word_id, day TEXT YYYY-MM-DD,
-///               result TEXT 'correct'|'wrong'|'skip', at INTEGER)
+///   words — vocabulary entries with progress + extended metadata
+///   app_state — key/value preferences
+///   answer_log — per-answer history for stats
 class AppDatabase {
   static const _dbName = 'lexio.db';
   static const _version = 1;
@@ -44,11 +42,18 @@ class AppDatabase {
         learned_at INTEGER,
         decay_step INTEGER NOT NULL DEFAULT 0,
         batch TEXT NOT NULL DEFAULT 'seed',
-        cefr TEXT
+        cefr TEXT,
+        type TEXT,
+        phonetics_us TEXT,
+        phonetics_uk TEXT,
+        audio_us TEXT,
+        audio_uk TEXT,
+        examples TEXT
       )
     ''');
     await db.execute('CREATE INDEX idx_words_learned ON words(learned_at)');
     await db.execute('CREATE INDEX idx_words_batch ON words(batch)');
+    await db.execute('CREATE INDEX idx_words_cefr ON words(cefr)');
   }
 
   Future<void> _createAppState(Database db) async {

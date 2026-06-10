@@ -52,9 +52,10 @@ class WordsRepository {
 
   // ── read
 
-  Future<int> totalCount() => _wordsDao.count();
-  Future<int> learnedCount() => _wordsDao.learnedCount();
-  Future<List<Word>> active({int limit = 200}) => _wordsDao.active(limit: limit);
+  Future<int> totalCount({List<String>? levels}) => _wordsDao.count(levels: levels);
+  Future<int> learnedCount({List<String>? levels}) => _wordsDao.learnedCount(levels: levels);
+  Future<List<Word>> active({int limit = 200, List<String>? levels}) =>
+      _wordsDao.active(limit: limit, levels: levels);
   Future<List<Word>> learnedForDecay() => _wordsDao.learnedForDecay();
 
   Future<List<String>> randomDistractors({
@@ -62,12 +63,14 @@ class WordsRepository {
     required bool needsNativeAnswer,
     required String nativeLang,
     required int count,
+    List<String>? levels,
   }) =>
       _wordsDao.randomDistractors(
         excludeId: excludeId,
         needsNativeAnswer: needsNativeAnswer,
         nativeLang: nativeLang,
         count: count,
+        levels: levels,
       );
 
   // ── write

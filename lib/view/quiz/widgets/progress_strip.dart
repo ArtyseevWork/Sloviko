@@ -56,27 +56,43 @@ class ProgressStrip extends ConsumerWidget {
               ],
             ),
           ),
-          SizedBox(width: 12.w),
-          GestureDetector(
+          SizedBox(width: 10.w),
+          _IconBtn(
+            icon: Icons.bar_chart_rounded,
             onTap: () => Go.push(context, Routes.stats),
-            child: Container(
-              width: 32.w,
-              height: 32.w,
-              decoration: BoxDecoration(
-                color: c.surface,
-                borderRadius: BorderRadius.circular(10.r),
-                border: Border.all(color: c.border),
-              ),
-              child: Center(
-                child: DettoIcon(
-                  Icons.bar_chart_rounded,
-                  size: 16.sp,
-                  color: c.textSub,
-                ),
-              ),
-            ),
+          ),
+          SizedBox(width: 8.w),
+          _IconBtn(
+            icon: Icons.settings_outlined,
+            onTap: () => Go.push(context, Routes.settings),
           ),
         ],
+      ),
+    );
+  }
+}
+
+class _IconBtn extends ConsumerWidget {
+  final IconData icon;
+  final VoidCallback onTap;
+  const _IconBtn({required this.icon, required this.onTap});
+
+  @override
+  Widget build(BuildContext context, WidgetRef ref) {
+    final c = ref.watch(dettoThemeProvider).palette(context);
+    return GestureDetector(
+      onTap: onTap,
+      child: Container(
+        width: 32.w,
+        height: 32.w,
+        decoration: BoxDecoration(
+          color: c.surface,
+          borderRadius: BorderRadius.circular(10.r),
+          border: Border.all(color: c.border),
+        ),
+        child: Center(
+          child: DettoIcon(icon, size: 16.sp, color: c.textSub),
+        ),
       ),
     );
   }

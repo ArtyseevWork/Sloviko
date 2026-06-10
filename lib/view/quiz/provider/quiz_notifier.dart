@@ -3,6 +3,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../../../core/di/providers.dart';
 import '../../../core/locale/native_lang.dart';
+import '../../../core/settings/cefr_levels.dart';
 import '../../../domain/models/question.dart';
 import '../../../domain/usecases/get_next_question.dart';
 import '../../../domain/usecases/load_next_batch.dart';
@@ -22,6 +23,7 @@ class QuizState {
   final int learnedCount;
   final bool exhausted;
   final String nativeLang;
+  final List<String> activeLevels;
 
   const QuizState({
     this.loading = true,
@@ -34,6 +36,7 @@ class QuizState {
     this.learnedCount = 0,
     this.exhausted = false,
     this.nativeLang = 'uk',
+    this.activeLevels = const ['A1', 'A2', 'B1', 'B2'],
   });
 
   QuizState copy({
@@ -48,6 +51,7 @@ class QuizState {
     int? learnedCount,
     bool? exhausted,
     String? nativeLang,
+    List<String>? activeLevels,
   }) =>
       QuizState(
         loading: loading ?? this.loading,
@@ -60,6 +64,7 @@ class QuizState {
         learnedCount: learnedCount ?? this.learnedCount,
         exhausted: exhausted ?? this.exhausted,
         nativeLang: nativeLang ?? this.nativeLang,
+        activeLevels: activeLevels ?? this.activeLevels,
       );
 }
 
@@ -68,12 +73,33 @@ class QuizNotifier extends ChangeNotifier {
   final SubmitAnswer _submit;
   final MarkAsKnown _markKnown;
   final LoadNextBatch _loadBatch;
-  final Future<int> Function() _totalCount;
-  final Future<int> Function() _learnedCount;
+  final Future<int> Function(List<String>) _totalCount;
+  final Future<int> Function(List<String>) _learnedCount;
   final String Function() _nativeLang;
+  final List<String> Function() _activeLevels;
 
   QuizState state = const QuizState();
   bool _disposed = false;
+
+  QuizNotifier({
+    required GetNextQuestion getNext,
+    required SubmitAnswer submit,
+    required MarkAsKnown markKnown,
+    required LoadNextBatch loadBatch,
+    required Future<int> Function(List<String>) totalCount,
+    required Future<int> Function(List<String>) learnedCount,
+    required String Function() nativeLang,
+    required List<String> Function() activeLevels,
+  })  : _getNext = getNext,
+        _submit = submit,
+        _markKnown = markKnown,
+        _loadBatch = loadBatch,
+        _totalCount = totalCount,
+        _learnedCount = learnedCount,
+        _nativeLang = nativeLang,
+        _activeLevels = activeLevels {
+    _init();
+  }
 
   @override
   void dispose() {
@@ -86,40 +112,21 @@ class QuizNotifier extends ChangeNotifier {
     notifyListeners();
   }
 
-  QuizNotifier({
-    required GetNextQuestion getNext,
-    required SubmitAnswer submit,
-    required MarkAsKnown markKnown,
-    required LoadNextBatch loadBatch,
-    required Future<int> Function() totalCount,
-    required Future<int> Function() learnedCount,
-    required String Function() nativeLang,
-  })  : _getNext = getNext,
-        _submit = submit,
-        _markKnown = markKnown,
-        _loadBatch = loadBatch,
-        _totalCount = totalCount,
-        _learnedCount = learnedCount,
-        _nativeLang = nativeLang {
-    _init();
-  }
-
   Future<void> _init() async {
-    state = state.copy(nativeLang: _nativeLang());
+    state = state.copy(nativeLang: _nativeLang(), activeLevels: _activeLevels());
     await _refreshCounts();
     await _next();
   }
 
-  /// External trigger (called when native lang changes).
   Future<void> reload() async {
-    state = state.copy(nativeLang: _nativeLang());
+    state = state.copy(nativeLang: _nativeLang(), activeLevels: _activeLevels());
     await _refreshCounts();
     await _next();
   }
 
   Future<void> _refreshCounts() async {
-    final total = await _totalCount();
-    final learned = await _learnedCount();
+    final total = await _totalCount(state.activeLevels);
+    final learned = await _learnedCount(state.activeLevels);
     state = state.copy(totalCount: total, learnedCount: learned);
     _safeNotify();
   }
@@ -133,7 +140,10 @@ class QuizNotifier extends ChangeNotifier {
     );
     _safeNotify();
 
-    final q = await _getNext.call(nativeLang: state.nativeLang);
+    final q = await _getNext.call(
+      nativeLang: state.nativeLang,
+      activeLevels: state.activeLevels,
+    );
     if (q == null) {
       state = state.copy(loading: false, exhausted: true);
       _safeNotify();
@@ -188,7 +198,6 @@ class QuizNotifier extends ChangeNotifier {
     await _next();
   }
 
-  /// "I already know this word" — skip to next, mark as learned.
   Future<void> markCurrentAsKnown() async {
     final q = state.question;
     if (q == null || state.answered) return;
@@ -201,14 +210,16 @@ class QuizNotifier extends ChangeNotifier {
 final quizNotifierProvider = ChangeNotifierProvider<QuizNotifier>((ref) {
   final repo = ref.watch(wordsRepositoryProvider);
   final nativeLang = ref.watch(nativeLangProvider);
+  final levels = ref.watch(cefrLevelsProvider);
   return QuizNotifier(
     getNext: ref.watch(getNextQuestionProvider),
     submit: ref.watch(submitAnswerProvider),
     markKnown: ref.watch(markAsKnownProvider),
     loadBatch: ref.watch(loadNextBatchProvider),
-    totalCount: repo.totalCount,
-    learnedCount: repo.learnedCount,
+    totalCount: (lvls) => repo.totalCount(levels: lvls),
+    learnedCount: (lvls) => repo.learnedCount(levels: lvls),
     nativeLang: () => nativeLang.code,
+    activeLevels: () => levels.levels,
   );
 });
 

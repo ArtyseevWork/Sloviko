@@ -10,8 +10,11 @@ class GetNextQuestion {
 
   GetNextQuestion(this._repo, {Random? rng}) : _rng = rng ?? Random();
 
-  Future<Question?> call({required String nativeLang}) async {
-    final pool = await _repo.active(limit: 60);
+  Future<Question?> call({
+    required String nativeLang,
+    required List<String> activeLevels,
+  }) async {
+    final pool = await _repo.active(limit: 60, levels: activeLevels);
     if (pool.isEmpty) return null;
 
     final pickFromTop = _rng.nextBool();
@@ -27,6 +30,7 @@ class GetNextQuestion {
       needsNativeAnswer: needsNativeAnswer,
       nativeLang: nativeLang,
       count: 5,
+      levels: activeLevels,
     );
     final unique = <String>{...distractors}..remove(correct);
     while (unique.length < 5) {

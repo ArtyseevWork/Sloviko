@@ -1,9 +1,10 @@
 import 'dart:convert';
 
-/// Domain model for a vocabulary word. The learning target is always English;
-/// translations live in a map keyed by ISO code (e.g. 'ru', 'uk', 'pl').
-/// The user picks their native language in settings; quiz shows the matching
-/// translation. Adding a new language = new key in the map, no schema change.
+/// Domain model for a vocabulary word. Learning target is English; translations
+/// keyed by ISO code. Extended metadata (part of speech, phonetics, audio
+/// URLs, usage examples) is preserved when source dataset provides it — used
+/// by future UI features (IPA display, pronunciation playback, contextual
+/// examples).
 class Word {
   final int id;
   final String en;
@@ -17,6 +18,14 @@ class Word {
   final String batch;
   final String? cefr;
 
+  /// Extended metadata (nullable — not all sources provide it)
+  final String? type;          // part of speech: 'verb', 'noun', ...
+  final String? phoneticsUs;   // IPA US, e.g. '/əˈbændən/'
+  final String? phoneticsUk;   // IPA UK
+  final String? audioUs;       // MP3 URL US
+  final String? audioUk;       // MP3 URL UK
+  final List<String> examples; // usage examples
+
   const Word({
     required this.id,
     required this.en,
@@ -28,12 +37,16 @@ class Word {
     this.decayStep = 0,
     this.batch = 'seed',
     this.cefr,
+    this.type,
+    this.phoneticsUs,
+    this.phoneticsUk,
+    this.audioUs,
+    this.audioUk,
+    this.examples = const [],
   });
 
   bool get isLearned => learnedAt != null;
 
-  /// Translation for the user's native language. Falls back to first
-  /// available translation, then to '—'.
   String tr(String nativeLang) =>
       translations[nativeLang] ?? translations.values.firstOrNull ?? '—';
 
@@ -50,6 +63,12 @@ class Word {
     int? decayStep,
     String? batch,
     String? cefr,
+    String? type,
+    String? phoneticsUs,
+    String? phoneticsUk,
+    String? audioUs,
+    String? audioUk,
+    List<String>? examples,
   }) {
     return Word(
       id: id ?? this.id,
@@ -62,6 +81,12 @@ class Word {
       decayStep: decayStep ?? this.decayStep,
       batch: batch ?? this.batch,
       cefr: cefr ?? this.cefr,
+      type: type ?? this.type,
+      phoneticsUs: phoneticsUs ?? this.phoneticsUs,
+      phoneticsUk: phoneticsUk ?? this.phoneticsUk,
+      audioUs: audioUs ?? this.audioUs,
+      audioUk: audioUk ?? this.audioUk,
+      examples: examples ?? this.examples,
     );
   }
 
@@ -76,11 +101,21 @@ class Word {
         'decay_step': decayStep,
         'batch': batch,
         'cefr': cefr,
+        'type': type,
+        'phonetics_us': phoneticsUs,
+        'phonetics_uk': phoneticsUk,
+        'audio_us': audioUs,
+        'audio_uk': audioUk,
+        'examples': examples.isEmpty ? null : jsonEncode(examples),
       };
 
   factory Word.fromMap(Map<String, Object?> m) {
     final raw = (m['translations'] as String?) ?? '{}';
     final tr = (jsonDecode(raw) as Map).cast<String, String>();
+    final exRaw = m['examples'] as String?;
+    final examples = exRaw == null
+        ? <String>[]
+        : (jsonDecode(exRaw) as List).cast<String>();
     return Word(
       id: m['id'] as int,
       en: m['en'] as String,
@@ -92,21 +127,39 @@ class Word {
       decayStep: (m['decay_step'] as int?) ?? 0,
       batch: (m['batch'] as String?) ?? 'seed',
       cefr: m['cefr'] as String?,
+      type: m['type'] as String?,
+      phoneticsUs: m['phonetics_us'] as String?,
+      phoneticsUk: m['phonetics_uk'] as String?,
+      audioUs: m['audio_us'] as String?,
+      audioUk: m['audio_uk'] as String?,
+      examples: examples,
     );
   }
 
-  /// For seed/remote JSON. Expected shape:
-  ///   {"id":1,"en":"house","translations":{"ru":"дом","uk":"дім"},"cefr":"A2"}
+  /// For seed/remote JSON. Extended fields are picked up if present.
   factory Word.fromSeedJson(Map<String, Object?> j, {required String batch}) {
     final tr = (j['translations'] as Map?)?.cast<String, String>() ??
-        // Backward-compat: legacy {"ru":"…"} field.
         {if (j['ru'] != null) 'ru': j['ru'] as String};
+
+    final phonetics = j['phonetics'] as Map?;
+    final audio = j['audio'] as Map?;
+    final audioUs = (audio?['us'] as Map?)?['mp3'] as String?;
+    final audioUk = (audio?['uk'] as Map?)?['mp3'] as String?;
+
+    final examples = (j['examples'] as List?)?.cast<String>() ?? const <String>[];
+
     return Word(
       id: j['id'] as int,
       en: j['en'] as String,
       translations: tr,
       batch: batch,
       cefr: j['cefr'] as String?,
+      type: j['type'] as String?,
+      phoneticsUs: phonetics?['us'] as String?,
+      phoneticsUk: phonetics?['uk'] as String?,
+      audioUs: audioUs,
+      audioUk: audioUk,
+      examples: examples,
     );
   }
 

@@ -4,7 +4,6 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 import '../../../core/icons/detto_icon.dart';
 import '../../../core/locale/app_locale.dart';
-import '../../../core/locale/native_lang.dart';
 import '../../../core/router/go.dart';
 import '../../../core/theme/theme_provider.dart';
 import '../provider/stats_notifier.dart';
@@ -20,22 +19,31 @@ class StatsPage extends ConsumerWidget {
     final c = ref.watch(dettoThemeProvider).palette(context);
     final notifier = ref.watch(statsNotifierProvider);
     final s = notifier.snapshot;
-    final theme = ref.watch(dettoThemeProvider);
-    final nativeLang = ref.watch(nativeLangProvider);
 
     return Scaffold(
       backgroundColor: c.bg,
       body: SafeArea(
         child: Column(
           children: [
-            // Header: back + title + theme toggle
             Padding(
-              padding: EdgeInsets.fromLTRB(8.w, 6.h, 12.w, 6.h),
+              padding: EdgeInsets.fromLTRB(8.w, 6.h, 16.w, 6.h),
               child: Row(
                 children: [
-                  _IconBtn(
-                    icon: Icons.arrow_back_rounded,
+                  GestureDetector(
                     onTap: () => Go.back(context),
+                    child: Container(
+                      width: 36.w,
+                      height: 36.w,
+                      decoration: BoxDecoration(
+                        color: c.surface,
+                        borderRadius: BorderRadius.circular(10.r),
+                        border: Border.all(color: c.border),
+                      ),
+                      child: Center(
+                        child: DettoIcon(Icons.arrow_back_rounded,
+                            size: 18.sp, color: c.textSub),
+                      ),
+                    ),
                   ),
                   SizedBox(width: 8.w),
                   Expanded(
@@ -47,15 +55,6 @@ class StatsPage extends ConsumerWidget {
                         color: c.text,
                       ),
                     ),
-                  ),
-                  // Native language toggle
-                  _LangToggle(nativeLang: nativeLang),
-                  SizedBox(width: 8.w),
-                  _IconBtn(
-                    icon: Theme.of(context).brightness == Brightness.dark
-                        ? Icons.dark_mode_outlined
-                        : Icons.light_mode_outlined,
-                    onTap: () => theme.toggle(Theme.of(context).brightness),
                   ),
                 ],
               ),
@@ -106,66 +105,6 @@ class StatsPage extends ConsumerWidget {
                     ),
             ),
           ],
-        ),
-      ),
-    );
-  }
-}
-
-class _IconBtn extends ConsumerWidget {
-  final IconData icon;
-  final VoidCallback onTap;
-  const _IconBtn({required this.icon, required this.onTap});
-
-  @override
-  Widget build(BuildContext context, WidgetRef ref) {
-    final c = ref.watch(dettoThemeProvider).palette(context);
-    return GestureDetector(
-      onTap: onTap,
-      child: Container(
-        width: 36.w,
-        height: 36.w,
-        decoration: BoxDecoration(
-          color: c.surface,
-          borderRadius: BorderRadius.circular(10.r),
-          border: Border.all(color: c.border),
-        ),
-        child: Center(child: DettoIcon(icon, size: 18.sp, color: c.textSub)),
-      ),
-    );
-  }
-}
-
-class _LangToggle extends ConsumerWidget {
-  final NativeLangNotifier nativeLang;
-  const _LangToggle({required this.nativeLang});
-
-  @override
-  Widget build(BuildContext context, WidgetRef ref) {
-    final c = ref.watch(dettoThemeProvider).palette(context);
-    return GestureDetector(
-      onTap: () {
-        final next = nativeLang.code == 'uk' ? 'ru' : 'uk';
-        nativeLang.set(next);
-      },
-      child: Container(
-        height: 36.w,
-        padding: EdgeInsets.symmetric(horizontal: 12.w),
-        decoration: BoxDecoration(
-          color: c.surface,
-          borderRadius: BorderRadius.circular(10.r),
-          border: Border.all(color: c.border),
-        ),
-        child: Center(
-          child: Text(
-            nativeLang.code.toUpperCase(),
-            style: TextStyle(
-              fontSize: 13.sp,
-              fontWeight: FontWeight.w700,
-              letterSpacing: 1,
-              color: c.textSub,
-            ),
-          ),
         ),
       ),
     );

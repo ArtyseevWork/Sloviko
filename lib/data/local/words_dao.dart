@@ -11,14 +11,28 @@ class WordsDao {
 
   Database get _d => _db.db;
 
-  Future<int> count() async {
-    final r = await _d.rawQuery('SELECT COUNT(*) AS c FROM words');
+  Future<int> count({List<String>? levels}) async {
+    final (where, args) = _levelFilter(levels);
+    final r = await _d.rawQuery('SELECT COUNT(*) AS c FROM words$where', args);
     return (r.first['c'] as int?) ?? 0;
   }
 
-  Future<int> learnedCount() async {
-    final r = await _d.rawQuery('SELECT COUNT(*) AS c FROM words WHERE learned_at IS NOT NULL');
+  Future<int> learnedCount({List<String>? levels}) async {
+    final (lvlWhere, args) = _levelFilter(levels, prefixWith: 'AND');
+    final r = await _d.rawQuery(
+      'SELECT COUNT(*) AS c FROM words WHERE learned_at IS NOT NULL $lvlWhere',
+      args,
+    );
     return (r.first['c'] as int?) ?? 0;
+  }
+
+  /// Helper. Returns (' WHERE cefr IN (?,?)' or '', [args]).
+  /// When [prefixWith] is given (e.g. 'AND'), starts with that connector
+  /// instead of 'WHERE'.
+  (String, List<Object?>) _levelFilter(List<String>? levels, {String prefixWith = 'WHERE'}) {
+    if (levels == null || levels.isEmpty) return ('', const []);
+    final placeholders = List.filled(levels.length, '?').join(',');
+    return (' $prefixWith cefr IN ($placeholders)', List<Object?>.of(levels));
   }
 
   Future<int> inProgressCount() async {
@@ -40,28 +54,46 @@ class WordsDao {
     return rows.map(Word.fromMap).toList();
   }
 
-  Future<List<Word>> active({int limit = 200}) async {
+  /// Active (not yet learned), optionally filtered by CEFR levels.
+  /// Empty/null [levels] = no filter.
+  Future<List<Word>> active({
+    int limit = 200,
+    List<String>? levels,
+  }) async {
+    var where = 'learned_at IS NULL';
+    final args = <Object?>[];
+    if (levels != null && levels.isNotEmpty) {
+      final placeholders = List.filled(levels.length, '?').join(',');
+      where += ' AND cefr IN ($placeholders)';
+      args.addAll(levels);
+    }
     final rows = await _d.query(
       'words',
-      where: 'learned_at IS NULL',
+      where: where,
+      whereArgs: args,
       orderBy: 'short_score ASC, long_score ASC, id ASC',
       limit: limit,
     );
     return rows.map(Word.fromMap).toList();
   }
 
-  /// Random distractor strings in [nativeLang] for EN→native questions,
-  /// or English distractors for native→EN questions.
   Future<List<String>> randomDistractors({
     required int excludeId,
     required bool needsNativeAnswer,
     required String nativeLang,
     required int count,
+    List<String>? levels,
   }) async {
-    final rows = await _d.rawQuery(
-      'SELECT en, translations FROM words WHERE id != ? ORDER BY RANDOM() LIMIT ?',
-      [excludeId, count * 2], // pull extras since translations may be missing
-    );
+    var sql = 'SELECT en, translations FROM words WHERE id != ?';
+    final args = <Object?>[excludeId];
+    if (levels != null && levels.isNotEmpty) {
+      final placeholders = List.filled(levels.length, '?').join(',');
+      sql += ' AND cefr IN ($placeholders)';
+      args.addAll(levels);
+    }
+    sql += ' ORDER BY RANDOM() LIMIT ?';
+    args.add(count * 2);
+    final rows = await _d.rawQuery(sql, args);
     final out = <String>{};
     for (final r in rows) {
       if (needsNativeAnswer) {

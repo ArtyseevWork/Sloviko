@@ -4,7 +4,7 @@ import '../../data/repositories/words_repository.dart';
 /// Fetches the next batch from remote source; no-op if none available or
 /// network unreachable.
 class LoadNextBatch {
-  static const triggerRatio = 0.10;
+  static const triggerRatio = 0.50;
   final WordsRepository _repo;
   LoadNextBatch(this._repo);
 

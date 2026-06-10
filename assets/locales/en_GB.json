@@ -7,7 +7,8 @@
   "quiz_lang_native_uk": "UKRAINIAN",
   "quiz_word_learned": "Word learned!",
   "quiz_know_it": "I already know this word",
-  "quiz_exhausted": "All words learned for now!\nNew batch will load with internet.",
+  "quiz_exhausted": "No words available for the selected levels.\nChange levels or wait for the next batch to load.",
+  "quiz_open_settings": "Open settings",
   "stats_title": "Statistics",
   "stats_learned": "Learned",
   "stats_streak": "Streak",
@@ -18,5 +19,16 @@
   "stats_new": "New",
   "stats_in_progress": "In progress",
   "stats_days_ago": "days ago",
-  "stats_today": "today"
+  "stats_today": "today",
+  "settings_title": "Settings",
+  "settings_native_lang": "Native language",
+  "settings_native_lang_hint": "Translations of vocabulary words will use this language.",
+  "settings_theme": "Theme",
+  "settings_levels": "Difficulty levels",
+  "settings_levels_hint": "Only words from selected CEFR levels will appear in quizzes.",
+  "theme_light": "Light",
+  "theme_system": "System",
+  "theme_dark": "Dark",
+  "lang_uk": "Українська",
+  "lang_ru": "Русский"
 }

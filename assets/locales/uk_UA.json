@@ -7,7 +7,8 @@
   "quiz_lang_native_uk": "УКРАЇНСЬКА",
   "quiz_word_learned": "Слово вивчено!",
   "quiz_know_it": "Я вже знаю це слово",
-  "quiz_exhausted": "Усі слова поки вивчені!\nНова партія завантажиться з інтернетом.",
+  "quiz_exhausted": "Немає слів для обраних рівнів.\nЗмініть рівні або зачекайте наступну партію.",
+  "quiz_open_settings": "Відкрити налаштування",
   "stats_title": "Статистика",
   "stats_learned": "Вивчено",
   "stats_streak": "Серія",
@@ -18,5 +19,16 @@
   "stats_new": "Нові",
   "stats_in_progress": "Вивчаються",
   "stats_days_ago": "днів тому",
-  "stats_today": "сьогодні"
+  "stats_today": "сьогодні",
+  "settings_title": "Налаштування",
+  "settings_native_lang": "Рідна мова",
+  "settings_native_lang_hint": "Переклади слів будуть цією мовою.",
+  "settings_theme": "Тема",
+  "settings_levels": "Рівні складності",
+  "settings_levels_hint": "У квізі з'являтимуться слова лише з обраних рівнів CEFR.",
+  "theme_light": "Світла",
+  "theme_system": "Системна",
+  "theme_dark": "Темна",
+  "lang_uk": "Українська",
+  "lang_ru": "Російська"
 }
