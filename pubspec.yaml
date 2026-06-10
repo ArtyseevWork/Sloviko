@@ -1,0 +1,57 @@
+name: morseng
+description: "LEXIO - English vocabulary learning app"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  # State / DI
+  flutter_riverpod: ^2.5.1
+
+  # UI
+  flutter_screenutil: ^5.9.3
+  google_fonts: ^6.2.1
+  confetti: ^0.7.0
+
+  # Navigation
+  go_router: ^14.2.7
+
+  # Storage
+  sqflite: ^2.3.3+1
+  path: ^1.9.0
+  path_provider: ^2.1.4
+  shared_preferences: ^2.3.2
+
+  # Network
+  http: ^1.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/seed/
+    - assets/locales/
+
+flutter_launcher_icons:
+  android: "ic_launcher"
+  ios: true
+  image_path: "assets/icon/app_icon.png"
+  remove_alpha_ios: true
+  background_color_ios: "#1E4FCC"
+  adaptive_icon_background: "#1E4FCC"
+  adaptive_icon_foreground: "assets/icon/app_icon.png"
+  min_sdk_android: 21
