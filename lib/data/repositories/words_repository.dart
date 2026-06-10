@@ -32,8 +32,11 @@ class WordsRepository {
 
   /// Defined batch progression. After seed, load batches in this order.
   static const batchOrder = [
+    'a1_batch_1',
     'a2_batch_2',
+    'b1_batch_1',
     'b2_batch_1',
+    'c1_batch_1',
   ];
 
   /// Ensures DB is open and seed words are loaded on first launch.

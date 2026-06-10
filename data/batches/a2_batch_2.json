@@ -2,1086 +2,3256 @@
   "batch": "a2_batch_2",
   "cefr": "A2",
   "version": 1,
+  "source": "tyypgzl/Oxford-5000-words",
   "words": [
     {
-      "id": 101,
-      "en": "room",
-      "translations": {
-        "ru": "комната",
-        "uk": "кімната"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 102,
-      "en": "bed",
-      "translations": {
-        "ru": "кровать",
-        "uk": "ліжко"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 103,
-      "en": "kitchen",
-      "translations": {
-        "ru": "кухня",
-        "uk": "кухня"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 104,
-      "en": "bathroom",
-      "translations": {
-        "ru": "ванная",
-        "uk": "ванна"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 105,
-      "en": "floor",
-      "translations": {
-        "ru": "пол",
-        "uk": "підлога"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 106,
-      "en": "wall",
-      "translations": {
-        "ru": "стена",
-        "uk": "стіна"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 107,
-      "en": "garden",
-      "translations": {
-        "ru": "сад",
-        "uk": "сад"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 108,
-      "en": "park",
-      "translations": {
-        "ru": "парк",
-        "uk": "парк"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 109,
-      "en": "shop",
-      "translations": {
-        "ru": "магазин",
-        "uk": "магазин"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 110,
-      "en": "market",
-      "translations": {
-        "ru": "рынок",
-        "uk": "ринок"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 111,
-      "en": "train",
-      "translations": {
-        "ru": "поезд",
-        "uk": "потяг"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 112,
-      "en": "plane",
-      "translations": {
-        "ru": "самолёт",
-        "uk": "літак"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 113,
-      "en": "ship",
-      "translations": {
-        "ru": "корабль",
-        "uk": "корабель"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 114,
-      "en": "bicycle",
-      "translations": {
-        "ru": "велосипед",
-        "uk": "велосипед"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 115,
-      "en": "bag",
-      "translations": {
-        "ru": "сумка",
-        "uk": "сумка"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 116,
-      "en": "key",
-      "translations": {
-        "ru": "ключ",
-        "uk": "ключ"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 117,
-      "en": "phone",
-      "translations": {
-        "ru": "телефон",
-        "uk": "телефон"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 118,
-      "en": "clock",
-      "translations": {
-        "ru": "часы",
-        "uk": "годинник"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 119,
-      "en": "computer",
-      "translations": {
-        "ru": "компьютер",
-        "uk": "комп'ютер"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 120,
-      "en": "hand",
-      "translations": {
-        "ru": "рука",
-        "uk": "рука"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 121,
-      "en": "head",
-      "translations": {
-        "ru": "голова",
-        "uk": "голова"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 122,
-      "en": "eye",
-      "translations": {
-        "ru": "глаз",
-        "uk": "око"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 123,
-      "en": "ear",
-      "translations": {
-        "ru": "ухо",
-        "uk": "вухо"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 124,
-      "en": "mouth",
-      "translations": {
-        "ru": "рот",
-        "uk": "рот"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 125,
-      "en": "nose",
-      "translations": {
-        "ru": "нос",
-        "uk": "ніс"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 126,
-      "en": "hair",
-      "translations": {
-        "ru": "волосы",
-        "uk": "волосся"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 127,
-      "en": "leg",
-      "translations": {
-        "ru": "нога",
-        "uk": "нога"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 128,
-      "en": "finger",
-      "translations": {
-        "ru": "палец",
-        "uk": "палець"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 129,
-      "en": "heart",
-      "translations": {
-        "ru": "сердце",
-        "uk": "серце"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 130,
-      "en": "body",
-      "translations": {
-        "ru": "тело",
-        "uk": "тіло"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 131,
-      "en": "color",
-      "translations": {
-        "ru": "цвет",
-        "uk": "колір"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 132,
-      "en": "voice",
-      "translations": {
-        "ru": "голос",
-        "uk": "голос"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 133,
-      "en": "song",
-      "translations": {
-        "ru": "песня",
-        "uk": "пісня"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 134,
-      "en": "game",
-      "translations": {
-        "ru": "игра",
-        "uk": "гра"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 135,
-      "en": "ball",
-      "translations": {
-        "ru": "мяч",
-        "uk": "м'яч"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 136,
-      "en": "letter",
-      "translations": {
-        "ru": "письмо",
-        "uk": "лист"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 137,
-      "en": "word",
-      "translations": {
-        "ru": "слово",
-        "uk": "слово"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 138,
-      "en": "question",
-      "translations": {
-        "ru": "вопрос",
-        "uk": "питання"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 139,
-      "en": "answer",
-      "translations": {
-        "ru": "ответ",
-        "uk": "відповідь"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 140,
-      "en": "problem",
-      "translations": {
-        "ru": "проблема",
-        "uk": "проблема"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 141,
-      "en": "idea",
-      "translations": {
-        "ru": "идея",
-        "uk": "ідея"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 142,
-      "en": "dream",
-      "translations": {
-        "ru": "мечта",
-        "uk": "мрія"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 143,
-      "en": "gift",
-      "translations": {
-        "ru": "подарок",
-        "uk": "подарунок"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 144,
-      "en": "picture",
-      "translations": {
-        "ru": "картина",
-        "uk": "картина"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 145,
-      "en": "photo",
-      "translations": {
-        "ru": "фото",
-        "uk": "фото"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 146,
-      "en": "news",
-      "translations": {
-        "ru": "новости",
-        "uk": "новини"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 147,
-      "en": "language",
-      "translations": {
-        "ru": "язык",
-        "uk": "мова"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 148,
-      "en": "country",
-      "translations": {
-        "ru": "страна",
-        "uk": "країна"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 149,
-      "en": "world",
-      "translations": {
-        "ru": "мир",
-        "uk": "світ"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 150,
-      "en": "weather",
-      "translations": {
-        "ru": "погода",
-        "uk": "погода"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 151,
-      "en": "summer",
-      "translations": {
-        "ru": "лето",
-        "uk": "літо"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 152,
-      "en": "winter",
-      "translations": {
-        "ru": "зима",
-        "uk": "зима"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 153,
-      "en": "spring",
-      "translations": {
-        "ru": "весна",
-        "uk": "весна"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 154,
-      "en": "autumn",
-      "translations": {
-        "ru": "осень",
-        "uk": "осінь"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 155,
-      "en": "hour",
-      "translations": {
-        "ru": "час",
-        "uk": "година"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 156,
-      "en": "minute",
-      "translations": {
-        "ru": "минута",
-        "uk": "хвилина"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 157,
-      "en": "today",
-      "translations": {
-        "ru": "сегодня",
-        "uk": "сьогодні"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 158,
-      "en": "tomorrow",
-      "translations": {
-        "ru": "завтра",
-        "uk": "завтра"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 159,
-      "en": "yesterday",
-      "translations": {
-        "ru": "вчера",
-        "uk": "вчора"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 160,
-      "en": "number",
-      "translations": {
-        "ru": "число",
-        "uk": "число"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 161,
-      "en": "to learn",
-      "translations": {
-        "ru": "учить",
-        "uk": "вчити"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 162,
-      "en": "to teach",
-      "translations": {
-        "ru": "учить",
-        "uk": "навчати"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 163,
-      "en": "to help",
-      "translations": {
-        "ru": "помогать",
-        "uk": "допомагати"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 164,
-      "en": "to play",
-      "translations": {
-        "ru": "играть",
-        "uk": "грати"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 165,
-      "en": "to run",
-      "translations": {
-        "ru": "бежать",
-        "uk": "бігти"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 166,
-      "en": "to walk",
-      "translations": {
-        "ru": "идти пешком",
-        "uk": "йти пішки"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 167,
-      "en": "to swim",
-      "translations": {
-        "ru": "плавать",
-        "uk": "плавати"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 168,
-      "en": "to fly",
-      "translations": {
-        "ru": "летать",
-        "uk": "літати"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 169,
-      "en": "to drive",
-      "translations": {
-        "ru": "водить",
-        "uk": "керувати"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 170,
-      "en": "to sit",
-      "translations": {
-        "ru": "сидеть",
-        "uk": "сидіти"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 171,
-      "en": "to stand",
-      "translations": {
-        "ru": "стоять",
-        "uk": "стояти"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 172,
-      "en": "to wait",
-      "translations": {
-        "ru": "ждать",
-        "uk": "чекати"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 173,
-      "en": "to start",
-      "translations": {
-        "ru": "начинать",
-        "uk": "починати"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 174,
-      "en": "to stop",
-      "translations": {
-        "ru": "останавливать",
-        "uk": "зупиняти"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 175,
-      "en": "to finish",
-      "translations": {
-        "ru": "заканчивать",
-        "uk": "закінчувати"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 176,
-      "en": "to open",
-      "translations": {
-        "ru": "открывать",
-        "uk": "відкривати"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 177,
-      "en": "to close",
-      "translations": {
-        "ru": "закрывать",
-        "uk": "закривати"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 178,
-      "en": "to make",
-      "translations": {
-        "ru": "делать",
-        "uk": "робити"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 179,
-      "en": "to build",
-      "translations": {
-        "ru": "строить",
-        "uk": "будувати"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 180,
-      "en": "to break",
-      "translations": {
-        "ru": "ломать",
-        "uk": "ламати"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 181,
-      "en": "to find",
-      "translations": {
-        "ru": "находить",
-        "uk": "знаходити"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 182,
-      "en": "to lose",
-      "translations": {
-        "ru": "терять",
-        "uk": "втрачати"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 183,
-      "en": "to win",
-      "translations": {
-        "ru": "побеждать",
-        "uk": "перемагати"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 184,
-      "en": "to call",
-      "translations": {
-        "ru": "звонить",
-        "uk": "телефонувати"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 185,
-      "en": "to send",
-      "translations": {
-        "ru": "отправлять",
-        "uk": "відправляти"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 186,
-      "en": "to ask",
-      "translations": {
-        "ru": "спрашивать",
-        "uk": "питати"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 187,
-      "en": "to remember",
-      "translations": {
-        "ru": "помнить",
-        "uk": "пам'ятати"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 188,
-      "en": "to forget",
-      "translations": {
-        "ru": "забывать",
-        "uk": "забувати"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 189,
-      "en": "to like",
-      "translations": {
-        "ru": "нравиться",
-        "uk": "подобатися"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 190,
-      "en": "to need",
-      "translations": {
-        "ru": "нуждаться",
-        "uk": "потребувати"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 191,
-      "en": "to live",
-      "translations": {
-        "ru": "жить",
-        "uk": "жити"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 192,
-      "en": "to laugh",
-      "translations": {
-        "ru": "смеяться",
-        "uk": "сміятися"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 193,
-      "en": "to cry",
-      "translations": {
-        "ru": "плакать",
-        "uk": "плакати"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 194,
-      "en": "to smile",
-      "translations": {
-        "ru": "улыбаться",
-        "uk": "посміхатися"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 195,
-      "en": "to sing",
-      "translations": {
-        "ru": "петь",
-        "uk": "співати"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 196,
-      "en": "to dance",
-      "translations": {
-        "ru": "танцевать",
-        "uk": "танцювати"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 197,
-      "en": "to cook",
-      "translations": {
-        "ru": "готовить",
-        "uk": "готувати"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 198,
-      "en": "to clean",
-      "translations": {
-        "ru": "убирать",
-        "uk": "прибирати"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 199,
-      "en": "to wash",
-      "translations": {
-        "ru": "мыть",
-        "uk": "мити"
-      },
-      "cefr": "A2"
-    },
-    {
-      "id": 200,
-      "en": "to pay",
-      "translations": {
-        "ru": "платить",
-        "uk": "платити"
-      },
-      "cefr": "A2"
-    },
-    {
       "id": 201,
-      "en": "big",
+      "en": "all right",
       "translations": {
-        "ru": "большой",
-        "uk": "великий"
+        "ru": "нормальный",
+        "uk": "нормальний"
       },
-      "cefr": "A2"
+      "cefr": "A2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/all-right_2",
+      "phonetics": {
+        "us": "/ɔːl ˈraɪt/",
+        "uk": "/ɔːl ˈraɪt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/all/all_r/all_right_1_us_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/all/all_r/all_right_1_us_3.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/all/all_r/all_right_1_gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/all/all_r/all_right_1_gb_2.ogg"
+        }
+      },
+      "examples": [
+        "Is the coffee all right?",
+        "Are you getting along all right in your new job?",
+        "‘They're off to Spain next week.’ ‘It's all right for some, isn't it?’ (= some people are lucky)",
+        "‘How was your trip?’ ‘All right.’"
+      ]
     },
     {
       "id": 202,
-      "en": "small",
+      "en": "all right",
       "translations": {
-        "ru": "маленький",
-        "uk": "малий"
+        "ru": "нормально",
+        "uk": "нормально"
       },
-      "cefr": "A2"
+      "cefr": "A2",
+      "type": "adverb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/all-right_2",
+      "phonetics": {
+        "us": "/ɔːl ˈraɪt/",
+        "uk": "/ɔːl ˈraɪt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/all/all_r/all_right_1_us_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/all/all_r/all_right_1_us_3.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/all/all_r/all_right_1_gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/all/all_r/all_right_1_gb_2.ogg"
+        }
+      },
+      "examples": [
+        "Is the coffee all right?",
+        "Are you getting along all right in your new job?",
+        "‘They're off to Spain next week.’ ‘It's all right for some, isn't it?’ (= some people are lucky)",
+        "‘How was your trip?’ ‘All right.’"
+      ]
     },
     {
       "id": 203,
-      "en": "good",
+      "en": "allow",
       "translations": {
-        "ru": "хороший",
-        "uk": "хороший"
+        "ru": "разрешать",
+        "uk": "дозволяти"
       },
-      "cefr": "A2"
+      "cefr": "A2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/allow",
+      "phonetics": {
+        "us": "/əˈlaʊ/",
+        "uk": "/əˈlaʊ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/all/allow/allow__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/all/allow/allow__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/all/allow/allow__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/all/allow/allow__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " allow somebody/something to do something His parents won't allow him to stay out late.",
+        "He allowed his mind to wander.",
+        "The law allowed companies to dismiss workers without any reason.",
+        " be allowed to do something He is not allowed to stay out late.",
+        "Students are only allowed to use the equipment under supervision.",
+        "This research must be allowed to continue.",
+        " allow yourself to do something He refused to allow himself to be kept quiet.",
+        "She won't allow herself to be dictated to.",
+        " be allowed Eating is not allowed in the classrooms.",
+        "He received the maximum sentence allowed by law.",
+        " allow something We do not allow eating in the classrooms."
+      ]
     },
     {
       "id": 204,
-      "en": "bad",
+      "en": "almost",
       "translations": {
-        "ru": "плохой",
-        "uk": "поганий"
+        "ru": "почти",
+        "uk": "майже"
       },
-      "cefr": "A2"
+      "cefr": "A2",
+      "type": "adverb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/almost",
+      "phonetics": {
+        "us": "/ˈɔːlməʊst/",
+        "uk": "/ˈɔːlməʊst/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/alm/almos/almost__us_1_rr.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/alm/almos/almost__us_1_rr.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/alm/almos/almost__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/alm/almos/almost__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "I like almost all of them.",
+        "They'll eat almost anything.",
+        "Almost no one (= hardly anyone) believed him.",
+        "The castle is almost entirely surrounded by water.",
+        "It's a mistake they almost always make.",
+        "The painting is almost certainly a forgery.",
+        "Her handwriting is almost impossible to read.",
+        "The team faces almost certain defeat in today's match.",
+        "The workforce has almost doubled in the past ten years.",
+        "I almost forgot your birthday.",
+        "Housing has become almost as big a problem as education.",
+        "The story seems almost too strange to be true."
+      ]
     },
     {
       "id": 205,
-      "en": "happy",
+      "en": "alone",
       "translations": {
-        "ru": "счастливый",
-        "uk": "щасливий"
+        "ru": "одинокий",
+        "uk": "самотній"
       },
-      "cefr": "A2"
+      "cefr": "A2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/alone",
+      "phonetics": {
+        "us": "/əˈləʊn/",
+        "uk": "/əˈləʊn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/alo/alone/alone__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/alo/alone/alone__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/alo/alone/alone__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/alo/alone/alone__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " not alone in Tom is not alone in finding Rick hard to work with.",
+        " be alone with somebody/something She did not want to be alone with him.",
+        "He was afraid of being alone with his thoughts.",
+        "He lives alone.",
+        "She was sitting all alone in the hall.",
+        "Finally the two of us were alone together.",
+        "I don't like going out alone at night."
+      ]
     },
     {
       "id": 206,
-      "en": "sad",
+      "en": "alone",
       "translations": {
-        "ru": "грустный",
-        "uk": "сумний"
+        "ru": "в одиночестве",
+        "uk": "на самоті"
       },
-      "cefr": "A2"
+      "cefr": "A2",
+      "type": "adverb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/alone",
+      "phonetics": {
+        "us": "/əˈləʊn/",
+        "uk": "/əˈləʊn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/alo/alone/alone__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/alo/alone/alone__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/alo/alone/alone__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/alo/alone/alone__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " not alone in Tom is not alone in finding Rick hard to work with.",
+        " be alone with somebody/something She did not want to be alone with him.",
+        "He was afraid of being alone with his thoughts.",
+        "He lives alone.",
+        "She was sitting all alone in the hall.",
+        "Finally the two of us were alone together.",
+        "I don't like going out alone at night."
+      ]
     },
     {
       "id": 207,
-      "en": "easy",
+      "en": "along",
       "translations": {
-        "ru": "лёгкий",
-        "uk": "легкий"
+        "ru": "вдоль",
+        "uk": "вздовж"
       },
-      "cefr": "A2"
+      "cefr": "A2",
+      "type": "adverb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/along_2",
+      "phonetics": {
+        "us": "/əˈlɔːŋ/",
+        "uk": "/əˈlɒŋ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/alo/along/along__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/alo/along/along__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/alo/along/along__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/alo/along/along__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "I was just walking along singing to myself.",
+        "He pointed out various landmarks as we drove along."
+      ]
     },
     {
       "id": 208,
-      "en": "hard",
+      "en": "already",
       "translations": {
-        "ru": "трудный",
-        "uk": "важкий"
+        "ru": "уже",
+        "uk": "вже"
       },
-      "cefr": "A2"
+      "cefr": "A2",
+      "type": "adverb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/already",
+      "phonetics": {
+        "us": "/ɔːlˈredi/",
+        "uk": "/ɔːlˈredi/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/alr/alrea/already__us_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/alr/alrea/already__us_3.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/alr/alrea/already__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/alr/alrea/already__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "‘Lunch?’ ‘No thanks, I've already eaten.’",
+        "We got there early but Mike had already left.",
+        "By 2015, filming of the sequel was already under way.",
+        "Much of what he said I knew already."
+      ]
     },
     {
       "id": 209,
-      "en": "fast",
+      "en": "alternative",
       "translations": {
-        "ru": "быстрый",
-        "uk": "швидкий"
+        "ru": "альтернатива",
+        "uk": "альтернатива"
       },
-      "cefr": "A2"
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/alternative_1",
+      "phonetics": {
+        "us": "/ɔːlˈtɜːrnətɪv/",
+        "uk": "/ɔːlˈtɜːnətɪv/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/alt/alter/alternative__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/alt/alter/alternative__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/alt/alter/alternative__gb_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/alt/alter/alternative__gb_3.ogg"
+        }
+      },
+      "examples": [
+        "The car is too expensive so we're trying to find a cheaper alternative.",
+        "There is a vegetarian alternative on the menu every day.",
+        "We had no alternative but to fire Gibson. ",
+        "to offer/provide an alternative ",
+        "alternative to something Does this offer a viable alternative to the existing system?",
+        " as an alternative to something Fruit juice is provided as an alternative to alcoholic drinks.",
+        " alternative for somebody This treatment is the only alternative for some patients."
+      ]
     },
     {
       "id": 210,
-      "en": "slow",
+      "en": "amount",
       "translations": {
-        "ru": "медленный",
-        "uk": "повільний"
+        "ru": "количество",
+        "uk": "кількість"
       },
-      "cefr": "A2"
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/amount_1",
+      "phonetics": {
+        "us": "/əˈmaʊnt/",
+        "uk": "/əˈmaʊnt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/amo/amoun/amount__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/amo/amoun/amount__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/amo/amoun/amount__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/amo/amoun/amount__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "I was amazed at the amount he could eat.",
+        "Mix the colours in equal amounts.",
+        " amount of something an amount of money/information/work/time",
+        "A certain amount of time has already been spent on the project.",
+        "The server is designed to store huge amounts of data.",
+        "Try to reduce the amount of energy and water you use at home.",
+        "Faculty should increase the amount and quality of feedback they provide."
+      ]
     },
     {
       "id": 211,
-      "en": "new",
+      "en": "ancient",
       "translations": {
-        "ru": "новый",
-        "uk": "новий"
+        "ru": "древний",
+        "uk": "стародавній"
       },
-      "cefr": "A2"
+      "cefr": "A2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/ancient",
+      "phonetics": {
+        "us": "/ˈeɪnʃənt/",
+        "uk": "/ˈeɪnʃənt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/anc/ancie/ancient__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/anc/ancie/ancient__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/anc/ancie/ancient__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/anc/ancie/ancient__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "Archaeologists are excavating the ruined temples of this ancient civilization.",
+        "ancient Greece/Egypt/Rome",
+        "the ancient city of Petra"
+      ]
     },
     {
       "id": 212,
-      "en": "old",
+      "en": "ankle",
       "translations": {
-        "ru": "старый",
-        "uk": "старий"
+        "ru": "лодыжка",
+        "uk": "щиколотка"
       },
-      "cefr": "A2"
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/ankle",
+      "phonetics": {
+        "us": "/ˈæŋkl/",
+        "uk": "/ˈæŋkl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ank/ankle/ankle__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/ank/ankle/ankle__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ank/ankle/ankle__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/ank/ankle/ankle__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "to sprain/break/twist your ankle",
+        "She suffered a serious ankle injury in training.",
+        "to have a broken/twisted/fractured/sprained ankle",
+        "ankle boots (= that cover the ankle)",
+        "We found ourselves ankle-deep in water (= the water came up to our ankles).",
+        "My ankles have swollen.",
+        "The injury required surgery on his right ankle.",
+        "He will wear an electronic ankle bracelet, which allows police to track him."
+      ]
     },
     {
       "id": 213,
-      "en": "hot",
+      "en": "any",
       "translations": {
-        "ru": "горячий",
-        "uk": "гарячий"
+        "ru": "совсем",
+        "uk": "зовсім"
       },
-      "cefr": "A2"
+      "cefr": "A2",
+      "type": "adverb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/any_3",
+      "phonetics": {
+        "us": "/ˈeni/",
+        "uk": "/ˈeni/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/any/any__/any__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/any/any__/any__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/any/any__/any__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/any/any__/any__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "He wasn't any good at French.",
+        "I can't run any faster.",
+        "Is your father feeling any better?",
+        "I don't want any more.",
+        "If you don't tell them, nobody will be any the wiser (= they will not find out about it)."
+      ]
     },
     {
       "id": 214,
-      "en": "cold",
+      "en": "any more",
       "translations": {
-        "ru": "холодный",
-        "uk": "холодний"
+        "ru": "больше",
+        "uk": "більше"
       },
-      "cefr": "A2"
+      "cefr": "A2",
+      "type": "adverb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/any-more",
+      "phonetics": {
+        "us": "/ˌeni ˈmɔːr/",
+        "uk": "/ˌeni ˈmɔː(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/any/any_m/any_more_1_us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/any/any_m/any_more_1_us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/any/any_m/any_more_1_gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/any/any_m/any_more_1_gb_1.ogg"
+        }
+      },
+      "examples": [
+        "She doesn't live here any more.",
+        "Why doesn't he speak to me any more?",
+        "Now she won't have to go out to work any more."
+      ]
     },
     {
       "id": 215,
-      "en": "beautiful",
+      "en": "anyway",
       "translations": {
-        "ru": "красивый",
-        "uk": "красивий"
+        "ru": "в любом случае",
+        "uk": "у будь-якому разі"
       },
-      "cefr": "A2"
+      "cefr": "A2",
+      "type": "adverb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/anyway",
+      "phonetics": {
+        "us": "/ˈeniweɪ/",
+        "uk": "/ˈeniweɪ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/any/anywa/anyway__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/any/anywa/anyway__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/any/anywa/anyway__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/any/anywa/anyway__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "It's too expensive and anyway the colour doesn't suit you.",
+        "We're not perfect, but it doesn't really matter anyway.",
+        "It's too late now, anyway."
+      ]
     },
     {
       "id": 216,
-      "en": "strong",
+      "en": "anywhere",
       "translations": {
-        "ru": "сильный",
-        "uk": "сильний"
+        "ru": "где-нибудь",
+        "uk": "будь-де"
       },
-      "cefr": "A2"
+      "cefr": "A2",
+      "type": "adverb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/anywhere_1",
+      "phonetics": {
+        "us": "/ˈeniwer/",
+        "uk": "/ˈeniweə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/any/anywh/anywhere__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/any/anywh/anywhere__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/any/anywh/anywhere__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/any/anywh/anywhere__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "I can't see it anywhere.",
+        "Did you go anywhere interesting?",
+        "Many of these animals are not found anywhere else.",
+        "He's never been anywhere outside Britain."
+      ]
     },
     {
       "id": 217,
-      "en": "weak",
+      "en": "app",
       "translations": {
-        "ru": "слабый",
-        "uk": "слабкий"
+        "ru": "приложение",
+        "uk": "застосунок"
       },
-      "cefr": "A2"
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/app",
+      "phonetics": {
+        "us": "/æp/",
+        "uk": "/æp/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/app/app__/app__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/app/app__/app__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/app/app__/app__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/app/app__/app__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "You first need to install the app on your device.",
+        "to download/launch an app",
+        "to build/develop an app",
+        "Have you got the dictionary app on your phone?",
+        "Gaming today is all about mobile app downloads.",
+        "app developers",
+        "The app is available on/in the app store."
+      ]
     },
     {
       "id": 218,
-      "en": "smart",
+      "en": "appear",
       "translations": {
-        "ru": "умный",
-        "uk": "розумний"
+        "ru": "появляться",
+        "uk": "з'являтися"
       },
-      "cefr": "A2"
+      "cefr": "A2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/appear",
+      "phonetics": {
+        "us": "/əˈpɪr/",
+        "uk": "/əˈpɪə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/app/appea/appear__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/app/appea/appear__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/app/appea/appear__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/app/appea/appear__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "Three days later a rash appeared.",
+        "Symptoms usually start appearing within two to three days.",
+        " + adv./prep. A cat suddenly appeared out of nowhere.",
+        "Smoke appeared on the horizon.",
+        "A bus appeared around the corner.",
+        "Posters for the gig appeared all over town.",
+        "New shoots are just appearing at the base of the plant."
+      ]
     },
     {
       "id": 219,
-      "en": "kind",
+      "en": "appearance",
       "translations": {
-        "ru": "добрый",
-        "uk": "добрий"
+        "ru": "внешний вид",
+        "uk": "зовнішній вигляд"
       },
-      "cefr": "A2"
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/appearance",
+      "phonetics": {
+        "us": "/əˈpɪrəns/",
+        "uk": "/əˈpɪərəns/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/app/appea/appearance__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/app/appea/appearance__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/app/appea/appearance__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/app/appea/appearance__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "the physical/outward/external appearance of something",
+        "She had never been greatly concerned about her appearance.",
+        "The dog was similar in general appearance to a spaniel.",
+        "He gave every appearance of (= seemed very much to be) enjoying himself.",
+        "Judging by appearances can be misleading.",
+        "To all appearances (= as far as people could tell) he was dead."
+      ]
     },
     {
       "id": 220,
-      "en": "free",
+      "en": "apply",
       "translations": {
-        "ru": "свободный",
-        "uk": "вільний"
+        "ru": "подавать заявку",
+        "uk": "подавати заявку"
       },
-      "cefr": "A2"
+      "cefr": "A2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/apply",
+      "phonetics": {
+        "us": "/əˈplaɪ/",
+        "uk": "/əˈplaɪ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/app/apply/apply__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/app/apply/apply__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/app/apply/apply__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/app/apply/apply__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "You should apply in person/by letter.",
+        " apply for something I have decided to apply for this new job.",
+        "They have successfully applied for political asylum.",
+        "to apply for a visa/passport/grant/licence",
+        "The developers applied for planning permission to build over 200 houses.",
+        " apply to somebody/something to apply to a company/university",
+        " apply to somebody/something for something They may apply to the court for the decision to be reversed.",
+        " apply to do something He has applied to join the army."
+      ]
+    },
+    {
+      "id": 221,
+      "en": "architect",
+      "translations": {
+        "ru": "архитектор",
+        "uk": "архітектор"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/architect_1",
+      "phonetics": {
+        "us": "/ˈɑːrkɪtekt/",
+        "uk": "/ˈɑːkɪtekt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/arc/archi/architect__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/arc/archi/architect__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/arc/archi/architect__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/arc/archi/architect__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The house was designed by architect Louis Kahn.",
+        "She's a London-based architect and interior designer.",
+        "In 1721 he was named chief architect of the cathedral."
+      ]
+    },
+    {
+      "id": 222,
+      "en": "architecture",
+      "translations": {
+        "ru": "архитектура",
+        "uk": "архітектура"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/architecture",
+      "phonetics": {
+        "us": "/ˈɑːrkɪtektʃər/",
+        "uk": "/ˈɑːkɪtektʃə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/arc/archi/architecture__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/arc/archi/architecture__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/arc/archi/architecture__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/arc/archi/architecture__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "to study architecture",
+        "She's a professor of architecture at the University of Oregon.",
+        "an architecture student/critic"
+      ]
+    },
+    {
+      "id": 223,
+      "en": "argue",
+      "translations": {
+        "ru": "спорить",
+        "uk": "сперечатися"
+      },
+      "cefr": "A2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/argue",
+      "phonetics": {
+        "us": "/ˈɑːrɡjuː/",
+        "uk": "/ˈɑːɡjuː/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/arg/argue/argue__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/arg/argue/argue__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/arg/argue/argue__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/arg/argue/argue__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "My brothers are always arguing.",
+        "He's offering to pay so who am I to argue?",
+        " argue with somebody about/over something We're always arguing with each other about money.",
+        " argue about something I know it was a stupid thing to argue about. ",
+        "argue over something All families seem to argue over money.",
+        " argue with somebody I don't want to argue with you—just do it!"
+      ]
+    },
+    {
+      "id": 224,
+      "en": "argument",
+      "translations": {
+        "ru": "спор",
+        "uk": "суперечка"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/argument",
+      "phonetics": {
+        "us": "/ˈɑːrɡjumənt/",
+        "uk": "/ˈɑːɡjumənt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/arg/argum/argument__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/arg/argum/argument__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/arg/argum/argument__gb_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/arg/argum/argument__gb_3.ogg"
+        }
+      },
+      "examples": [
+        "to win/lose an argument ",
+        "After some heated argument a decision was finally taken.",
+        " argument with somebody She got into an argument with the teacher.",
+        " argument about/over something He was killed during a violent argument over money.",
+        " argument with somebody about/over something We had an argument with the waiter about the bill.",
+        " argument between A and B Jack was always the one who settled arguments between us."
+      ]
+    },
+    {
+      "id": 225,
+      "en": "army",
+      "translations": {
+        "ru": "армия",
+        "uk": "армія"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/army",
+      "phonetics": {
+        "us": "/ˈɑːrmi/",
+        "uk": "/ˈɑːmi/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/arm/army_/army__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/arm/army_/army__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/arm/army_/army__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/arm/army_/army__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The two opposing armies faced each other across the battlefield.",
+        "He commanded the army of occupation after the war."
+      ]
+    },
+    {
+      "id": 226,
+      "en": "arrange",
+      "translations": {
+        "ru": "организовывать",
+        "uk": "організовувати"
+      },
+      "cefr": "A2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/arrange",
+      "phonetics": {
+        "us": "/əˈreɪndʒ/",
+        "uk": "/əˈreɪndʒ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/arr/arran/arrange__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/arr/arran/arrange__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/arr/arran/arrange__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/arr/arran/arrange__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " arrange something The party was arranged quickly.",
+        "Can I arrange an appointment for Monday?",
+        "The meeting was provisionally arranged for 9 October. ",
+        "She arranged a loan with the bank.",
+        "We met at six, as arranged.",
+        " arrange how, where, etc… We've still got to arrange how to get to the airport.",
+        " arrange to do something Have you arranged to meet him?",
+        " arrange that… I've arranged that we can borrow their car.",
+        " arrange for something to do something We arranged for a car to collect us from the airport.",
+        " arrange for something The president arranged for a meeting in his office.",
+        " arrange with somebody (about something) I've arranged with the neighbours about feeding the cat while we are away."
+      ]
+    },
+    {
+      "id": 227,
+      "en": "arrangement",
+      "translations": {
+        "ru": "договорённость",
+        "uk": "домовленість"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/arrangement",
+      "phonetics": {
+        "us": "/əˈreɪndʒmənt/",
+        "uk": "/əˈreɪndʒmənt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/arr/arran/arrangement__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/arr/arran/arrangement__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/arr/arran/arrangement__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/arr/arran/arrangement__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Travel and accommodation arrangements have been finalized.",
+        " arrangement for something I'll make arrangements for you to be met at the airport."
+      ]
+    },
+    {
+      "id": 228,
+      "en": "as",
+      "translations": {
+        "ru": "как",
+        "uk": "як"
+      },
+      "cefr": "A2",
+      "type": "adverb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/as_2",
+      "phonetics": {
+        "us": "/æz/",
+        "uk": "/æz/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/as_/as__u/as__us_1_rr.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/as_/as__u/as__us_1_rr.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/as_/as__g/as__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/as_/as__g/as__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "You're as tall as your father.",
+        "He was as white as a sheet.",
+        "She doesn't play as well as her sister.",
+        "I haven't known him as long as you (= as you have known him).",
+        "He doesn't earn as much as me.",
+        "He doesn't earn as much as I do.",
+        "It's not as hard as I thought.",
+        "Run as fast as you can.",
+        "We'd like it as soon as possible."
+      ]
+    },
+    {
+      "id": 229,
+      "en": "asleep",
+      "translations": {
+        "ru": "спящий",
+        "uk": "сплячий"
+      },
+      "cefr": "A2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/asleep",
+      "phonetics": {
+        "us": "/əˈsliːp/",
+        "uk": "/əˈsliːp/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/asl/aslee/asleep__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/asl/aslee/asleep__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/asl/aslee/asleep__gb_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/asl/aslee/asleep__gb_3.ogg"
+        }
+      },
+      "examples": [
+        "I waited until they were all fast asleep (= sleeping deeply).",
+        "The baby was sound asleep (= sleeping deeply) upstairs.",
+        "He was so exhausted that he fell asleep at his desk.",
+        "My mother fell asleep at the wheel (= while driving) and crashed into a tree.",
+        "She was still half asleep (= not fully awake) when she arrived at work.",
+        "The police found him asleep in a garage."
+      ]
+    },
+    {
+      "id": 230,
+      "en": "assistant",
+      "translations": {
+        "ru": "вспомогательный",
+        "uk": "допоміжний"
+      },
+      "cefr": "A2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/assistant_2",
+      "phonetics": {
+        "us": "/əˈsɪstənt/",
+        "uk": "/əˈsɪstənt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ass/assis/assistant__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/ass/assis/assistant__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ass/assis/assistant__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/ass/assis/assistant__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "the assistant manager/director/commissioner",
+        "She is an assistant professor of psychology at Ohio State University.",
+        "Assistant Chief Constable Owen",
+        "Assistant Attorney General William Weld",
+        "a former assistant Secretary of State",
+        "an assistant coach/editor"
+      ]
+    },
+    {
+      "id": 231,
+      "en": "assistant",
+      "translations": {
+        "ru": "помощник",
+        "uk": "помічник"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/assistant_1",
+      "phonetics": {
+        "us": "/əˈsɪstənt/",
+        "uk": "/əˈsɪstənt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ass/assis/assistant__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/ass/assis/assistant__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ass/assis/assistant__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/ass/assis/assistant__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "My assistant will now demonstrate the machine in action.",
+        "a senior research assistant",
+        "She works as a care assistant in an old people's home.",
+        "I work part-time as a classroom assistant in my local primary school. ",
+        "He was working as a special assistant to the president."
+      ]
+    },
+    {
+      "id": 232,
+      "en": "athlete",
+      "translations": {
+        "ru": "спортсмен",
+        "uk": "спортсмен"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/athlete",
+      "phonetics": {
+        "us": "/ˈæθliːt/",
+        "uk": "/ˈæθliːt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ath/athle/athlete__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/ath/athle/athlete__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ath/athle/athlete__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/ath/athle/athlete__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Olympic athletes",
+        "Depression is thought to be common among elite athletes.",
+        "a training facility for amateur and professional athletes ",
+        "Her company is designing part of the Olympic athletes' village."
+      ]
+    },
+    {
+      "id": 233,
+      "en": "attack",
+      "translations": {
+        "ru": "атака",
+        "uk": "атака"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/attack_1",
+      "phonetics": {
+        "us": "/əˈtæk/",
+        "uk": "/əˈtæk/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/att/attac/attack__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/att/attac/attack__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/att/attac/attack__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/att/attac/attack__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Five people were killed in the attacks that took place last night.",
+        " attack on/upon somebody/something the recent series of deadly terrorist attacks on European cities",
+        "a violent attack upon a police officer",
+        " attack against somebody vicious attacks against defenceless people",
+        " attack by somebody/something A child is recovering in hospital after a serious attack by a stray dog."
+      ]
+    },
+    {
+      "id": 234,
+      "en": "attack",
+      "translations": {
+        "ru": "атаковать",
+        "uk": "атакувати"
+      },
+      "cefr": "A2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/attack_2",
+      "phonetics": {
+        "us": "/əˈtæk/",
+        "uk": "/əˈtæk/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/att/attac/attack__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/att/attac/attack__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/att/attac/attack__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/att/attac/attack__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Most dogs will not attack unless provoked.",
+        " attack somebody/something Terrorists attacked several targets across the city.",
+        "A woman was brutally attacked by a gang of youths.",
+        " attack somebody with something One of the men viciously attacked officers with a home-made weapon. ",
+        "The man attacked him with a knife."
+      ]
+    },
+    {
+      "id": 235,
+      "en": "attend",
+      "translations": {
+        "ru": "посещать",
+        "uk": "відвідувати"
+      },
+      "cefr": "A2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/attend",
+      "phonetics": {
+        "us": "/əˈtend/",
+        "uk": "/əˈtend/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/att/atten/attend__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/att/atten/attend__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/att/atten/attend__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/att/atten/attend__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "We'd like as many people as possible to attend.",
+        " attend something The meeting was attended by 90% of shareholders.",
+        "to attend a wedding/funeral/service/ceremony",
+        "Everyone is welcome to attend the free event.",
+        "All members are requested to attend this meeting.",
+        "5,000 people from around the world were invited to attend the conference."
+      ]
+    },
+    {
+      "id": 236,
+      "en": "attention",
+      "translations": {
+        "ru": "внимание",
+        "uk": "увага"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/attention_1",
+      "phonetics": {
+        "us": "/əˈtenʃn/",
+        "uk": "/əˈtenʃn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/att/atten/attention__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/att/atten/attention__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/att/atten/attention__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/att/atten/attention__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "the report’s attention to detail",
+        "He turned his attention back to the road again.",
+        "His attention turned to other matters.",
+        "Public attention is focused on the issue of plastic pollution.",
+        "Please pay close attention (= listen carefully) to what I am saying.",
+        "Don't pay any attention to what they say (= don't think that it is important).",
+        "She doesn't pay her children much attention.",
+        "She tried to attract the waiter's attention.",
+        "The event has attracted a lot of media attention.",
+        "The exhibition has received special attention from the media. ",
+        "The problem has been getting little attention in the press.",
+        "I tried not to draw attention to (= make people notice) the weak points in my argument.",
+        "An article in the newspaper caught my attention.",
+        "I couldn't give the programme my undivided attention.",
+        "As the youngest child, she was always the centre of attention.",
+        "Small children have a very short attention span.",
+        " (formal) These issues should be brought to the attention of the public.",
+        " (formal) It has come to my attention (= I have been informed) that…",
+        " (formal) He called (their) attention to the fact that many files were missing.",
+        " (formal) Can I have your attention please?"
+      ]
+    },
+    {
+      "id": 237,
+      "en": "attractive",
+      "translations": {
+        "ru": "привлекательный",
+        "uk": "привабливий"
+      },
+      "cefr": "A2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/attractive",
+      "phonetics": {
+        "us": "/əˈtræktɪv/",
+        "uk": "/əˈtræktɪv/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/att/attra/attractive__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/att/attra/attractive__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/att/attra/attractive__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/att/attra/attractive__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "an attractive woman",
+        "I like John but I don't find him attractive physically.",
+        "I find men look more attractive as they age."
+      ]
+    },
+    {
+      "id": 238,
+      "en": "audience",
+      "translations": {
+        "ru": "аудитория",
+        "uk": "аудиторія"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/audience",
+      "phonetics": {
+        "us": "/ˈɔːdiəns/",
+        "uk": "/ˈɔːdiəns/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aud/audie/audience__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/aud/audie/audience__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aud/audie/audience__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/aud/audie/audience__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The audience was/were clapping for 10 minutes.",
+        "The museum is trying to attract a wider audience.",
+        "The debate was televised in front of a live audience.",
+        "an audience of 10 000",
+        "Audience members voted on their favorite presentations.",
+        "We encourage audience participation during our show."
+      ]
+    },
+    {
+      "id": 239,
+      "en": "author",
+      "translations": {
+        "ru": "автор",
+        "uk": "автор"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/author_1",
+      "phonetics": {
+        "us": "/ˈɔːθər/",
+        "uk": "/ˈɔːθə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aut/autho/author__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/aut/autho/author__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aut/autho/author__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/aut/autho/author__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "Who is your favourite author?",
+        "He is the author of three books on art.",
+        "best-selling author Paul Theroux",
+        "the lead author of the report",
+        "the author of a novel/study/article",
+        "Who's the author?",
+        "According to report author Matt Blaze, the technique requires no special skill.",
+        "Really quick author's note: This is the last chapter of the story. ",
+        "The film is based on a novel written by a female author.",
+        "The report's authors point to a recent study of American college students."
+      ]
+    },
+    {
+      "id": 240,
+      "en": "available",
+      "translations": {
+        "ru": "доступный",
+        "uk": "доступний"
+      },
+      "cefr": "A2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/available",
+      "phonetics": {
+        "us": "/əˈveɪləbl/",
+        "uk": "/əˈveɪləbl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ava/avail/available__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/ava/avail/available__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ava/avail/available__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/ava/avail/available__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "available resources/data",
+        "Most available evidence suggests that home-schooled children are getting a good education.",
+        "Further details are available on request.",
+        "We'll send you a copy as soon as it becomes available.",
+        "We have plenty of office space available.",
+        "The document is now commercially available in electronic form.",
+        "readily/widely/freely/publicly available",
+        " available from somebody/something Tickets are currently available at reduced prices from the festival office.",
+        " available for something This data is still available for download on the company's website.",
+        " available to somebody When will the information be made available to the public?"
+      ]
+    },
+    {
+      "id": 241,
+      "en": "average",
+      "translations": {
+        "ru": "средний",
+        "uk": "середній"
+      },
+      "cefr": "A2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/average_1",
+      "phonetics": {
+        "us": "/ˈævərɪdʒ/",
+        "uk": "/ˈævərɪdʒ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ave/avera/average__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/ave/avera/average__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ave/avera/average__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/ave/avera/average__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "The average age of participants was 52 years.",
+        "an average rate/cost/price",
+        "an average annual income/wage/salary",
+        "Average daily summer temperatures are about 20°C .",
+        "Average earnings are around £20 000 per annum.",
+        "The school has an average class size of 24 students.",
+        "at an average speed of 100 miles per hour"
+      ]
+    },
+    {
+      "id": 242,
+      "en": "average",
+      "translations": {
+        "ru": "среднее",
+        "uk": "середнє"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/average_2",
+      "phonetics": {
+        "us": "/ˈævərɪdʒ/",
+        "uk": "/ˈævərɪdʒ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ave/avera/average__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/ave/avera/average__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ave/avera/average__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/ave/avera/average__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "The average of 4, 5 and 9 is 6.",
+        " an average of something Parents spend an average of $220 a year on toys.",
+        "Prices rose by an average of 10 percent over the decade. ",
+        "If I get an A on this essay, that will bring my average (= average mark/grade) up to a B+.",
+        "Class sizes in the school are below the national average.",
+        "We will deliver growth in the economy that is higher than the OECD average this year.",
+        "They had higher mortality rates from accidents compared with the national average.",
+        "Children here score well above the city average on math and reading tests."
+      ]
+    },
+    {
+      "id": 243,
+      "en": "avoid",
+      "translations": {
+        "ru": "избегать",
+        "uk": "уникати"
+      },
+      "cefr": "A2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/avoid",
+      "phonetics": {
+        "us": "/əˈvɔɪd/",
+        "uk": "/əˈvɔɪd/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/avo/avoid/avoid__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/avo/avoid/avoid__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/avo/avoid/avoid__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/avo/avoid/avoid__gb_2.ogg"
+        }
+      },
+      "examples": [
+        " avoid something to avoid conflict/confrontation",
+        "We must find a way to avoid similar problems in future.",
+        "They narrowly avoided defeat.",
+        "The name was changed to avoid confusion with another firm.",
+        "The accident could have been avoided.",
+        "Efforts are being made to avoid war at all costs.",
+        " avoid doing something They built a wall to avoid soil being washed away."
+      ]
+    },
+    {
+      "id": 244,
+      "en": "award",
+      "translations": {
+        "ru": "награда",
+        "uk": "нагорода"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/award_1",
+      "phonetics": {
+        "us": "/əˈwɔːrd/",
+        "uk": "/əˈwɔːd/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/awa/award/award__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/awa/award/award__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/awa/award/award__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/awa/award/award__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "He was nominated for the best actor award.",
+        "the UK's most prestigious literary award",
+        "the Housing Design Award",
+        "The mayor will present the awards.",
+        " award for something to win/accept an award for something",
+        "He received numerous awards for excellence in teaching. ",
+        "She was recently honoured with a lifetime achievement award.",
+        "The winners of the awards are picked by the network's viewers.",
+        "an awards ceremony"
+      ]
+    },
+    {
+      "id": 245,
+      "en": "awful",
+      "translations": {
+        "ru": "ужасный",
+        "uk": "жахливий"
+      },
+      "cefr": "A2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/awful_1",
+      "phonetics": {
+        "us": "/ˈɔːfl/",
+        "uk": "/ˈɔːfl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/awf/awful/awful__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/awf/awful/awful__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/awf/awful/awful__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/awf/awful/awful__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "That's an awful colour.",
+        "‘They didn't even offer to pay.’ ‘Oh that's awful.’",
+        "I feel awful about forgetting her birthday.",
+        "to look/feel awful (= to look/feel ill)",
+        "There's an awful smell in here.",
+        "The awful thing is, it was my fault.",
+        "It sounds awful to say it, but the war was exciting.",
+        "The weather conditions were just awful. ",
+        "It's awful, isn't it?",
+        "The weather last summer was awful."
+      ]
+    },
+    {
+      "id": 246,
+      "en": "back",
+      "translations": {
+        "ru": "задний",
+        "uk": "задній"
+      },
+      "cefr": "A2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/back_2",
+      "phonetics": {
+        "us": "/bæk/",
+        "uk": "/bæk/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bac/back_/back__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bac/back_/back__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bac/back_/back__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bac/back_/back__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "We were sitting in the back row",
+        "the back garden (= behind the house)",
+        "a back room (= one at the back of a building)",
+        "My phone's in my back pocket.",
+        "back teeth",
+        "the back page of a newspaper",
+        "We drove along miles of twisty back roads (= away from the main roads)."
+      ]
+    },
+    {
+      "id": 247,
+      "en": "background",
+      "translations": {
+        "ru": "фон",
+        "uk": "тло"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/background",
+      "phonetics": {
+        "us": "/ˈbækɡraʊnd/",
+        "uk": "/ˈbækɡraʊnd/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bac/backg/background__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bac/backg/background__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bac/backg/background__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bac/backg/background__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "somebody's ethnic/genetic/cultural background ",
+        "somebody's family/educational background",
+        "The job would suit someone with a business background.",
+        "We come from very different backgrounds but we get on well.",
+        " background in something She has a background in journalism.",
+        "In the future, we will require background checks on airport employees."
+      ]
+    },
+    {
+      "id": 248,
+      "en": "badly",
+      "translations": {
+        "ru": "плохо",
+        "uk": "погано"
+      },
+      "cefr": "A2",
+      "type": "adverb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/badly",
+      "phonetics": {
+        "us": "/ˈbædli/",
+        "uk": "/ˈbædli/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bad/badly/badly__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bad/badly/badly__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bad/badly/badly__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bad/badly/badly__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "to play/sing badly",
+        "badly designed/organized"
+      ]
+    },
+    {
+      "id": 249,
+      "en": "bar",
+      "translations": {
+        "ru": "бар",
+        "uk": "бар"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/bar_1",
+      "phonetics": {
+        "us": "/bɑːr/",
+        "uk": "/bɑː(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bar/bar__/bar__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bar/bar__/bar__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bar/bar__/bar__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bar/bar__/bar__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "We arranged to meet in a bar called the Flamingo.",
+        "The area is full of restaurants and bars.",
+        "The bar staff are very friendly.",
+        "It's the island’s only licensed bar (= one that is allowed to sell alcoholic drinks).",
+        " (British English) I found David in the bar of the Red Lion (= a room in a pub where drinks are served)."
+      ]
+    },
+    {
+      "id": 250,
+      "en": "baseball",
+      "translations": {
+        "ru": "бейсбол",
+        "uk": "бейсбол"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/baseball",
+      "phonetics": {
+        "us": "/ˈbeɪsbɔːl/",
+        "uk": "/ˈbeɪsbɔːl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bas/baseb/baseball__us_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bas/baseb/baseball__us_3.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bas/baseb/baseball__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bas/baseb/baseball__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a baseball bat/team/cap/fan/player/game",
+        "to play major league baseball",
+        "a pair of baseball boots",
+        "a baseball stadium"
+      ]
+    },
+    {
+      "id": 251,
+      "en": "based",
+      "translations": {
+        "ru": "основанный",
+        "uk": "заснований"
+      },
+      "cefr": "A2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/based",
+      "phonetics": {
+        "us": "/beɪst/",
+        "uk": "/beɪst/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bas/based/based__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bas/based/based__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bas/based/based__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bas/based/based__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The movie is based on a real-life incident.",
+        "The report is based on figures from six different European cities.",
+        "The novels are all loosely based on the author's life.",
+        "Their research was based largely on anecdotal evidence."
+      ]
+    },
+    {
+      "id": 252,
+      "en": "basketball",
+      "translations": {
+        "ru": "баскетбол",
+        "uk": "баскетбол"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/basketball",
+      "phonetics": {
+        "us": "/ˈbæskɪtbɔːl/",
+        "uk": "/ˈbɑːskɪtbɔːl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bas/baske/basketball__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bas/baske/basketball__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bas/baske/basketball__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bas/baske/basketball__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "a basketball game/coach/team/player",
+        "I played college basketball for a while. ",
+        "The games will be played on the basketball courts."
+      ]
+    },
+    {
+      "id": 253,
+      "en": "bean",
+      "translations": {
+        "ru": "боб",
+        "uk": "біб"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/bean_1",
+      "phonetics": {
+        "us": "/biːn/",
+        "uk": "/biːn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bea/bean_/bean__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bea/bean_/bean__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bea/bean_/bean__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bea/bean_/bean__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "green beans",
+        "runner beans",
+        "beans (= baked beans) on toast",
+        "a can/tin of beans",
+        "She grows her own broad beans."
+      ]
+    },
+    {
+      "id": 254,
+      "en": "bear",
+      "translations": {
+        "ru": "медведь",
+        "uk": "ведмідь"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/bear_2",
+      "phonetics": {
+        "us": "/ber/",
+        "uk": "/beə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bea/bear_/bear__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bea/bear_/bear__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bea/bear_/bear__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bea/bear_/bear__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "a black bear",
+        "A little bear cub ran right across the road in front of us. "
+      ]
+    },
+    {
+      "id": 255,
+      "en": "beat",
+      "translations": {
+        "ru": "бить",
+        "uk": "бити"
+      },
+      "cefr": "A2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/beat_1",
+      "phonetics": {
+        "us": "/biːt/",
+        "uk": "/biːt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bea/beat_/beat__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bea/beat_/beat__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bea/beat_/beat__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bea/beat_/beat__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " beat somebody at something He beat me at chess.",
+        " beat somebody She was narrowly beaten by the German in the final.",
+        "I beat her by just three points.",
+        "Their recent wins have proved they're still the ones to beat (= the most difficult team to beat)."
+      ]
+    },
+    {
+      "id": 256,
+      "en": "beef",
+      "translations": {
+        "ru": "говядина",
+        "uk": "яловичина"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/beef_1",
+      "phonetics": {
+        "us": "/biːf/",
+        "uk": "/biːf/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bee/beef_/beef__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bee/beef_/beef__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bee/beef_/beef__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bee/beef_/beef__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "roast beef",
+        "beef and dairy cattle",
+        "minced/ground beef",
+        "a joint/fillet/cut of beef",
+        "a beef farmer/producer"
+      ]
+    },
+    {
+      "id": 257,
+      "en": "before",
+      "translations": {
+        "ru": "раньше",
+        "uk": "раніше"
+      },
+      "cefr": "A2",
+      "type": "adverb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/before_3",
+      "phonetics": {
+        "us": "/bɪˈfɔːr/",
+        "uk": "/bɪˈfɔː(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bef/befor/before__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bef/befor/before__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bef/befor/before__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bef/befor/before__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "You should have told me so before.",
+        "It had been fine the week before (= the previous week).",
+        "That had happened long before (= a long time earlier).",
+        "I think we've met before."
+      ]
+    },
+    {
+      "id": 258,
+      "en": "behave",
+      "translations": {
+        "ru": "вести себя",
+        "uk": "поводитися"
+      },
+      "cefr": "A2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/behave",
+      "phonetics": {
+        "us": "/bɪˈheɪv/",
+        "uk": "/bɪˈheɪv/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/beh/behav/behave__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/beh/behav/behave__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/beh/behav/behave__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/beh/behav/behave__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "The doctor behaved very unprofessionally.",
+        "They behaved very badly towards their guests.",
+        "He behaved like a true gentleman.",
+        "They behave differently when you're not around.",
+        "He had always behaved in a friendly manner towards us.",
+        "I expect you to behave in a certain way.",
+        "She behaved with great dignity.",
+        "He behaved as if/though nothing had happened."
+      ]
+    },
+    {
+      "id": 259,
+      "en": "behaviour",
+      "translations": {
+        "ru": "поведение",
+        "uk": "поведінка"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/behaviour",
+      "phonetics": {
+        "us": "/bɪˈheɪvjər/",
+        "uk": "/bɪˈheɪvjə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/beh/behav/behaviour__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/beh/behav/behaviour__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/beh/behav/behaviour__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/beh/behav/behaviour__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "good/bad behaviour",
+        "social/sexual/criminal behaviour",
+        "a plan to tackle antisocial behaviour",
+        " behaviour towards somebody His behaviour towards her was becoming more and more aggressive.",
+        "She began to exhibit violent behaviour.",
+        "I noticed a change in his behaviour.",
+        "It is hard to change old patterns of behaviour."
+      ]
+    },
+    {
+      "id": 260,
+      "en": "belong",
+      "translations": {
+        "ru": "принадлежать",
+        "uk": "належати"
+      },
+      "cefr": "A2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/belong",
+      "phonetics": {
+        "us": "/bɪˈlɔːŋ/",
+        "uk": "/bɪˈlɒŋ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bel/belon/belong__us_6.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bel/belon/belong__us_6.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bel/belon/belong__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bel/belon/belong__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Where do these plates belong (= where are they kept)?",
+        "Are you sure these documents belong together?",
+        "Several of the points you raise do not belong in this discussion.",
+        "A person like that does not belong in teaching."
+      ]
+    },
+    {
+      "id": 261,
+      "en": "belt",
+      "translations": {
+        "ru": "пояс",
+        "uk": "пояс"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/belt_1",
+      "phonetics": {
+        "us": "/belt/",
+        "uk": "/belt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bel/belt_/belt__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bel/belt_/belt__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bel/belt_/belt__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bel/belt_/belt__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "to do up/fasten/tighten a belt",
+        "a belt buckle",
+        "a studded leather belt",
+        " Around his waist he wore a belt."
+      ]
+    },
+    {
+      "id": 262,
+      "en": "benefit",
+      "translations": {
+        "ru": "польза",
+        "uk": "користь"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/benefit_1",
+      "phonetics": {
+        "us": "/ˈbenɪfɪt/",
+        "uk": "/ˈbenɪfɪt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/ben/benef/benefit__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/ben/benef/benefit__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/ben/benef/benefit__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/ben/benef/benefit__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "Freedom of information brings great benefits. ",
+        "health/economic/tax benefits",
+        "the benefits of modern medicine",
+        "I've had the benefit of a good education.",
+        "It was good to see her finally reaping the benefits (= enjoying the results) of all her hard work.",
+        "The industry will be one of the first to enjoy the benefits of the recovery.",
+        "The company derived substantial benefit from the deal.",
+        " benefit of doing something He couldn't see the benefit of arguing any longer.",
+        " be of benefit to somebody/something The new regulations will be of benefit to everyone concerned.",
+        " to somebody's benefit It will be to your benefit to arrive early.",
+        " benefit for somebody/something The project will have major benefits for the local community.",
+        "With the benefit of hindsight (= knowing what we have learnt since), we would do things differently.",
+        " without the benefit of something Nobody should be sent to prison without the benefit of legal advice.",
+        "For maximum benefit, take the tablets before meals."
+      ]
+    },
+    {
+      "id": 263,
+      "en": "best",
+      "translations": {
+        "ru": "лучше всего",
+        "uk": "найкраще"
+      },
+      "cefr": "A2",
+      "type": "adverb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/best_2",
+      "phonetics": {
+        "us": "/best/",
+        "uk": "/best/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bes/best_/best__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bes/best_/best__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bes/best_/best__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bes/best_/best__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Which one do you like best?",
+        "Well-drained soil suits the plant best.",
+        "her best-known poem"
+      ]
+    },
+    {
+      "id": 264,
+      "en": "best",
+      "translations": {
+        "ru": "лучшее",
+        "uk": "найкраще"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/best_3",
+      "phonetics": {
+        "us": "/best/",
+        "uk": "/best/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bes/best_/best__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bes/best_/best__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bes/best_/best__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bes/best_/best__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "We all want the best for our children.",
+        "They only buy the best.",
+        "They're all good players, but she's the best of all.",
+        "We're the best of friends (= very close friends)."
+      ]
+    },
+    {
+      "id": 265,
+      "en": "better",
+      "translations": {
+        "ru": "лучше",
+        "uk": "краще"
+      },
+      "cefr": "A2",
+      "type": "adverb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/better_2",
+      "phonetics": {
+        "us": "/ˈbetər/",
+        "uk": "/ˈbetə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bet/bette/better__us_4.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bet/bette/better__us_4.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bet/bette/better__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bet/bette/better__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "She sings much better than I do.",
+        "Sound travels better in water than in air.",
+        "People are better educated now."
+      ]
+    },
+    {
+      "id": 266,
+      "en": "between",
+      "translations": {
+        "ru": "между",
+        "uk": "між"
+      },
+      "cefr": "A2",
+      "type": "adverb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/between_2",
+      "phonetics": {
+        "us": "/bɪˈtwiːn/",
+        "uk": "/bɪˈtwiːn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bet/betwe/between__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bet/betwe/between__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bet/betwe/between__gb_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bet/betwe/between__gb_3.ogg"
+        }
+      },
+      "examples": [
+        "The house was near a park but there was a road in between.",
+        "I see her most weekends but not very often in between."
+      ]
+    },
+    {
+      "id": 267,
+      "en": "bin",
+      "translations": {
+        "ru": "мусорное ведро",
+        "uk": "смітник"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/bin_1",
+      "phonetics": {
+        "us": "/bɪn/",
+        "uk": "/bɪn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bin/bin__/bin__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bin/bin__/bin__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bin/bin__/bin__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bin/bin__/bin__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a rubbish bin",
+        "Grey bins will be emptied weekly.",
+        "Many councils now have fortnightly bin collections."
+      ]
+    },
+    {
+      "id": 268,
+      "en": "biology",
+      "translations": {
+        "ru": "биология",
+        "uk": "біологія"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/biology",
+      "phonetics": {
+        "us": "/baɪˈɑːlədʒi/",
+        "uk": "/baɪˈɒlədʒi/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bio/biolo/biology__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bio/biolo/biology__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bio/biolo/biology__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bio/biolo/biology__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "a degree in biology",
+        "molecular/evolutionary biology",
+        "a biology teacher/class/textbook",
+        "She's a professor of biology at Stanford."
+      ]
+    },
+    {
+      "id": 269,
+      "en": "birth",
+      "translations": {
+        "ru": "рождение",
+        "uk": "народження"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/birth",
+      "phonetics": {
+        "us": "/bɜːrθ/",
+        "uk": "/bɜːθ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bir/birth/birth__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bir/birth/birth__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bir/birth/birth__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bir/birth/birth__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " at birth The baby weighed three kilos at birth.",
+        "Global life expectancy at birth is about 72 years.",
+        "John was present at the birth of both his children.",
+        "It was a difficult birth.",
+        "a hospital/home birth",
+        " from birth Mark has been blind from birth.",
+        "Please state your date and place of birth.",
+        "They are at increased risk of low birth weight.",
+        "You need to show a copy of your birth certificate.",
+        "The risk of premature birth increases markedly after 35.",
+        "Please provide your complete birth name and birth date. "
+      ]
+    },
+    {
+      "id": 270,
+      "en": "biscuit",
+      "translations": {
+        "ru": "печенье",
+        "uk": "печиво"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/biscuit",
+      "phonetics": {
+        "us": "/ˈbɪskɪt/",
+        "uk": "/ˈbɪskɪt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bis/biscu/biscuit__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bis/biscu/biscuit__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bis/biscu/biscuit__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bis/biscu/biscuit__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "a packet/tin of chocolate biscuits",
+        "a selection of cheese biscuits",
+        "The cake has a biscuit base (= one made from crushed biscuits).",
+        "We were offered a cup of tea and some biscuits."
+      ]
+    },
+    {
+      "id": 271,
+      "en": "bit",
+      "translations": {
+        "ru": "кусочек",
+        "uk": "шматочок"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/bit_1",
+      "phonetics": {
+        "us": "/bɪt/",
+        "uk": "/bɪt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bit/bit__/bit__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bit/bit__/bit__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bit/bit__/bit__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bit/bit__/bit__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "These trousers are a bit tight.",
+        "‘Are you tired?’ ‘Yes, I am a bit.’",
+        "I was a bit disappointed by the film.",
+        "It costs a bit more than I wanted to spend.",
+        "The future looks a little bit brighter this morning.",
+        "I felt a wee bit guilty about it.",
+        "I can lend you fifty pounds, if you want. That should help a bit."
+      ]
+    },
+    {
+      "id": 272,
+      "en": "blank",
+      "translations": {
+        "ru": "пустой",
+        "uk": "порожній"
+      },
+      "cefr": "A2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/blank_1",
+      "phonetics": {
+        "us": "/blæŋk/",
+        "uk": "/blæŋk/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bla/blank/blank__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bla/blank/blank__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bla/blank/blank__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bla/blank/blank__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Sign your name in the blank space below.",
+        "a blank CD",
+        "Write on one side of the paper and leave the other side blank.",
+        "She turned to a blank page in her notebook.",
+        "I left the third column blank."
+      ]
+    },
+    {
+      "id": 273,
+      "en": "blank",
+      "translations": {
+        "ru": "пробел",
+        "uk": "пробіл"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/blank_2",
+      "phonetics": {
+        "us": "/blæŋk/",
+        "uk": "/blæŋk/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bla/blank/blank__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bla/blank/blank__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bla/blank/blank__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bla/blank/blank__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Please fill in the blanks.",
+        "If you can't answer the question, leave a blank."
+      ]
+    },
+    {
+      "id": 274,
+      "en": "blood",
+      "translations": {
+        "ru": "кровь",
+        "uk": "кров"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/blood_1",
+      "phonetics": {
+        "us": "/blʌd/",
+        "uk": "/blʌd/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/blo/blood/blood__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/blo/blood/blood__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/blo/blood/blood__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/blo/blood/blood__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "He lost a lot of blood in the accident.",
+        "Blood was pouring out of a cut on her head.",
+        "His hands were covered in blood.",
+        "to give blood (= to have blood taken from you so that it can be used in the medical treatment of other people)",
+        "After the attacks, people donated blood in record numbers.",
+        "He was a hot-headed warrior, always too quick to shed blood (= attack and injure or kill somebody).",
+        "to draw blood (= to wound a person so that they lose blood)",
+        "a drop/pool of blood",
+        "There was dried blood on her cheek.",
+        "a blood cell/sample",
+        "to improve blood flow to the heart",
+        "the blood supply to the brain"
+      ]
+    },
+    {
+      "id": 275,
+      "en": "blow",
+      "translations": {
+        "ru": "дуть",
+        "uk": "дути"
+      },
+      "cefr": "A2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/blow_1",
+      "phonetics": {
+        "us": "/bləʊ/",
+        "uk": "/bləʊ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/blo/blow_/blow__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/blo/blow_/blow__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/blo/blow_/blow__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/blo/blow_/blow__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " + adv./prep. You're not blowing hard enough!",
+        "The policeman asked me to blow into the breathalyser.",
+        " blow something + adv./prep. He drew on his cigarette and blew out a stream of smoke."
+      ]
+    },
+    {
+      "id": 276,
+      "en": "board",
+      "translations": {
+        "ru": "доска",
+        "uk": "дошка"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/board_1",
+      "phonetics": {
+        "us": "/bɔːrd/",
+        "uk": "/bɔːd/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/boa/board/board__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/boa/board/board__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/boa/board/board__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/boa/board/board__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "He had ripped up the carpet, leaving only the bare boards.",
+        "She noticed a loose board in the fence."
+      ]
+    },
+    {
+      "id": 277,
+      "en": "boil",
+      "translations": {
+        "ru": "кипятить",
+        "uk": "кип'ятити"
+      },
+      "cefr": "A2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/boil_1",
+      "phonetics": {
+        "us": "/bɔɪl/",
+        "uk": "/bɔɪl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/boi/boil_/boil__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/boi/boil_/boil__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/boi/boil_/boil__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/boi/boil_/boil__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The water was bubbling and boiling away.",
+        " boil something Boil plenty of salted water, then add the spaghetti."
+      ]
+    },
+    {
+      "id": 278,
+      "en": "bone",
+      "translations": {
+        "ru": "кость",
+        "uk": "кістка"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/bone_1",
+      "phonetics": {
+        "us": "/bəʊn/",
+        "uk": "/bəʊn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bon/bone_/bone__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bon/bone_/bone__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bon/bone_/bone__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bon/bone_/bone__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "He survived the accident with no broken bones.",
+        "This fish has a lot of bones in it.",
+        "She went for a bone density scan.",
+        "The dog was gnawing at a bone.",
+        "She had a beautiful face with very good bone structure."
+      ]
+    },
+    {
+      "id": 279,
+      "en": "book",
+      "translations": {
+        "ru": "бронировать",
+        "uk": "бронювати"
+      },
+      "cefr": "A2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/book_2",
+      "phonetics": {
+        "us": "/bʊk/",
+        "uk": "/bʊk/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/boo/book_/book__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/boo/book_/book__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/boo/book_/book__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/boo/book_/book__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "Book early to avoid disappointment.",
+        " book something She booked a flight to Chicago.",
+        "He booked tickets for his trip to New York.",
+        "Most customers now book their holidays online.",
+        "The performance is booked up (= there are no more tickets available).",
+        "I'm sorry—we're fully booked.",
+        " (British English) I'd like to book a table for two for 8 o'clock tonight."
+      ]
+    },
+    {
+      "id": 280,
+      "en": "borrow",
+      "translations": {
+        "ru": "брать в долг",
+        "uk": "позичати"
+      },
+      "cefr": "A2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/borrow",
+      "phonetics": {
+        "us": "/ˈbɔːrəʊ/",
+        "uk": "/ˈbɒrəʊ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bor/borro/borrow__us_2_rr.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bor/borro/borrow__us_2_rr.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bor/borro/borrow__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bor/borro/borrow__gb_2.ogg"
+        }
+      },
+      "examples": [
+        " borrow something Can I borrow your umbrella?",
+        " borrow something from somebody/something Members can borrow up to ten books from the library at any one time.",
+        " borrow something off somebody (British English, informal) I borrowed the tools I needed off my brother."
+      ]
+    },
+    {
+      "id": 281,
+      "en": "boss",
+      "translations": {
+        "ru": "начальник",
+        "uk": "начальник"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/boss_1",
+      "phonetics": {
+        "us": "/bɔːs/",
+        "uk": "/bɒs/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bos/boss_/boss__us_8.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bos/boss_/boss__us_8.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bos/boss_/boss__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bos/boss_/boss__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "I'll ask my boss if I can have the day off.",
+        "I like being my own boss (= working for myself and making my own decisions).",
+        "Who's the boss (= who's in control) in this house?",
+        "He thinks he's impressing the boss by working through lunch.",
+        "He accused his former boss of being arrogant."
+      ]
+    },
+    {
+      "id": 282,
+      "en": "bottom",
+      "translations": {
+        "ru": "нижний",
+        "uk": "нижній"
+      },
+      "cefr": "A2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/bottom_2",
+      "phonetics": {
+        "us": "/ˈbɑːtəm/",
+        "uk": "/ˈbɒtəm/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bot/botto/bottom__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bot/botto/bottom__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bot/botto/bottom__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bot/botto/bottom__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "your bottom lip ",
+        "the bottom line/row/edge",
+        "on the bottom left/right of the page",
+        "in the bottom corner of the screen",
+        "on the bottom shelf",
+        "Their house is at the bottom end of Bury Road (= the end furthest from where you enter the road)."
+      ]
+    },
+    {
+      "id": 283,
+      "en": "bottom",
+      "translations": {
+        "ru": "дно",
+        "uk": "дно"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/bottom_1",
+      "phonetics": {
+        "us": "/ˈbɑːtəm/",
+        "uk": "/ˈbɒtəm/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bot/botto/bottom__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bot/botto/bottom__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bot/botto/bottom__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bot/botto/bottom__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "the bottom of the screen/stairs/hill",
+        " at the bottom of something Footnotes are given at the bottom of each page.",
+        " at the bottom The book I want is right at the bottom (= of the pile).",
+        "The wind blew through gaps at the top and bottom of the door.",
+        "farmers who lived in the valley bottoms "
+      ]
+    },
+    {
+      "id": 284,
+      "en": "bowl",
+      "translations": {
+        "ru": "миска",
+        "uk": "миска"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/bowl_1",
+      "phonetics": {
+        "us": "/bəʊl/",
+        "uk": "/bəʊl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bow/bowl_/bowl__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bow/bowl_/bowl__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bow/bowl_/bowl__gb_4.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bow/bowl_/bowl__gb_4.ogg"
+        }
+      },
+      "examples": [
+        "a salad/fruit/sugar bowl ",
+        "a washing-up bowl ",
+        "I refilled the dog's water bowl.",
+        "Sieve the flour into a bowl."
+      ]
+    },
+    {
+      "id": 285,
+      "en": "brain",
+      "translations": {
+        "ru": "мозг",
+        "uk": "мозок"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/brain_1",
+      "phonetics": {
+        "us": "/breɪn/",
+        "uk": "/breɪn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bra/brain/brain__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bra/brain/brain__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bra/brain/brain__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bra/brain/brain__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The human brain is a complex organ.",
+        "My tired brain couldn't cope with such a complex problem.",
+        "She was found to have sustained a brain injury.",
+        "brain cells/tissue",
+        "a brain tumour/haemorrhage/aneurysm",
+        "Sometimes the doctor will also do a brain scan.",
+        "brain surgery"
+      ]
+    },
+    {
+      "id": 286,
+      "en": "bridge",
+      "translations": {
+        "ru": "мост",
+        "uk": "міст"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/bridge_1",
+      "phonetics": {
+        "us": "/brɪdʒ/",
+        "uk": "/brɪdʒ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bri/bridg/bridge__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bri/bridg/bridge__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bri/bridg/bridge__gb_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bri/bridg/bridge__gb_3.ogg"
+        }
+      },
+      "examples": [
+        "We crossed the bridge over the River Windrush.",
+        "The river was spanned by a railway bridge.",
+        "The plan incudes a pedestrian bridge connecting the arena with the convention centre. ",
+        "I don't have time to walk across the bridge."
+      ]
+    },
+    {
+      "id": 287,
+      "en": "bright",
+      "translations": {
+        "ru": "яркий",
+        "uk": "яскравий"
+      },
+      "cefr": "A2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/bright_1",
+      "phonetics": {
+        "us": "/braɪt/",
+        "uk": "/braɪt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bri/brigh/bright_1_us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bri/brigh/bright_1_us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bri/brigh/bright_1_gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bri/brigh/bright_1_gb_1.ogg"
+        }
+      },
+      "examples": [
+        "bright light/sunshine",
+        "a bright room",
+        "Her eyes were bright with tears.",
+        "a bright morning (= with the sun shining)",
+        "All of these stars are bigger and brighter than our sun."
+      ]
+    },
+    {
+      "id": 288,
+      "en": "brilliant",
+      "translations": {
+        "ru": "блестящий",
+        "uk": "блискучий"
+      },
+      "cefr": "A2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/brilliant",
+      "phonetics": {
+        "us": "/ˈbrɪliənt/",
+        "uk": "/ˈbrɪliənt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bri/brill/brilliant__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bri/brill/brilliant__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bri/brill/brilliant__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bri/brill/brilliant__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "What a brilliant idea!",
+        "an absolutely brilliant idea",
+        "a brilliant performance/invention",
+        "He made two brilliant saves to keep his side in the match.",
+        "The system is brilliant in its simplicity."
+      ]
+    },
+    {
+      "id": 289,
+      "en": "broken",
+      "translations": {
+        "ru": "сломанный",
+        "uk": "зламаний"
+      },
+      "cefr": "A2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/broken_1",
+      "phonetics": {
+        "us": "/ˈbrəʊkən/",
+        "uk": "/ˈbrəʊkən/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bro/broke/broken__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bro/broke/broken__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bro/broke/broken__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bro/broke/broken__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a broken window/plate",
+        "a broken leg/arm/bone",
+        "pieces of broken glass",
+        "How did this dish get broken?",
+        "The TV's broken.",
+        "They opened the bag and found a broken bottle."
+      ]
+    },
+    {
+      "id": 290,
+      "en": "brush",
+      "translations": {
+        "ru": "щётка",
+        "uk": "щітка"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/brush_2",
+      "phonetics": {
+        "us": "/brʌʃ/",
+        "uk": "/brʌʃ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bru/brush/brush__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bru/brush/brush__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bru/brush/brush__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bru/brush/brush__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a paintbrush",
+        "a hairbrush",
+        "a toothbrush",
+        "brush strokes (= the marks left by a brush when painting)",
+        "a dustpan and brush",
+        "Apply the paint with a fine brush."
+      ]
+    },
+    {
+      "id": 291,
+      "en": "brush",
+      "translations": {
+        "ru": "чистить",
+        "uk": "чистити"
+      },
+      "cefr": "A2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/brush_1",
+      "phonetics": {
+        "us": "/brʌʃ/",
+        "uk": "/brʌʃ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bru/brush/brush__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bru/brush/brush__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bru/brush/brush__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bru/brush/brush__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " brush something to brush your hair/teeth",
+        "to brush your shoes",
+        " brush something + adj. A tiled floor is easy to brush clean."
+      ]
+    },
+    {
+      "id": 292,
+      "en": "burn",
+      "translations": {
+        "ru": "гореть",
+        "uk": "горіти"
+      },
+      "cefr": "A2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/burn_1",
+      "phonetics": {
+        "us": "/bɜːrn/",
+        "uk": "/bɜːn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bur/burn_/burn__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bur/burn_/burn__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bur/burn_/burn__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bur/burn_/burn__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "A welcoming fire was burning in the fireplace.",
+        "Fires were burning all over the city.",
+        "A small candle burned brightly."
+      ]
+    },
+    {
+      "id": 293,
+      "en": "businessman",
+      "translations": {
+        "ru": "бизнесмен",
+        "uk": "бізнесмен"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/businessman",
+      "phonetics": {
+        "us": "/ˈbɪznəsmən/",
+        "uk": "/ˈbɪznəsmən/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bus/busin/businessman__us_1_rr.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bus/busin/businessman__us_1_rr.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bus/busin/businessman__gb_5.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bus/busin/businessman__gb_5.ogg"
+        }
+      },
+      "examples": [
+        "a group of visiting Italian politicians and businessmen"
+      ]
+    },
+    {
+      "id": 294,
+      "en": "button",
+      "translations": {
+        "ru": "кнопка",
+        "uk": "кнопка"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/button_1",
+      "phonetics": {
+        "us": "/ˈbʌtn/",
+        "uk": "/ˈbʌtn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/but/butto/button__us_4.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/but/butto/button__us_4.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/but/butto/button__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/but/butto/button__gb_2.ogg"
+        }
+      },
+      "examples": [
+        " (British English) to do up/undo your buttons",
+        " (North American English) to button/unbutton your buttons ",
+        "to sew on a button",
+        "shirt buttons",
+        "a row of gilt buttons",
+        "One of the buttons on his jacket was missing."
+      ]
+    },
+    {
+      "id": 295,
+      "en": "camp",
+      "translations": {
+        "ru": "лагерь",
+        "uk": "табір"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/camp_1",
+      "phonetics": {
+        "us": "/kæmp/",
+        "uk": "/kæmp/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cam/camp_/camp_1_us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cam/camp_/camp_1_us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cam/camp_/camp__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cam/camp_/camp__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "Let's return to camp.",
+        "to pitch/set up camp (= put up tents)",
+        "to break/strike camp (= take down tents)"
+      ]
+    },
+    {
+      "id": 296,
+      "en": "camp",
+      "translations": {
+        "ru": "ставить лагерь",
+        "uk": "таборитися"
+      },
+      "cefr": "A2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/camp_2",
+      "phonetics": {
+        "us": "/kæmp/",
+        "uk": "/kæmp/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cam/camp_/camp_1_us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cam/camp_/camp_1_us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cam/camp_/camp__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cam/camp_/camp__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "I camped overnight in a field."
+      ]
+    },
+    {
+      "id": 297,
+      "en": "camping",
+      "translations": {
+        "ru": "кемпинг",
+        "uk": "кемпінг"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/camping",
+      "phonetics": {
+        "us": "/ˈkæmpɪŋ/",
+        "uk": "/ˈkæmpɪŋ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cam/campi/camping__us_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cam/campi/camping__us_3.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cam/campi/camping__gb_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cam/campi/camping__gb_3.ogg"
+        }
+      },
+      "examples": [
+        "Do you go camping?",
+        "a camping trip",
+        "We go camping every weekend.",
+        "No overnight camping is allowed in city parks.",
+        "camping equipment"
+      ]
+    },
+    {
+      "id": 298,
+      "en": "can",
+      "translations": {
+        "ru": "банка",
+        "uk": "банка"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/can2_1",
+      "phonetics": {
+        "us": "/kæn/",
+        "uk": "/kæn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/can/can__/can__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/can/can__/can__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/can/can__/can__gb_7.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/can/can__/can__gb_7.ogg"
+        }
+      },
+      "examples": [
+        " can of something a can of beans/beer/soda",
+        "a beer can",
+        "He opened the can and took a large swig.",
+        "an aluminium/tin can"
+      ]
+    },
+    {
+      "id": 299,
+      "en": "care",
+      "translations": {
+        "ru": "забота",
+        "uk": "турбота"
+      },
+      "cefr": "A2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/care_1",
+      "phonetics": {
+        "us": "/ker/",
+        "uk": "/keə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/car/care_/care__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/car/care_/care__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/car/care_/care__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/car/care_/care__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Some people were badly injured and needed medical care.",
+        "We aim to continually improve the quality of patient care. ",
+        "How much do men share housework and the care of the children?",
+        " care for somebody/something to provide care for the elderly",
+        " with care With proper care, the plants may last for fifty years.",
+        "skin/hair care products"
+      ]
+    },
+    {
+      "id": 300,
+      "en": "care",
+      "translations": {
+        "ru": "заботиться",
+        "uk": "піклуватися"
+      },
+      "cefr": "A2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/care_2",
+      "phonetics": {
+        "us": "/ker/",
+        "uk": "/keə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/car/care_/care__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/car/care_/care__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/car/care_/care__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/car/care_/care__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "I don't care (= I will not be upset) if I never see him again!",
+        "He threatened to fire me, as if I cared!",
+        " care about something She cares deeply about environmental issues.",
+        "I don't really care about how much it costs.",
+        " care what, whether, etc… I don't care what he thinks.",
+        " care that… She doesn't seem to care that he's been married four times before."
+      ]
     }
   ]
 }
