@@ -8,9 +8,8 @@ import '../../domain/models/word.dart';
 /// Path convention: <baseUrl>/<batchId>.json with shape:
 ///   { "words": [ {"id":..., "en":..., "ru":..., "cefr":"A2"} ] }
 class WordsRemoteSource {
-  /// TODO: replace with real repo before release.
   static const baseUrl =
-      'https://raw.githubusercontent.com/mordansoft/lexio-words/main';
+      'https://raw.githubusercontent.com/ArtyseevWork/Sloviko/main/data/batches';
 
   /// Returns null if fetch fails or batch not found.
   Future<List<Word>?> fetchBatch(String batchId) async {
