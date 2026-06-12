@@ -1,0 +1,3147 @@
+{
+  "batch": "b2_batch_14",
+  "cefr": "B2",
+  "version": 1,
+  "source": "tyypgzl/Oxford-5000-words",
+  "words": [
+    {
+      "id": 4801,
+      "en": "speculation",
+      "translations": {
+        "ru": "размышление",
+        "uk": "розмірковування"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/speculation",
+      "phonetics": {
+        "us": "/ˌspekjuˈleɪʃn/",
+        "uk": "/ˌspekjuˈleɪʃn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spe/specu/speculation__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/spe/specu/speculation__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spe/specu/speculation__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/spe/specu/speculation__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "His private life is the subject of much speculation.",
+        " speculation that… There was widespread speculation that she was going to resign.",
+        " speculation about something Today's announcement ends months of speculation about the company's future.",
+        " speculation over something The president’s absence led to speculation over his health.",
+        "She dismissed the newspaper reports as pure speculation.",
+        "Our speculations proved right."
+      ]
+    },
+    {
+      "id": 4802,
+      "en": "speed",
+      "translations": {
+        "ru": "ускоряться",
+        "uk": "прискорюватися"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/speed_2",
+      "phonetics": {
+        "us": "/spiːd/",
+        "uk": "/spiːd/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spe/speed/speed__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/spe/speed/speed__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spe/speed/speed__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/spe/speed/speed__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "They sped off to get help.",
+        "The car sped along the road towards the village.",
+        "He sped away on his bike.",
+        "the sound of a motorcycle speeding down the street",
+        "We turned and watched a train speeding by."
+      ]
+    },
+    {
+      "id": 4803,
+      "en": "spice",
+      "translations": {
+        "ru": "специя",
+        "uk": "спеція"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/spice_1",
+      "phonetics": {
+        "us": "/spaɪs/",
+        "uk": "/spaɪs/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spi/spice/spice__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/spi/spice/spice__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spi/spice/spice__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/spi/spice/spice__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "common spices such as ginger and cinnamon",
+        "a spice jar"
+      ]
+    },
+    {
+      "id": 4804,
+      "en": "spill",
+      "translations": {
+        "ru": "проливать",
+        "uk": "проливати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/spill_1",
+      "phonetics": {
+        "us": "/spɪl/",
+        "uk": "/spɪl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spi/spill/spill__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/spi/spill/spill__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spi/spill/spill__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/spi/spill/spill__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Water had spilled out of the bucket onto the floor.",
+        "The bag split, and sugar spilled everywhere.",
+        " (figurative) Light spilled from the windows.",
+        " (figurative) He opened the curtains, letting the morning light spill into the room.",
+        " spill something He startled her and made her spill her drink.",
+        "Thousands of gallons of crude oil were spilled into the ocean.",
+        "I managed to carry three full glasses without spilling a drop.",
+        "I accidentally spilled my drink all over him."
+      ]
+    },
+    {
+      "id": 4805,
+      "en": "spiritual",
+      "translations": {
+        "ru": "духовный",
+        "uk": "духовний"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/spiritual_1",
+      "phonetics": {
+        "us": "/ˈspɪrɪtʃuəl/",
+        "uk": "/ˈspɪrɪtʃuəl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spi/spiri/spiritual__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/spi/spiri/spiritual__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spi/spiri/spiritual__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/spi/spiri/spiritual__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a spiritual experience",
+        "spiritual development",
+        "His music leads us on a spiritual journey.",
+        "the human capacity for spiritual growth ",
+        "a lack of spiritual values in the modern world",
+        "We're concerned about your spiritual welfare.",
+        "I consider myself to have deep moral and spiritual values. "
+      ]
+    },
+    {
+      "id": 4806,
+      "en": "spite",
+      "translations": {
+        "ru": "злоба",
+        "uk": "злоба"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/spite_1",
+      "phonetics": {
+        "us": "/spaɪt/",
+        "uk": "/spaɪt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spi/spite/spite__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/spi/spite/spite__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spi/spite/spite__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/spi/spite/spite__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " out of spite I'm sure he only said it out of spite."
+      ]
+    },
+    {
+      "id": 4807,
+      "en": "split",
+      "translations": {
+        "ru": "раскол",
+        "uk": "розкол"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/split_2",
+      "phonetics": {
+        "us": "/splɪt/",
+        "uk": "/splɪt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spl/split/split__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/spl/split/split__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spl/split/split__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/spl/split/split__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Ten years after their acrimonious split, the band has reformed.",
+        " split in/within something a damaging split within the party leadership",
+        "The move threatened to cause a split in the movement.",
+        " split with somebody/something the years following his bitter split with his wife",
+        " split between A and B There have been reports of a split between the Prime Minister and the Cabinet."
+      ]
+    },
+    {
+      "id": 4808,
+      "en": "split",
+      "translations": {
+        "ru": "расщеплять",
+        "uk": "розщеплювати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/split_1",
+      "phonetics": {
+        "us": "/splɪt/",
+        "uk": "/splɪt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spl/split/split__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/spl/split/split__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spl/split/split__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/spl/split/split__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " split something He was a member of the team that split the atom in 1932.",
+        "Split the coconut in half.",
+        " split something into something She split the class into groups of four.",
+        "Each chapter is split into two parts.",
+        " split into something The results split neatly into two groups.",
+        "Slate splits easily into thin sheets.",
+        "If the nail you use is too big, there's a chance that the wood will split.",
+        "Identical twins come from a single fertilized egg that splits in two."
+      ]
+    },
+    {
+      "id": 4809,
+      "en": "spoil",
+      "translations": {
+        "ru": "портить",
+        "uk": "псувати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/spoil_1",
+      "phonetics": {
+        "us": "/spɔɪl/",
+        "uk": "/spɔɪl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spo/spoil/spoil__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/spo/spoil/spoil__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spo/spoil/spoil__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/spo/spoil/spoil__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Our camping trip was spoilt by bad weather.",
+        "Don't let him spoil your evening.",
+        "The tall buildings have spoiled the view.",
+        "Don't eat too many nuts—you'll spoil your appetite (= will no longer be hungry at the proper time to eat).",
+        "I won’t tell you what happens in the last chapter—I don’t want to spoil it for you."
+      ]
+    },
+    {
+      "id": 4810,
+      "en": "spokesman",
+      "translations": {
+        "ru": "представитель",
+        "uk": "представник"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/spokesman",
+      "phonetics": {
+        "us": "/ˈspəʊksmən/",
+        "uk": "/ˈspəʊksmən/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spo/spoke/spokesman__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/spo/spoke/spokesman__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spo/spoke/spokesman__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/spo/spoke/spokesman__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a police spokesman",
+        "a spokesman on Northern Ireland",
+        " spokesman for somebody/something a spokesman for the government"
+      ]
+    },
+    {
+      "id": 4811,
+      "en": "spokesperson",
+      "translations": {
+        "ru": "представитель",
+        "uk": "представник"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/spokesperson",
+      "phonetics": {
+        "us": "/ˈspəʊkspɜːrsn/",
+        "uk": "/ˈspəʊkspɜːsn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spo/spoke/spokesperson__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/spo/spoke/spokesperson__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spo/spoke/spokesperson__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/spo/spoke/spokesperson__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a council spokesperson",
+        " spokesperson for somebody/something a spokesperson for the local council"
+      ]
+    },
+    {
+      "id": 4812,
+      "en": "spokeswoman",
+      "translations": {
+        "ru": "представительница",
+        "uk": "представниця"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/spokeswoman",
+      "phonetics": {
+        "us": "/ˈspəʊkswʊmən/",
+        "uk": "/ˈspəʊkswʊmən/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spo/spoke/spokesman__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/spo/spoke/spokesman__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spo/spoke/spokesman__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/spo/spoke/spokesman__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "a government spokeswoman",
+        " spokeswoman for somebody/something A spokeswoman for the government denied the rumours."
+      ]
+    },
+    {
+      "id": 4813,
+      "en": "sponsor",
+      "translations": {
+        "ru": "спонсор",
+        "uk": "спонсор"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/sponsor_2",
+      "phonetics": {
+        "us": "/ˈspɑːnsər/",
+        "uk": "/ˈspɒnsə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spo/spons/sponsor__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/spo/spons/sponsor__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spo/spons/sponsor__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/spo/spons/sponsor__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The programme is funded by a number of corporate sponsors.",
+        "The Barbados Tourism Authority is the main sponsor of the event.",
+        "The festival lost a major sponsor last year.",
+        "The race organizers are trying to attract sponsors.",
+        "the title sponsor of the rowing World Cup"
+      ]
+    },
+    {
+      "id": 4814,
+      "en": "sponsor",
+      "translations": {
+        "ru": "спонсировать",
+        "uk": "спонсорувати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/sponsor_1",
+      "phonetics": {
+        "us": "/ˈspɑːnsər/",
+        "uk": "/ˈspɒnsə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spo/spons/sponsor__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/spo/spons/sponsor__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spo/spons/sponsor__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/spo/spons/sponsor__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Sports events are no longer sponsored by the tobacco industry.",
+        " The magazine sponsors an essay competition open to anyone anywhere.",
+        "The World Bank has sponsored several conferences on open government and freedom of information.",
+        "We would like to thank the local businesses who kindly sponsored prizes for the raffle."
+      ]
+    },
+    {
+      "id": 4815,
+      "en": "sponsorship",
+      "translations": {
+        "ru": "спонсорство",
+        "uk": "спонсорство"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/sponsorship",
+      "phonetics": {
+        "us": "/ˈspɑːnsərʃɪp/",
+        "uk": "/ˈspɒnsəʃɪp/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spo/spons/sponsorship__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/spo/spons/sponsorship__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spo/spons/sponsorship__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/spo/spons/sponsorship__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a $50 million sponsorship deal",
+        " in sponsorship The project needs to raise £8 million in sponsorship.",
+        " sponsorship for somebody/something We need to find sponsorships for the expedition."
+      ]
+    },
+    {
+      "id": 4816,
+      "en": "sporting",
+      "translations": {
+        "ru": "спортивный",
+        "uk": "спортивний"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/sporting",
+      "phonetics": {
+        "us": "/ˈspɔːrtɪŋ/",
+        "uk": "/ˈspɔːtɪŋ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spo/sport/sporting__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/spo/sport/sporting__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spo/sport/sporting__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/spo/sport/sporting__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a major sporting event",
+        "a range of sporting activities",
+        "His main sporting interests are golf and tennis.",
+        " (North American English) a store selling sporting goods"
+      ]
+    },
+    {
+      "id": 4817,
+      "en": "spot",
+      "translations": {
+        "ru": "замечать",
+        "uk": "помічати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/spot_2",
+      "phonetics": {
+        "us": "/spɑːt/",
+        "uk": "/spɒt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spo/spot_/spot__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/spo/spot_/spot__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spo/spot_/spot__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/spo/spot_/spot__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " spot somebody/something Can you spot the difference between these two pictures?",
+        "She's always quick to spot an opportunity.",
+        "Teachers, GPs, and other professionals are trained to spot signs of abuse.",
+        "He was only seven years old when someone first spotted his talent.",
+        "Her modelling career began when she was spotted at the age of 14.",
+        "Spotting the disease early can save lives.",
+        "I finally spotted my friend in the crowd.",
+        "I've just spotted a mistake on the front cover.",
+        " spot somebody/something doing something Neighbours spotted smoke coming out of the house.",
+        " spot that… No one spotted that the gun was a fake.",
+        " spot what, where, etc… I soon spotted what the mistake was."
+      ]
+    },
+    {
+      "id": 4818,
+      "en": "spread",
+      "translations": {
+        "ru": "распространение",
+        "uk": "поширення"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/spread_2",
+      "phonetics": {
+        "us": "/spred/",
+        "uk": "/spred/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spr/sprea/spread__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/spr/sprea/spread__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spr/sprea/spread__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/spr/sprea/spread__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "measures to halt the spread of the disease",
+        "to prevent/stop the spread of something",
+        "One disadvantage is the company's lack of geographical spread.",
+        "The treaty has proved rather effective at limiting the spread of nuclear weapons.",
+        "The aim is to encourage the spread of information about the condition.",
+        "Shut doors to delay the spread of fire.",
+        "the spread of a city into the surrounding areas",
+        "Such unhygienic conditions encourage the spread of disease."
+      ]
+    },
+    {
+      "id": 4819,
+      "en": "spring",
+      "translations": {
+        "ru": "прыгать",
+        "uk": "стрибати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/spring_2",
+      "phonetics": {
+        "us": "/sprɪŋ/",
+        "uk": "/sprɪŋ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spr/sprin/spring__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/spr/sprin/spring__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spr/sprin/spring__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/spr/sprin/spring__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The cat crouched ready to spring.",
+        " + adv./prep. He turned off the alarm and sprang out of bed.",
+        "She sprang back in alarm.",
+        "Eric sprang forward and tackled the man to the ground.",
+        "Everyone sprang to their feet (= stood up suddenly) when the principal walked in.",
+        "She sprang from her chair and gave me a warm hug.",
+        "The attacker sprang out at her from a doorway.",
+        " (figurative) to spring to somebody's defence/assistance (= to quickly defend or help somebody)"
+      ]
+    },
+    {
+      "id": 4820,
+      "en": "stable",
+      "translations": {
+        "ru": "стабильный",
+        "uk": "стабільний"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/stable_1",
+      "phonetics": {
+        "us": "/ˈsteɪbl/",
+        "uk": "/ˈsteɪbl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sta/stabl/stable__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/sta/stabl/stable__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sta/stabl/stable__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/sta/stabl/stable__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The patient's condition is stable (= it is not getting worse).",
+        "Cattle prices remain stable.",
+        "The situation in the country has remained relatively stable for a few months now.",
+        "This ladder doesn't seem very stable.",
+        "This would result in a more stable environment for the children.",
+        "a stable relationship",
+        "Efforts to establish a stable democracy in the country may well succeed.",
+        "Put a book under the table leg to keep it stable."
+      ]
+    },
+    {
+      "id": 4821,
+      "en": "stage",
+      "translations": {
+        "ru": "организовывать",
+        "uk": "організовувати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/stage_2",
+      "phonetics": {
+        "us": "/steɪdʒ/",
+        "uk": "/steɪdʒ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sta/stage/stage__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/sta/stage/stage__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sta/stage/stage__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/sta/stage/stage__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "to stage a play/an event/an exhibition",
+        "The local theatre group is staging a production of ‘Hamlet’.",
+        "Birmingham has bid to stage the next national athletics championships."
+      ]
+    },
+    {
+      "id": 4822,
+      "en": "stall",
+      "translations": {
+        "ru": "киоск",
+        "uk": "кіоск"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/stall_1",
+      "phonetics": {
+        "us": "/stɔːl/",
+        "uk": "/stɔːl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sta/stall/stall__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/sta/stall/stall__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sta/stall/stall__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/sta/stall/stall__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "He works on a market stall in the Square.",
+        "They have a fish stall on the market.",
+        "Drinks were being sold from makeshift stalls at the side of the road."
+      ]
+    },
+    {
+      "id": 4823,
+      "en": "stance",
+      "translations": {
+        "ru": "позиция",
+        "uk": "позиція"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/stance",
+      "phonetics": {
+        "us": "/stæns/",
+        "uk": "/stɑːns/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sta/stanc/stance__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/sta/stanc/stance__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sta/stanc/stance__gb_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/sta/stanc/stance__gb_3.ogg"
+        }
+      },
+      "examples": [
+        "What is the newspaper's stance on the war?",
+        "He is known for his anti-abortion stance.",
+        "Judges are increasingly taking a tougher stance on rape."
+      ]
+    },
+    {
+      "id": 4824,
+      "en": "stand",
+      "translations": {
+        "ru": "стенд",
+        "uk": "стенд"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/stand_2",
+      "phonetics": {
+        "us": "/stænd/",
+        "uk": "/stænd/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sta/stand/stand__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/sta/stand/stand__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sta/stand/stand__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/sta/stand/stand__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "He has avoided taking a firm stand.",
+        " stand on something The judge takes a tough stand on corruption.",
+        " stand against something I admire their principled stand against the war."
+      ]
+    },
+    {
+      "id": 4825,
+      "en": "stare",
+      "translations": {
+        "ru": "пялиться",
+        "uk": "витріщатися"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/stare_1",
+      "phonetics": {
+        "us": "/ster/",
+        "uk": "/steə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sta/stare/stare__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/sta/stare/stare__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sta/stare/stare__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/sta/stare/stare__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "I screamed and everyone stared.",
+        " stare at somebody/something I stared blankly at the paper in front of me.",
+        " stare up/down at somebody/something They stared up at the hole in the ceiling.",
+        "He sat staring into space (= looking at nothing).",
+        "I was staring into her beautiful blue eyes.",
+        "She looked at them with dark staring eyes."
+      ]
+    },
+    {
+      "id": 4826,
+      "en": "starve",
+      "translations": {
+        "ru": "голодать",
+        "uk": "голодувати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/starve",
+      "phonetics": {
+        "us": "/stɑːrv/",
+        "uk": "/stɑːv/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sta/starv/starve__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/sta/starv/starve__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sta/starv/starve__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/sta/starv/starve__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The animals were left to starve to death.",
+        "pictures of starving children",
+        "The new job doesn't pay as much but we won't starve!",
+        " starve somebody/yourself She's starving herself to try to lose weight.",
+        "Many of the prisoners looked half starved."
+      ]
+    },
+    {
+      "id": 4827,
+      "en": "status",
+      "translations": {
+        "ru": "статус",
+        "uk": "статус"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/status",
+      "phonetics": {
+        "us": "/ˈstætəs/",
+        "uk": "/ˈsteɪtəs/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sta/statu/status__us_2_rr.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/sta/statu/status__us_2_rr.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sta/statu/status__gb_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/sta/statu/status__gb_3.ogg"
+        }
+      },
+      "examples": [
+        "They were granted refugee status.",
+        "The party was denied legal status.",
+        "The company investigated the immigration status of its workers."
+      ]
+    },
+    {
+      "id": 4828,
+      "en": "steadily",
+      "translations": {
+        "ru": "устойчиво",
+        "uk": "стабільно"
+      },
+      "cefr": "B2",
+      "type": "adverb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/steadily",
+      "phonetics": {
+        "us": "/ˈstedəli/",
+        "uk": "/ˈstedəli/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/ste/stead/steadily__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/ste/stead/steadily__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/ste/stead/steadily__gb_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/ste/stead/steadily__gb_3.ogg"
+        }
+      },
+      "examples": [
+        "The company's exports have been increasing steadily.",
+        "The situation got steadily worse."
+      ]
+    },
+    {
+      "id": 4829,
+      "en": "steady",
+      "translations": {
+        "ru": "устойчивый",
+        "uk": "стійкий"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/steady_1",
+      "phonetics": {
+        "us": "/ˈstedi/",
+        "uk": "/ˈstedi/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/ste/stead/steady__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/ste/stead/steady__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/ste/stead/steady__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/ste/stead/steady__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "We've had five years of steady economic growth.",
+        "The last decade has seen a steady decline in the number of birds nesting here.",
+        "There has been a gradual but steady increase in prices.",
+        "We are making slow but steady progress.",
+        "The castle receives a steady stream of visitors.",
+        "There seemed to be a steady flow of customers all day."
+      ]
+    },
+    {
+      "id": 4830,
+      "en": "steam",
+      "translations": {
+        "ru": "пар",
+        "uk": "пара"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/steam_1",
+      "phonetics": {
+        "us": "/stiːm/",
+        "uk": "/stiːm/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/ste/steam/steam__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/ste/steam/steam__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/ste/steam/steam__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/ste/steam/steam__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Steam rose from the boiling kettle.",
+        "a Turkish steam bath"
+      ]
+    },
+    {
+      "id": 4831,
+      "en": "steel",
+      "translations": {
+        "ru": "сталь",
+        "uk": "сталь"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/steel_1",
+      "phonetics": {
+        "us": "/stiːl/",
+        "uk": "/stiːl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/ste/steel/steel__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/ste/steel/steel__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/ste/steel/steel__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/ste/steel/steel__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "the iron and steel industry",
+        "The frame is made of steel.",
+        "Small steel plates were attached to the front and back of the bone.",
+        "The bridge is reinforced with huge steel girders."
+      ]
+    },
+    {
+      "id": 4832,
+      "en": "steep",
+      "translations": {
+        "ru": "крутой",
+        "uk": "крутий"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/steep_1",
+      "phonetics": {
+        "us": "/stiːp/",
+        "uk": "/stiːp/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/ste/steep/steep__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/ste/steep/steep__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/ste/steep/steep__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/ste/steep/steep__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a steep hill/slope",
+        "a steep climb/descent/drop ",
+        "a steep flight of stairs",
+        "The path grew steeper as we climbed higher.",
+        "The steep banks of the river are largely tree-covered. "
+      ]
+    },
+    {
+      "id": 4833,
+      "en": "step",
+      "translations": {
+        "ru": "шагать",
+        "uk": "крокувати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/step_2",
+      "phonetics": {
+        "us": "/step/",
+        "uk": "/step/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/ste/step_/step__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/ste/step_/step__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/ste/step_/step__gb_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/ste/step_/step__gb_3.ogg"
+        }
+      },
+      "examples": [
+        "to step onto/off a bus",
+        "I stepped forward when my name was called out.",
+        "She stepped aside to let them pass.",
+        "We stepped carefully over the broken glass.",
+        "I turned around quickly and stepped on his toes.",
+        "She opened the door and stepped out into the sunshine.",
+        " (figurative) Going into the hotel is like stepping back in time."
+      ]
+    },
+    {
+      "id": 4834,
+      "en": "sticky",
+      "translations": {
+        "ru": "липкий",
+        "uk": "липкий"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/sticky_1",
+      "phonetics": {
+        "us": "/ˈstɪki/",
+        "uk": "/ˈstɪki/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sti/stick/sticky__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/sti/stick/sticky__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sti/stick/sticky__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/sti/stick/sticky__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "sticky fingers covered in jam",
+        "There's a dish of mango with sweet sticky rice.",
+        "Stir in the milk to make a soft but not sticky dough.",
+        "Her arms were covered in a sticky substance that could only be blood."
+      ]
+    },
+    {
+      "id": 4835,
+      "en": "stiff",
+      "translations": {
+        "ru": "жёсткий",
+        "uk": "жорсткий"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/stiff_1",
+      "phonetics": {
+        "us": "/stɪf/",
+        "uk": "/stɪf/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sti/stiff/stiff__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/sti/stiff/stiff__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sti/stiff/stiff__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/sti/stiff/stiff__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a sheet of stiff black cardboard",
+        "Scrub away any residue with a stiff brush.",
+        "The windows were stiff and she couldn't get them open."
+      ]
+    },
+    {
+      "id": 4836,
+      "en": "stimulate",
+      "translations": {
+        "ru": "стимулировать",
+        "uk": "стимулювати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/stimulate",
+      "phonetics": {
+        "us": "/ˈstɪmjuleɪt/",
+        "uk": "/ˈstɪmjuleɪt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sti/stimu/stimulate__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/sti/stimu/stimulate__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sti/stimu/stimulate__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/sti/stimu/stimulate__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The exhibition has stimulated interest in her work.",
+        "The article can be used to stimulate discussion among students.",
+        "a government package designed to stimulate economic growth"
+      ]
+    },
+    {
+      "id": 4837,
+      "en": "stock",
+      "translations": {
+        "ru": "запас",
+        "uk": "запас"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/stock_1",
+      "phonetics": {
+        "us": "/stɑːk/",
+        "uk": "/stɒk/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sto/stock/stock__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/sto/stock/stock__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sto/stock/stock__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/sto/stock/stock__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "We have a fast turnover of stock.",
+        " in stock That particular model is not currently in stock.",
+        " out of stock I'm afraid we're temporarily out of stock.",
+        " stock of something We don't carry a large stock of pine furniture.",
+        "It is important to carry out regular stock checks."
+      ]
+    },
+    {
+      "id": 4838,
+      "en": "stream",
+      "translations": {
+        "ru": "поток",
+        "uk": "потік"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/stream_1",
+      "phonetics": {
+        "us": "/striːm/",
+        "uk": "/striːm/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/str/strea/stream__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/str/strea/stream__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/str/strea/stream__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/str/strea/stream__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a mountain stream",
+        "We waded across a shallow stream.",
+        "Our rivers and streams are polluted with a host of chemicals."
+      ]
+    },
+    {
+      "id": 4839,
+      "en": "strengthen",
+      "translations": {
+        "ru": "укреплять",
+        "uk": "зміцнювати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/strengthen",
+      "phonetics": {
+        "us": "/ˈstreŋkθn/",
+        "uk": "/ˈstreŋkθn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/str/stren/strengthen__us_1_rr.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/str/stren/strengthen__us_1_rr.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/str/stren/strengthen__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/str/stren/strengthen__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "Her position in the party has strengthened in recent weeks.",
+        " strengthen somebody/something The move is clearly intended to strengthen the president's position as head of state.",
+        "The new evidence will strengthen their case.",
+        "The new manager has strengthened the side by bringing in several younger players."
+      ]
+    },
+    {
+      "id": 4840,
+      "en": "stretch",
+      "translations": {
+        "ru": "растяжение",
+        "uk": "розтягнення"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/stretch_2",
+      "phonetics": {
+        "us": "/stretʃ/",
+        "uk": "/stretʃ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/str/stret/stretch__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/str/stret/stretch__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/str/stret/stretch__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/str/stret/stretch__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a particularly dangerous stretch of road",
+        "There are tailbacks along a 10-mile stretch of the motorway.",
+        "an unspoilt stretch of coastline",
+        "You rarely see boats on this stretch of the river."
+      ]
+    },
+    {
+      "id": 4841,
+      "en": "stretch",
+      "translations": {
+        "ru": "растягивать",
+        "uk": "розтягувати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/stretch_1",
+      "phonetics": {
+        "us": "/stretʃ/",
+        "uk": "/stretʃ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/str/stret/stretch__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/str/stret/stretch__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/str/stret/stretch__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/str/stret/stretch__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Is there any way of stretching shoes?",
+        "Stop stretching your sleeves like that!",
+        "This sweater has stretched."
+      ]
+    },
+    {
+      "id": 4842,
+      "en": "strict",
+      "translations": {
+        "ru": "строгий",
+        "uk": "суворий"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/strict",
+      "phonetics": {
+        "us": "/strɪkt/",
+        "uk": "/strɪkt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/str/stric/strict__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/str/stric/strict__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/str/stric/strict__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/str/stric/strict__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "strict rules/regulations",
+        "There are strict guidelines on how the work is to be carried out.",
+        "The head teacher imposed very strict discipline.",
+        "She's on a very strict diet.",
+        "He told me in the strictest confidence (= on the understanding that I would tell nobody else).",
+        "He expected strict adherence to his rules."
+      ]
+    },
+    {
+      "id": 4843,
+      "en": "strictly",
+      "translations": {
+        "ru": "строго",
+        "uk": "суворо"
+      },
+      "cefr": "B2",
+      "type": "adverb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/strictly",
+      "phonetics": {
+        "us": "/ˈstrɪktli/",
+        "uk": "/ˈstrɪktli/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/str/stric/strictly__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/str/stric/strictly__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/str/stric/strictly__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/str/stric/strictly__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "She was brought up very strictly.",
+        "The industry is strictly regulated."
+      ]
+    },
+    {
+      "id": 4844,
+      "en": "strike",
+      "translations": {
+        "ru": "удар",
+        "uk": "удар"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/strike_2",
+      "phonetics": {
+        "us": "/straɪk/",
+        "uk": "/straɪk/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/str/strik/strike__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/str/strik/strike__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/str/strik/strike__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/str/strik/strike__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "the miners'/firefighters'/teachers' strike",
+        "a strike by teachers",
+        "a one-day strike",
+        "an unofficial strike",
+        "Union leaders called a strike.",
+        "Air traffic controllers are threatening to go on strike.",
+        "Half the workforce are now (out) on strike.",
+        "to come out on strike",
+        "The train drivers have voted to take strike action.",
+        "The student union has called for a rent strike (= a refusal to pay rent as a protest)."
+      ]
+    },
+    {
+      "id": 4845,
+      "en": "strike",
+      "translations": {
+        "ru": "ударять",
+        "uk": "ударяти"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/strike_1",
+      "phonetics": {
+        "us": "/straɪk/",
+        "uk": "/straɪk/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/str/strik/strike__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/str/strik/strike__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/str/strik/strike__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/str/strik/strike__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " strike somebody/something The ship struck a rock.",
+        "The child ran into the road and was struck by a car.",
+        "The tree was struck by lightning.",
+        "Warplanes struck several targets in the city.",
+        " strike somebody/something + adv./prep. He fell, striking his head on the edge of the table.",
+        "He was struck in the head by a bullet.",
+        "The stone struck her on the forehead.",
+        " strike against something The oar struck against something hard."
+      ]
+    },
+    {
+      "id": 4846,
+      "en": "stroke",
+      "translations": {
+        "ru": "удар",
+        "uk": "удар"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/stroke_1",
+      "phonetics": {
+        "us": "/strəʊk/",
+        "uk": "/strəʊk/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/str/strok/stroke__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/str/strok/stroke__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/str/strok/stroke__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/str/strok/stroke__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "What a beautiful stroke!",
+        "He won by two strokes (= in golf, by taking two fewer strokes than his opponent).",
+        "He played some powerful backhand strokes throughout the game."
+      ]
+    },
+    {
+      "id": 4847,
+      "en": "structure",
+      "translations": {
+        "ru": "структурировать",
+        "uk": "структурувати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/structure_2",
+      "phonetics": {
+        "us": "/ˈstrʌktʃər/",
+        "uk": "/ˈstrʌktʃə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/str/struc/structure__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/str/struc/structure__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/str/struc/structure__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/str/struc/structure__gb_2.ogg"
+        }
+      },
+      "examples": [
+        " structure something How well does the teacher structure the lessons?",
+        "Make use of the toys in structured group activities.",
+        " structure something around something The exhibition is structured around the themes of work and leisure."
+      ]
+    },
+    {
+      "id": 4848,
+      "en": "struggle",
+      "translations": {
+        "ru": "борьба",
+        "uk": "боротьба"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/struggle_2",
+      "phonetics": {
+        "us": "/ˈstrʌɡl/",
+        "uk": "/ˈstrʌɡl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/str/strug/struggle__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/str/strug/struggle__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/str/strug/struggle__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/str/strug/struggle__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Marx wrote about the class struggle.",
+        "She played a very important role during the freedom struggle.",
+        " struggle for something a struggle for independence",
+        "Three teams are locked in a struggle for this year's title.",
+        " struggle against something They took up the struggle against racism.",
+        " struggle with something her struggle with cancer",
+        " struggle (with somebody) (to do something) He is engaged in a bitter struggle with his rival to get control of the company.",
+        " struggle between A and B an ongoing power struggle between president and prime minister ",
+        "the struggle between good and evil",
+        "She will not give up her children without a struggle."
+      ]
+    },
+    {
+      "id": 4849,
+      "en": "struggle",
+      "translations": {
+        "ru": "бороться",
+        "uk": "боротися"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/struggle_1",
+      "phonetics": {
+        "us": "/ˈstrʌɡl/",
+        "uk": "/ˈstrʌɡl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/str/strug/struggle__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/str/strug/struggle__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/str/strug/struggle__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/str/strug/struggle__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "life as a struggling artist (= one who is very poor)",
+        " struggle for something Shona struggled for breath.",
+        "a country struggling for independence",
+        " struggle to do something The firm is struggling to cope with the demand for its products.",
+        "Local workers were still struggling to find employment.",
+        "Most social enterprises struggle to survive.",
+        "We're already struggling to keep up with demand. ",
+        "They struggled just to pay their bills.",
+        "She struggled for 10 years to achieve success as an actress.",
+        "I was unemployed and struggling financially.",
+        "The housing market continues to struggle."
+      ]
+    },
+    {
+      "id": 4850,
+      "en": "stuff",
+      "translations": {
+        "ru": "набивать",
+        "uk": "набивати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/stuff_2",
+      "phonetics": {
+        "us": "/stʌf/",
+        "uk": "/stʌf/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/stu/stuff/stuff__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/stu/stuff/stuff__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/stu/stuff/stuff__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/stu/stuff/stuff__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " stuff A with B She had 500 envelopes to stuff with leaflets.",
+        " stuff B in, into, under A She had 500 leaflets to stuff into envelopes.",
+        " stuff something The fridge is stuffed to bursting.",
+        " stuff something + adj. All the drawers were stuffed full of letters and papers."
+      ]
+    },
+    {
+      "id": 4851,
+      "en": "stunning",
+      "translations": {
+        "ru": "потрясающий",
+        "uk": "приголомшливий"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/stunning",
+      "phonetics": {
+        "us": "/ˈstʌnɪŋ/",
+        "uk": "/ˈstʌnɪŋ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/stu/stunn/stunning__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/stu/stunn/stunning__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/stu/stunn/stunning__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/stu/stunn/stunning__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "You look absolutely stunning!",
+        "a stunning view of the lake",
+        "His performance was simply stunning."
+      ]
+    },
+    {
+      "id": 4852,
+      "en": "subject",
+      "translations": {
+        "ru": "подверженный",
+        "uk": "схильний"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/subject_2",
+      "phonetics": {
+        "us": "/ˈsʌbdʒekt/",
+        "uk": "/ˈsʌbdʒekt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sub/subje/subject__us_4_rr.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/sub/subje/subject__us_4_rr.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sub/subje/subject__gb_7.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/sub/subje/subject__gb_7.ogg"
+        }
+      },
+      "examples": [
+        "At this stage these are proposals and are still subject to change.",
+        "The rent is subject to review every five years.",
+        "Flights are subject to delay because of the fog."
+      ]
+    },
+    {
+      "id": 4853,
+      "en": "submit",
+      "translations": {
+        "ru": "представлять",
+        "uk": "подавати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/submit",
+      "phonetics": {
+        "us": "/səbˈmɪt/",
+        "uk": "/səbˈmɪt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sub/submi/submit__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/sub/submi/submit__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sub/submi/submit__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/sub/submi/submit__gb_2.ogg"
+        }
+      },
+      "examples": [
+        " submit something to submit an application/a claim/a proposal",
+        "Completed projects must be submitted by 10 March.",
+        " submit something to somebody/something She submitted her report to the committee.",
+        "Articles should be submitted electronically as email attachments."
+      ]
+    },
+    {
+      "id": 4854,
+      "en": "subsequent",
+      "translations": {
+        "ru": "последующий",
+        "uk": "наступний"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/subsequent",
+      "phonetics": {
+        "us": "/ˈsʌbsɪkwənt/",
+        "uk": "/ˈsʌbsɪkwənt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sub/subse/subsequent__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/sub/subse/subsequent__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sub/subse/subsequent__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/sub/subse/subsequent__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "subsequent generations",
+        "Subsequent events confirmed our doubts.",
+        "Developments on this issue will be dealt with in a subsequent report."
+      ]
+    },
+    {
+      "id": 4855,
+      "en": "subsequently",
+      "translations": {
+        "ru": "впоследствии",
+        "uk": "згодом"
+      },
+      "cefr": "B2",
+      "type": "adverb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/subsequently",
+      "phonetics": {
+        "us": "/ˈsʌbsɪkwəntli/",
+        "uk": "/ˈsʌbsɪkwəntli/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sub/subse/subsequently__us_1_rr.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/sub/subse/subsequently__us_1_rr.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sub/subse/subsequently__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/sub/subse/subsequently__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "The original interview notes were subsequently lost.",
+        "Subsequently, new guidelines were issued to all employees.",
+        "He subsequently became chairman of the party."
+      ]
+    },
+    {
+      "id": 4856,
+      "en": "suburb",
+      "translations": {
+        "ru": "пригород",
+        "uk": "передмістя"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/suburb",
+      "phonetics": {
+        "us": "/ˈsʌbɜːrb/",
+        "uk": "/ˈsʌbɜːb/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sub/subur/suburb__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/sub/subur/suburb__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sub/subur/suburb__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/sub/subur/suburb__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a suburb of London",
+        "a London suburb",
+        " in the suburbs They live in the suburbs."
+      ]
+    },
+    {
+      "id": 4857,
+      "en": "suffering",
+      "translations": {
+        "ru": "страдание",
+        "uk": "страждання"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/suffering",
+      "phonetics": {
+        "us": "/ˈsʌfərɪŋ/",
+        "uk": "/ˈsʌfərɪŋ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/suf/suffe/suffering__us_1_rr.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/suf/suffe/suffering__us_1_rr.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/suf/suffe/suffering__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/suf/suffe/suffering__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Death finally brought an end to her suffering.",
+        "This war has caused widespread human suffering."
+      ]
+    },
+    {
+      "id": 4858,
+      "en": "sufficient",
+      "translations": {
+        "ru": "достаточный",
+        "uk": "достатній"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/sufficient",
+      "phonetics": {
+        "us": "/səˈfɪʃnt/",
+        "uk": "/səˈfɪʃnt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/suf/suffi/sufficient__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/suf/suffi/sufficient__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/suf/suffi/sufficient__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/suf/suffi/sufficient__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "Allow sufficient time to get there.",
+        "One dose should be sufficient.",
+        " sufficient to do something These reasons are not sufficient to justify the ban.",
+        "Our budget is hardly sufficient to pay people, let alone buy any new equipment.",
+        " sufficient for something/somebody Is £100 sufficient for your expenses?",
+        "The salary proved sufficient for his needs."
+      ]
+    },
+    {
+      "id": 4859,
+      "en": "sufficiently",
+      "translations": {
+        "ru": "достаточно",
+        "uk": "достатньо"
+      },
+      "cefr": "B2",
+      "type": "adverb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/sufficiently",
+      "phonetics": {
+        "us": "/səˈfɪʃntli/",
+        "uk": "/səˈfɪʃntli/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/suf/suffi/sufficiently__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/suf/suffi/sufficiently__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/suf/suffi/sufficiently__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/suf/suffi/sufficiently__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The following day she felt sufficiently well to go to work.",
+        "By 1995, bald eagles had recovered sufficiently to be removed from the endangered list."
+      ]
+    },
+    {
+      "id": 4860,
+      "en": "sum",
+      "translations": {
+        "ru": "сумма",
+        "uk": "сума"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/sum_1",
+      "phonetics": {
+        "us": "/sʌm/",
+        "uk": "/sʌm/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sum/sum__/sum__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/sum/sum__/sum__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sum/sum__/sum__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/sum/sum__/sum__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "You will be fined the sum of £200.",
+        "a large sum of money",
+        "The judge awarded them an undisclosed six-figure sum in damages.",
+        "Huge sums have been invested in this project.",
+        "The team has raised substantial sums for local charities."
+      ]
+    },
+    {
+      "id": 4861,
+      "en": "sum",
+      "translations": {
+        "ru": "суммировать",
+        "uk": "підсумовувати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/sum_2",
+      "phonetics": {
+        "us": "/sʌm/",
+        "uk": "/sʌm/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sum/sum__/sum__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/sum/sum__/sum__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sum/sum__/sum__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/sum/sum__/sum__gb_1.ogg"
+        }
+      },
+      "examples": []
+    },
+    {
+      "id": 4862,
+      "en": "super",
+      "translations": {
+        "ru": "супер",
+        "uk": "супер"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/super_1",
+      "phonetics": {
+        "us": "/ˈsuːpər/",
+        "uk": "/ˈsuːpə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sup/super/super__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/sup/super/super__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sup/super/super__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/sup/super/super__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a super meal",
+        "We had a super time in Italy.",
+        "‘The pilot did a super job,’ a passenger said afterwards.",
+        "She was super (= very kind) when I was having problems."
+      ]
+    },
+    {
+      "id": 4863,
+      "en": "surgeon",
+      "translations": {
+        "ru": "хирург",
+        "uk": "хірург"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/surgeon",
+      "phonetics": {
+        "us": "/ˈsɜːrdʒən/",
+        "uk": "/ˈsɜːdʒən/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sur/surge/surgeon__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/sur/surge/surgeon__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sur/surge/surgeon__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/sur/surge/surgeon__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a brain/heart surgeon",
+        "Surgeons performed two operations on him yesterday."
+      ]
+    },
+    {
+      "id": 4864,
+      "en": "surgery",
+      "translations": {
+        "ru": "операция",
+        "uk": "операція"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/surgery",
+      "phonetics": {
+        "us": "/ˈsɜːrdʒəri/",
+        "uk": "/ˈsɜːdʒəri/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sur/surge/surgery__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/sur/surge/surgery__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sur/surge/surgery__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/sur/surge/surgery__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "major/minor surgery",
+        "to undergo heart/knee/shoulder surgery",
+        "He will require surgery on his left knee.",
+        "The doctor had to perform emergency surgery to the patient's head.",
+        "She's a specialist in reconstructive and cosmetic surgery.",
+        "The president is to undergo minor surgery to remove a small growth from his hand."
+      ]
+    },
+    {
+      "id": 4865,
+      "en": "surround",
+      "translations": {
+        "ru": "окружать",
+        "uk": "оточувати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/surround_1",
+      "phonetics": {
+        "us": "/səˈraʊnd/",
+        "uk": "/səˈraʊnd/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sur/surro/surround__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/sur/surro/surround__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sur/surro/surround__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/sur/surro/surround__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " surround something/somebody Tall trees surround the lake.",
+        "the membranes surrounding the brain",
+        " be surrounded by something The garden is surrounded by a wall.",
+        "As a child I was surrounded by love and kindness.",
+        "I loved being surrounded by enthusiastic young people.",
+        " be surrounded with something The lake is surrounded with trees."
+      ]
+    },
+    {
+      "id": 4866,
+      "en": "surrounding",
+      "translations": {
+        "ru": "окружающий",
+        "uk": "навколишній"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/surrounding",
+      "phonetics": {
+        "us": "/səˈraʊndɪŋ/",
+        "uk": "/səˈraʊndɪŋ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sur/surro/surrounding__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/sur/surro/surrounding__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sur/surro/surrounding__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/sur/surro/surrounding__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Oxford and the surrounding area",
+        "From the top of the hill you can see all the surrounding countryside.",
+        "the immediately surrounding area",
+        "The college tries to respond to the needs of the surrounding community. "
+      ]
+    },
+    {
+      "id": 4867,
+      "en": "survey",
+      "translations": {
+        "ru": "обследовать",
+        "uk": "обстежувати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/survey_2",
+      "phonetics": {
+        "us": "/sərˈveɪ/",
+        "uk": "/səˈveɪ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sur/surve/survey__us_2_rr.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/sur/surve/survey__us_2_rr.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sur/surve/survey__gb_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/sur/surve/survey__gb_3.ogg"
+        }
+      },
+      "examples": [
+        "The next morning we surveyed the damage caused by the fire.",
+        "He surveyed himself in the mirror before going out.",
+        "She opened her eyes and surveyed her surroundings."
+      ]
+    },
+    {
+      "id": 4868,
+      "en": "survival",
+      "translations": {
+        "ru": "выживание",
+        "uk": "виживання"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/survival_1",
+      "phonetics": {
+        "us": "/sərˈvaɪvl/",
+        "uk": "/səˈvaɪvl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sur/survi/survival__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/sur/survi/survival__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sur/survi/survival__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/sur/survi/survival__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "the struggle/battle/fight for survival",
+        "His only chance of survival was a heart transplant.",
+        "Exporting is necessary for our economic survival.",
+        "Continued trade in these products is a threat to the survival of the species."
+      ]
+    },
+    {
+      "id": 4869,
+      "en": "survivor",
+      "translations": {
+        "ru": "выживший",
+        "uk": "той, що вижив"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/survivor",
+      "phonetics": {
+        "us": "/sərˈvaɪvər/",
+        "uk": "/səˈvaɪvə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sur/survi/survivor__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/sur/survi/survivor__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sur/survi/survivor__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/sur/survi/survivor__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "the sole/only survivor of the massacre",
+        "The plane crashed in an area of dense jungle. There were no survivors.",
+        "There are only a few survivors from the original team (= members who remain in it while others have been replaced).",
+        "She'll cope. She's one of life's great survivors (= somebody who deals very well with difficult situations).",
+        "A movie has been made about the last remaining survivor of the tribe."
+      ]
+    },
+    {
+      "id": 4870,
+      "en": "suspect",
+      "translations": {
+        "ru": "подозреваемый",
+        "uk": "підозрюваний"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/suspect_2",
+      "phonetics": {
+        "us": "/ˈsʌspekt/",
+        "uk": "/ˈsʌspekt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sus/suspe/suspect__us_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/sus/suspe/suspect__us_3.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sus/suspe/suspect__gb_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/sus/suspe/suspect__gb_3.ogg"
+        }
+      },
+      "examples": [
+        "a murder suspect",
+        "He is the prime suspect in the case.",
+        "Five suspects have been detained for questioning.",
+        "Do you have a list of likely suspects?"
+      ]
+    },
+    {
+      "id": 4871,
+      "en": "suspect",
+      "translations": {
+        "ru": "подозревать",
+        "uk": "підозрювати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/suspect_1",
+      "phonetics": {
+        "us": "/səˈspekt/",
+        "uk": "/səˈspekt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sus/suspe/suspect__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/sus/suspe/suspect__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sus/suspe/suspect__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/sus/suspe/suspect__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "As I had suspected all along, he was not a real policeman.",
+        " suspect something If you suspect a gas leak, do not strike a match or even turn on an electric light.",
+        "Suspecting nothing, he walked right into the trap.",
+        "I didn’t want the neighbours suspecting anything.",
+        " suspect (that)… I began to suspect (that) they were trying to get rid of me.",
+        "I strongly suspect (that) this whole story is fictional.",
+        "She had no reason to suspect (that) Sylvia had not been telling the truth.",
+        "I suspect (that) she might be lying.",
+        " it is suspected that… It was suspected that the drugs had been brought into the country by boat.",
+        " suspect somebody/something to be/have something She suspected him to be an impostor."
+      ]
+    },
+    {
+      "id": 4872,
+      "en": "suspend",
+      "translations": {
+        "ru": "приостанавливать",
+        "uk": "призупиняти"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/suspend",
+      "phonetics": {
+        "us": "/səˈspend/",
+        "uk": "/səˈspend/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sus/suspe/suspend__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/sus/suspe/suspend__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sus/suspe/suspend__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/sus/suspe/suspend__gb_2.ogg"
+        }
+      },
+      "examples": [
+        " be suspended from something A lamp was suspended from the ceiling.",
+        " be suspended by/on something Her body was found suspended by a rope.",
+        " be suspended by/on something from something A boat was suspended on wires from the rafters."
+      ]
+    },
+    {
+      "id": 4873,
+      "en": "sustainable",
+      "translations": {
+        "ru": "устойчивый",
+        "uk": "сталий"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/sustainable",
+      "phonetics": {
+        "us": "/səˈsteɪnəbl/",
+        "uk": "/səˈsteɪnəbl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sus/susta/sustainable__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/sus/susta/sustainable__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sus/susta/sustainable__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/sus/susta/sustainable__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "sustainable forest management",
+        "an environmentally sustainable society",
+        "This type of farming is simply not sustainable any more."
+      ]
+    },
+    {
+      "id": 4874,
+      "en": "swallow",
+      "translations": {
+        "ru": "глотать",
+        "uk": "ковтати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/swallow_1",
+      "phonetics": {
+        "us": "/ˈswɑːləʊ/",
+        "uk": "/ˈswɒləʊ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/swa/swall/swallow__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/swa/swall/swallow__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/swa/swall/swallow__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/swa/swall/swallow__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " swallow (something) Always chew food well before swallowing it.",
+        "I had a sore throat and it hurt to swallow.",
+        " swallow something + adj. The pills should be swallowed whole."
+      ]
+    },
+    {
+      "id": 4875,
+      "en": "swear",
+      "translations": {
+        "ru": "клясться",
+        "uk": "клястися"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/swear",
+      "phonetics": {
+        "us": "/swer/",
+        "uk": "/sweə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/swe/swear/swear__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/swe/swear/swear__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/swe/swear/swear__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/swe/swear/swear__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "She fell over and swore loudly.",
+        "I don't like to hear children swearing.",
+        "He heard her swear under her breath.",
+        " She was shouting, swearing, and acting in an aggressive manner towards the staff",
+        " swear at somebody/something Why did you let him swear at you like that?"
+      ]
+    },
+    {
+      "id": 4876,
+      "en": "sweep",
+      "translations": {
+        "ru": "подметать",
+        "uk": "підмітати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/sweep_1",
+      "phonetics": {
+        "us": "/swiːp/",
+        "uk": "/swiːp/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/swe/sweep/sweep__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/swe/sweep/sweep__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/swe/sweep/sweep__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/swe/sweep/sweep__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " sweep (something) to sweep the floor",
+        "Chimneys should be swept regularly.",
+        "I don't have to sweep and mop every day.",
+        " sweep up Don't just stand around—grab a broom and sweep up.",
+        " sweep something + adj. The showroom had been emptied and swept clean."
+      ]
+    },
+    {
+      "id": 4877,
+      "en": "switch",
+      "translations": {
+        "ru": "переключатель",
+        "uk": "перемикач"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/switch_2",
+      "phonetics": {
+        "us": "/swɪtʃ/",
+        "uk": "/swɪtʃ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/swi/switc/switch__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/swi/switc/switch__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/swi/switc/switch__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/swi/switc/switch__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a light switch",
+        "an on–off switch",
+        "He flipped a switch and the lights came on.",
+        "to flick/press a switch",
+        "to throw a switch (= to move a large switch)",
+        " (figurative) A young team can't just flip a switch and have the experience needed to win.",
+        "That was in the days before electricity was available at the flick of a switch (= by simply pressing a switch)."
+      ]
+    },
+    {
+      "id": 4878,
+      "en": "sympathetic",
+      "translations": {
+        "ru": "сочувствующий",
+        "uk": "співчутливий"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/sympathetic",
+      "phonetics": {
+        "us": "/ˌsɪmpəˈθetɪk/",
+        "uk": "/ˌsɪmpəˈθetɪk/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sym/sympa/sympathetic__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/sym/sympa/sympathetic__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sym/sympa/sympathetic__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/sym/sympa/sympathetic__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a sympathetic listener",
+        "a sympathetic response",
+        "She was very sympathetic when I was sick.",
+        " sympathetic to/towards somebody I did not feel at all sympathetic towards Kate.",
+        "I'm here if you need a sympathetic ear (= somebody to talk to about your problems)."
+      ]
+    },
+    {
+      "id": 4879,
+      "en": "sympathy",
+      "translations": {
+        "ru": "сочувствие",
+        "uk": "співчуття"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/sympathy",
+      "phonetics": {
+        "us": "/ˈsɪmpəθi/",
+        "uk": "/ˈsɪmpəθi/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sym/sympa/sympathy__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/sym/sympa/sympathy__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sym/sympa/sympathy__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/s/sym/sympa/sympathy__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " sympathy for somebody to express/feel sympathy for somebody",
+        "I have no sympathy for Jan—it's all her own fault.",
+        "I wish he'd show me a little more sympathy.",
+        "Our heartfelt sympathy goes out to the victims of the war.",
+        " out of sympathy for somebody Shops were closed out of sympathy for the victims.",
+        " (formal) May we offer our deepest sympathies on the death of your wife.",
+        " (formal) I would like to extend our sincere sympathies to his family at this sad time."
+      ]
+    },
+    {
+      "id": 4880,
+      "en": "tackle",
+      "translations": {
+        "ru": "решать",
+        "uk": "вирішувати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/tackle_1",
+      "phonetics": {
+        "us": "/ˈtækl/",
+        "uk": "/ˈtækl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tac/tackl/tackle__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/t/tac/tackl/tackle__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tac/tackl/tackle__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/t/tac/tackl/tackle__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The government is determined to tackle inflation.",
+        "I think I'll tackle the repairs next weekend.",
+        "Firefighters tackled a blaze in a garage last night."
+      ]
+    },
+    {
+      "id": 4881,
+      "en": "tag",
+      "translations": {
+        "ru": "ярлык",
+        "uk": "ярлик"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/tag_1",
+      "phonetics": {
+        "us": "/tæɡ/",
+        "uk": "/tæɡ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tag/tag__/tag__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/t/tag/tag__/tag__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tag/tag__/tag__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/t/tag/tag__/tag__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "He put name tags on all his shirts.",
+        "a gift tag (= tied to a present)"
+      ]
+    },
+    {
+      "id": 4882,
+      "en": "tag",
+      "translations": {
+        "ru": "помечать",
+        "uk": "позначати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/tag_2",
+      "phonetics": {
+        "us": "/tæɡ/",
+        "uk": "/tæɡ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tag/tag__/tag__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/t/tag/tag__/tag__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tag/tag__/tag__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/t/tag/tag__/tag__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Each animal was tagged with a number for identification.",
+        "The containers were tagged with colour-coded labels."
+      ]
+    },
+    {
+      "id": 4883,
+      "en": "tale",
+      "translations": {
+        "ru": "сказка",
+        "uk": "казка"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/tale",
+      "phonetics": {
+        "us": "/teɪl/",
+        "uk": "/teɪl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tal/tale_/tale__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/t/tal/tale_/tale__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tal/tale_/tale__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/t/tal/tale_/tale__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a coming-of-age/morality tale",
+        " tale of something The story is a classic tale of love and betrayal.",
+        "Dickens’ ‘A Tale of Two Cities’",
+        "His latest book is a delightful children’s tale about talking animals."
+      ]
+    },
+    {
+      "id": 4884,
+      "en": "tank",
+      "translations": {
+        "ru": "танк",
+        "uk": "танк"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/tank_1",
+      "phonetics": {
+        "us": "/tæŋk/",
+        "uk": "/tæŋk/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tan/tank_/tank__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/t/tan/tank_/tank__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tan/tank_/tank__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/t/tan/tank_/tank__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a fuel/water/storage tank",
+        "a fish tank (= for keeping fish in)",
+        "He uses an oxygen tank to breathe."
+      ]
+    },
+    {
+      "id": 4885,
+      "en": "tap",
+      "translations": {
+        "ru": "кран",
+        "uk": "кран"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/tap_2",
+      "phonetics": {
+        "us": "/tæp/",
+        "uk": "/tæp/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tap/tap__/tap__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/t/tap/tap__/tap__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tap/tap__/tap__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/t/tap/tap__/tap__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "bath taps",
+        "the hot/cold tap (= the tap that hot/cold water comes out of)",
+        "Turn the tap on/off.",
+        "Don't leave the tap running.",
+        "You have to run the tap a long time before the hot water comes.",
+        "the sound of a dripping tap",
+        "I put my head under the tap and let the cool water run over me."
+      ]
+    },
+    {
+      "id": 4886,
+      "en": "tap",
+      "translations": {
+        "ru": "стучать",
+        "uk": "стукати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/tap_1",
+      "phonetics": {
+        "us": "/tæp/",
+        "uk": "/tæp/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tap/tap__/tap__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/t/tap/tap__/tap__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tap/tap__/tap__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/t/tap/tap__/tap__gb_2.ogg"
+        }
+      },
+      "examples": [
+        " tap (away) (at something) Someone tapped at the door.",
+        "He was busy tapping away at his computer.",
+        " tap somebody/something Ralph tapped me on the shoulder.",
+        "Tap the icon to open the app."
+      ]
+    },
+    {
+      "id": 4887,
+      "en": "target",
+      "translations": {
+        "ru": "нацеливать",
+        "uk": "націлювати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/target_2",
+      "phonetics": {
+        "us": "/ˈtɑːrɡɪt/",
+        "uk": "/ˈtɑːɡɪt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tar/targe/target__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/t/tar/targe/target__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tar/targe/target__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/t/tar/targe/target__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " target somebody/something He accused the group of deliberately targeting civilians.",
+        "The company has been targeted by animal rights groups for its use of dogs in drugs trials.",
+        " target something at somebody/something The criticism was targeted chiefly at the managing director.",
+        "The missiles were mainly targeted at the United States."
+      ]
+    },
+    {
+      "id": 4888,
+      "en": "tear",
+      "translations": {
+        "ru": "слеза",
+        "uk": "сльоза"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/tear1_2",
+      "phonetics": {
+        "us": "/ter/",
+        "uk": "/teə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tea/tear_/tear__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/t/tea/tear_/tear__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tea/tear_/tear__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/t/tea/tear_/tear__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "This sheet has a tear in it."
+      ]
+    },
+    {
+      "id": 4889,
+      "en": "tear",
+      "translations": {
+        "ru": "рвать",
+        "uk": "рвати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/tear1_1",
+      "phonetics": {
+        "us": "/ter/",
+        "uk": "/teə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tea/tear_/tear__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/t/tea/tear_/tear__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tea/tear_/tear__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/t/tea/tear_/tear__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " tear something + adv./prep. I tore my jeans on the fence.",
+        "I tore a hole in my jeans.",
+        "He tore the letter in two.",
+        "I tore the picture into pieces.",
+        "The letter had been torn to shreds.",
+        " tear (something) His clothes were badly torn.",
+        "Careful—the fabric tears very easily.",
+        " tear something + adj. I tore the package open.",
+        "I tore open the package."
+      ]
+    },
+    {
+      "id": 4890,
+      "en": "technological",
+      "translations": {
+        "ru": "технологический",
+        "uk": "технологічний"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/technological",
+      "phonetics": {
+        "us": "/ˌteknəˈlɑːdʒɪkl/",
+        "uk": "/ˌteknəˈlɒdʒɪkl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tec/techn/technological__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/t/tec/techn/technological__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tec/techn/technological__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/t/tec/techn/technological__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "technological advances",
+        "technological change",
+        "a major technological breakthrough"
+      ]
+    },
+    {
+      "id": 4891,
+      "en": "teens",
+      "translations": {
+        "ru": "подростки",
+        "uk": "підлітки"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/teens",
+      "phonetics": {
+        "us": "/tiːnz/",
+        "uk": "/tiːnz/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tee/teens/teens__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/t/tee/teens/teens__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tee/teens/teens__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/t/tee/teens/teens__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " in your teens She began writing poetry in her teens.",
+        "to be in your early/late teens"
+      ]
+    },
+    {
+      "id": 4892,
+      "en": "temple",
+      "translations": {
+        "ru": "храм",
+        "uk": "храм"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/temple",
+      "phonetics": {
+        "us": "/ˈtempl/",
+        "uk": "/ˈtempl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tem/templ/temple__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/t/tem/templ/temple__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tem/templ/temple__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/t/tem/templ/temple__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "the Temple of Diana at Ephesus",
+        "a Buddhist/Hindu/Sikh temple",
+        " (North American English) to go to temple (= to a service in a synagogue, where Jewish people worship)"
+      ]
+    },
+    {
+      "id": 4893,
+      "en": "temporarily",
+      "translations": {
+        "ru": "временно",
+        "uk": "тимчасово"
+      },
+      "cefr": "B2",
+      "type": "adverb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/temporarily",
+      "phonetics": {
+        "us": "/ˌtempəˈrerəli/",
+        "uk": "/ˈtemprərəli/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tem/tempo/temporarily__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/t/tem/tempo/temporarily__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tem/tempo/temporarily__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/t/tem/tempo/temporarily__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "We regret this service is temporarily unavailable.",
+        "The company announced that it would be temporarily closing the factory because of the global downturn."
+      ]
+    },
+    {
+      "id": 4894,
+      "en": "temporary",
+      "translations": {
+        "ru": "временный",
+        "uk": "тимчасовий"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/temporary",
+      "phonetics": {
+        "us": "/ˈtempəreri/",
+        "uk": "/ˈtemprəri/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tem/tempo/temporary__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/t/tem/tempo/temporary__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tem/tempo/temporary__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/t/tem/tempo/temporary__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "to hire temporary workers",
+        "They had to move into temporary accommodation.",
+        "Volunteers built temporary shelters for the survivors.",
+        "temporary relief from pain",
+        "a temporary fix/measure/solution",
+        "More than half the staff are temporary."
+      ]
+    },
+    {
+      "id": 4895,
+      "en": "tendency",
+      "translations": {
+        "ru": "тенденция",
+        "uk": "тенденція"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/tendency",
+      "phonetics": {
+        "us": "/ˈtendənsi/",
+        "uk": "/ˈtendənsi/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/ten/tende/tendency__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/t/ten/tende/tendency__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/ten/tende/tendency__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/t/ten/tende/tendency__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "to display artistic tendencies",
+        " tendency to do something I have a tendency to talk too much when I'm nervous.",
+        "This material has a tendency to shrink when washed.",
+        " tendency for somebody/something to do something There is a tendency for this disease to run in families.",
+        " tendency to/towards something She has a strong natural tendency towards caution."
+      ]
+    },
+    {
+      "id": 4896,
+      "en": "tension",
+      "translations": {
+        "ru": "напряжение",
+        "uk": "напруга"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/tension_1",
+      "phonetics": {
+        "us": "/ˈtenʃn/",
+        "uk": "/ˈtenʃn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/ten/tensi/tension__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/t/ten/tensi/tension__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/ten/tensi/tension__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/t/ten/tensi/tension__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "There is mounting tension along the border.",
+        "international/racial/political tensions",
+        "Family tensions and conflicts may lead to violence.",
+        " tension between A and B The incident has further increased tension between the two countries."
+      ]
+    },
+    {
+      "id": 4897,
+      "en": "term",
+      "translations": {
+        "ru": "называть",
+        "uk": "називати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/term_2",
+      "phonetics": {
+        "us": "/tɜːrm/",
+        "uk": "/tɜːm/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/ter/term_/term__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/t/ter/term_/term__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/ter/term_/term__gb_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/t/ter/term_/term__gb_3.ogg"
+        }
+      },
+      "examples": [
+        " term somebody/something + adj. At his age, he can hardly be termed young. ",
+        "term somebody/something + noun His research focuses on what he loosely terms ‘African ceremonies’.",
+        " term somebody/something as something Her condition would be more accurately termed as ‘chronic fatigue’."
+      ]
+    },
+    {
+      "id": 4898,
+      "en": "terminal",
+      "translations": {
+        "ru": "терминал",
+        "uk": "термінал"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/terminal_1",
+      "phonetics": {
+        "us": "/ˈtɜːrmɪnl/",
+        "uk": "/ˈtɜːmɪnl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/ter/termi/terminal__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/t/ter/termi/terminal__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/ter/termi/terminal__gb_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/t/ter/termi/terminal__gb_3.ogg"
+        }
+      },
+      "examples": [
+        "A second terminal was opened last year.",
+        "Your flight leaves from Terminal 3."
+      ]
+    },
+    {
+      "id": 4899,
+      "en": "terms",
+      "translations": {
+        "ru": "условия",
+        "uk": "умови"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/terms",
+      "phonetics": {
+        "us": "/tɜːrmz/",
+        "uk": "/tɜːmz/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/ter/terms/terms__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/t/ter/terms/terms__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/ter/terms/terms__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/t/ter/terms/terms__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "peace terms",
+        "They failed to agree on the terms of a settlement.",
+        "These are the terms and conditions of your employment.",
+        " under the terms of something Under the terms of the agreement, their funding of the project will continue until 2025.",
+        " terms for something We are negotiating terms for the development of the site."
+      ]
+    },
+    {
+      "id": 4900,
+      "en": "terribly",
+      "translations": {
+        "ru": "ужасно",
+        "uk": "жахливо"
+      },
+      "cefr": "B2",
+      "type": "adverb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/terribly",
+      "phonetics": {
+        "us": "/ˈterəbli/",
+        "uk": "/ˈterəbli/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/ter/terri/terribly__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/t/ter/terri/terribly__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/ter/terri/terribly__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/t/ter/terri/terribly__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "I'm terribly sorry—did I hurt you?",
+        "It's terribly important for parents to be consistent.",
+        "I’m not terribly interested in politics."
+      ]
+    }
+  ]
+}

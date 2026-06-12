@@ -1,0 +1,3225 @@
+{
+  "batch": "b2_batch_12",
+  "cefr": "B2",
+  "version": 1,
+  "source": "tyypgzl/Oxford-5000-words",
+  "words": [
+    {
+      "id": 4601,
+      "en": "racist",
+      "translations": {
+        "ru": "расистский",
+        "uk": "расистський"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/racist_1",
+      "phonetics": {
+        "us": "/ˈreɪsɪst/",
+        "uk": "/ˈreɪsɪst/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rac/racis/racist__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rac/racis/racist__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rac/racis/racist__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rac/racis/racist__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "racist attitudes/remarks",
+        "racist thugs/attacks",
+        "It's a bit racist to assume I only eat Chinese food."
+      ]
+    },
+    {
+      "id": 4602,
+      "en": "racist",
+      "translations": {
+        "ru": "расист",
+        "uk": "расист"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/racist_2",
+      "phonetics": {
+        "us": "/ˈreɪsɪst/",
+        "uk": "/ˈreɪsɪst/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rac/racis/racist__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rac/racis/racist__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rac/racis/racist__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rac/racis/racist__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "He's a racist.",
+        "The family was being harassed by racists."
+      ]
+    },
+    {
+      "id": 4603,
+      "en": "radiation",
+      "translations": {
+        "ru": "радиация",
+        "uk": "радіація"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/radiation",
+      "phonetics": {
+        "us": "/ˌreɪdiˈeɪʃn/",
+        "uk": "/ˌreɪdiˈeɪʃn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rad/radia/radiation__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rad/radia/radiation__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rad/radia/radiation__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rad/radia/radiation__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "high levels/doses of radiation that damage cells",
+        "the link between exposure to radiation and childhood cancer",
+        "a radiation leak from a nuclear power station",
+        "radiation sickness",
+        "the radiations emitted by radium"
+      ]
+    },
+    {
+      "id": 4604,
+      "en": "rail",
+      "translations": {
+        "ru": "рельс",
+        "uk": "рейка"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/rail_1",
+      "phonetics": {
+        "us": "/reɪl/",
+        "uk": "/reɪl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rai/rail_/rail__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rai/rail_/rail__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rai/rail_/rail__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rai/rail_/rail__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "She leaned on the ship's rail and gazed out to sea."
+      ]
+    },
+    {
+      "id": 4605,
+      "en": "random",
+      "translations": {
+        "ru": "случайный",
+        "uk": "випадковий"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/random_1",
+      "phonetics": {
+        "us": "/ˈrændəm/",
+        "uk": "/ˈrændəm/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ran/rando/random__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/ran/rando/random__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ran/rando/random__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/ran/rando/random__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "the random killing of innocent people",
+        "a random sample/selection (= in which each thing has an equal chance of being chosen)",
+        "The information is processed in a random order.",
+        " (informal) I find and play a lot of random stuff—Bach, blues, bebop.",
+        "He grabbed a random pair of jeans and an old red shirt.",
+        "She dodged the random items that were on the concrete floor."
+      ]
+    },
+    {
+      "id": 4606,
+      "en": "range",
+      "translations": {
+        "ru": "варьироваться",
+        "uk": "варіюватися"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/range_2",
+      "phonetics": {
+        "us": "/reɪndʒ/",
+        "uk": "/reɪndʒ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ran/range/range__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/ran/range/range__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ran/range/range__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/ran/range/range__gb_2.ogg"
+        }
+      },
+      "examples": [
+        " range from A to B Accommodation ranges from tourist class to luxury hotels.",
+        "prices ranging from €25 to €60",
+        " range in something His four daughters range in age from 9 to 15.",
+        "The apartments range in size from 61 to 86 square metres.",
+        " range between A and B Estimates of the damage range between $1 million and $5 million."
+      ]
+    },
+    {
+      "id": 4607,
+      "en": "rank",
+      "translations": {
+        "ru": "ранг",
+        "uk": "ранг"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/rank_1",
+      "phonetics": {
+        "us": "/ræŋk/",
+        "uk": "/ræŋk/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ran/rank_/rank__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/ran/rank_/rank__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ran/rank_/rank__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/ran/rank_/rank__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "She was not used to mixing with people of high social rank.",
+        "He rose through the ranks to become managing director.",
+        "Within months she was elevated to ministerial rank.",
+        " in rank Promotion will mean that I’m immediately above him in rank.",
+        " rank of something Barons are the lowest rank of the nobility."
+      ]
+    },
+    {
+      "id": 4608,
+      "en": "rank",
+      "translations": {
+        "ru": "ранжировать",
+        "uk": "ранжувати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/rank_2",
+      "phonetics": {
+        "us": "/ræŋk/",
+        "uk": "/ræŋk/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ran/rank_/rank__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/ran/rank_/rank__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ran/rank_/rank__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/ran/rank_/rank__gb_2.ogg"
+        }
+      },
+      "examples": [
+        " rank somebody/something In most Australian elections, electors are required to rank all candidates.",
+        " rank somebody/something + adv./prep. The tasks have been ranked in order of difficulty.",
+        "She is currently the highest ranked player in the world.",
+        "top-ranked players",
+        " rank somebody/something as something Forty-five per cent of respondents ranked health as their number one priority.",
+        " rank somebody/something as doing something Voters regularly rank education as being more important than defence.",
+        " rank + adj At the height of her career she ranked second in the world.",
+        " rank somebody/something + adj Last year, he was ranked second in his age group.",
+        " rank somebody/something + noun The university is ranked number one in the country for engineering.",
+        " rank as something It certainly doesn't rank as his greatest win.",
+        " + adv./prep. The restaurant ranks among the finest in town.",
+        "It would certainly rank high on any list of favourite children's books.",
+        "Health and education rank highly with voters.",
+        "This must rank with (= be as good as) the greatest movies ever made.",
+        " (North American English) You just don't rank (= you're not good enough)."
+      ]
+    },
+    {
+      "id": 4609,
+      "en": "rapid",
+      "translations": {
+        "ru": "быстрый",
+        "uk": "швидкий"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/rapid",
+      "phonetics": {
+        "us": "/ˈræpɪd/",
+        "uk": "/ˈræpɪd/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rap/rapid/rapid__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rap/rapid/rapid__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rap/rapid/rapid__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rap/rapid/rapid__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "rapid change/expansion/growth/development",
+        "a rapid rise/increase/decline in sales",
+        "The patient made a rapid recovery.",
+        "a rapid pulse/heartbeat",
+        "The guard fired four shots in rapid succession.",
+        "Work proceeded at a rapid pace.",
+        "The disease is spreading at a rapid rate.",
+        "We try hard to provide a rapid response to requests.",
+        "Rapid economic growth pushed unemployment to relatively low levels."
+      ]
+    },
+    {
+      "id": 4610,
+      "en": "rapidly",
+      "translations": {
+        "ru": "быстро",
+        "uk": "швидко"
+      },
+      "cefr": "B2",
+      "type": "adverb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/rapidly",
+      "phonetics": {
+        "us": "/ˈræpɪdli/",
+        "uk": "/ˈræpɪdli/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rap/rapid/rapidly__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rap/rapid/rapidly__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rap/rapid/rapidly__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rap/rapid/rapidly__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "to increase/spread/expand rapidly",
+        "to change/develop/evolve rapidly",
+        "a rapidly growing economy",
+        "Crime figures are rising rapidly.",
+        "It rapidly became apparent that there were insufficient officers to maintain control. ",
+        "The technology is rapidly changing. "
+      ]
+    },
+    {
+      "id": 4611,
+      "en": "rat",
+      "translations": {
+        "ru": "крыса",
+        "uk": "щур"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/rat_1",
+      "phonetics": {
+        "us": "/ræt/",
+        "uk": "/ræt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rat/rat__/rat__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rat/rat__/rat__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rat/rat__/rat__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rat/rat__/rat__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "rat poison",
+        "The police are all over town. He’s caught, like a rat in a trap."
+      ]
+    },
+    {
+      "id": 4612,
+      "en": "rate",
+      "translations": {
+        "ru": "оценивать",
+        "uk": "оцінювати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/rate_2",
+      "phonetics": {
+        "us": "/reɪt/",
+        "uk": "/reɪt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rat/rate_/rate__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rat/rate_/rate__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rat/rate_/rate__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rat/rate_/rate__gb_2.ogg"
+        }
+      },
+      "examples": [
+        " rate somebody/something + adv./prep. The university is highly rated for its research.",
+        "They rated him highly as a colleague.",
+        " rate somebody/something + adj. Voters continue to rate education high on their list of priorities.",
+        " rate somebody/something (as) something The show was rated (as) a success by critics and audiences.",
+        " rate as something The match rated as one of their worst defeats.",
+        " + adj. I'm afraid our needs do not rate very high with this administration."
+      ]
+    },
+    {
+      "id": 4613,
+      "en": "rating",
+      "translations": {
+        "ru": "рейтинг",
+        "uk": "рейтинг"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/rating",
+      "phonetics": {
+        "us": "/ˈreɪtɪŋ/",
+        "uk": "/ˈreɪtɪŋ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rat/ratin/rating__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rat/ratin/rating__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rat/ratin/rating__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rat/ratin/rating__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Education has been given a high-priority rating by the new administration.",
+        "‘The Big Bang Theory’ was the network show with the highest rating. "
+      ]
+    },
+    {
+      "id": 4614,
+      "en": "raw",
+      "translations": {
+        "ru": "сырой",
+        "uk": "сирий"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/raw_1",
+      "phonetics": {
+        "us": "/rɔː/",
+        "uk": "/rɔː/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/raw/raw__/raw__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/raw/raw__/raw__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/raw/raw__/raw__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/raw/raw__/raw__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "raw meat",
+        "raw eggs/vegetables",
+        "These fish are often eaten raw.",
+        "The tigers were fed raw chicken bones."
+      ]
+    },
+    {
+      "id": 4615,
+      "en": "reach",
+      "translations": {
+        "ru": "досягаемость",
+        "uk": "досяжність"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/reach_2",
+      "phonetics": {
+        "us": "/riːtʃ/",
+        "uk": "/riːtʃ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rea/reach/reach__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rea/reach/reach__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rea/reach/reach__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rea/reach/reach__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " beyond somebody's reach The shot was well beyond the reach of the goalkeeper.",
+        " out of somebody's reach Keep all medicines out of reach of children.",
+        " within somebody's reach He lashed out angrily, hitting anyone within his reach.",
+        "It's a book I like to keep within arm's reach.",
+        "Use shears with a long reach for cutting high hedges.",
+        "As a boxer, his long reach gives him a significant advantage."
+      ]
+    },
+    {
+      "id": 4616,
+      "en": "realistic",
+      "translations": {
+        "ru": "реалистичный",
+        "uk": "реалістичний"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/realistic",
+      "phonetics": {
+        "us": "/ˌriːəˈlɪstɪk/",
+        "uk": "/ˌrɪəˈlɪstɪk/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rea/reali/realistic__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rea/reali/realistic__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rea/reali/realistic__gb_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rea/reali/realistic__gb_3.ogg"
+        }
+      },
+      "examples": [
+        "a realistic assessment/approach/view",
+        " realistic about something We have to be realistic about our chances of winning.",
+        " it is realistic (for somebody) to do something It is not realistic to expect people to spend so much money.",
+        "It would not be realistic for the Government to demand a pay freeze in the sector at this point."
+      ]
+    },
+    {
+      "id": 4617,
+      "en": "reasonable",
+      "translations": {
+        "ru": "разумный",
+        "uk": "розумний"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/reasonable",
+      "phonetics": {
+        "us": "/ˈriːznəbl/",
+        "uk": "/ˈriːznəbl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rea/reaso/reasonable__us_2_rr.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rea/reaso/reasonable__us_2_rr.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rea/reaso/reasonable__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rea/reaso/reasonable__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " it is reasonable to do something It is reasonable to assume that he knew beforehand that this would happen.",
+        "As life expectancy increases, it is reasonable to expect that the retirement age will increase too.",
+        "It seems reasonable to conclude that their claims are unfounded.",
+        " it is reasonable for somebody to do something Is it not reasonable for the government to look for savings and efficiencies?",
+        "Be reasonable! We can't work late every night.",
+        "The prosecution has to prove beyond (a) reasonable doubt that he is guilty of murder.",
+        "We have reasonable grounds for believing that you are responsible.",
+        "Any reasonable person would have done exactly as you did.",
+        "You must take all reasonable steps to ensure that the information that you provide is correct.",
+        "It seems a perfectly reasonable request to make.",
+        "If companies expect work during personal time, it's only reasonable to allow personal time at work.",
+        "I considered the evidence in order to decide what is fair and reasonable in the circumstances."
+      ]
+    },
+    {
+      "id": 4618,
+      "en": "reasonably",
+      "translations": {
+        "ru": "разумно",
+        "uk": "розумно"
+      },
+      "cefr": "B2",
+      "type": "adverb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/reasonably",
+      "phonetics": {
+        "us": "/ˈriːznəbli/",
+        "uk": "/ˈriːznəbli/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rea/reaso/reasonably__us_2_rr.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rea/reaso/reasonably__us_2_rr.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rea/reaso/reasonably__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rea/reaso/reasonably__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The instructions are reasonably straightforward.",
+        "She seems reasonably happy in her new job."
+      ]
+    },
+    {
+      "id": 4619,
+      "en": "rebuild",
+      "translations": {
+        "ru": "перестраивать",
+        "uk": "перебудовувати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/rebuild",
+      "phonetics": {
+        "us": "/ˌriːˈbɪld/",
+        "uk": "/ˌriːˈbɪld/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/reb/rebui/rebuild__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/reb/rebui/rebuild__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/reb/rebui/rebuild__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/reb/rebui/rebuild__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "After the earthquake, the people set about rebuilding their homes.",
+        "He rebuilt the engine using parts from cars that had been scrapped.",
+        "It could take ten years for the area to completely rebuild after the hurricane."
+      ]
+    },
+    {
+      "id": 4620,
+      "en": "recall",
+      "translations": {
+        "ru": "вспоминать",
+        "uk": "згадувати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/recall_1",
+      "phonetics": {
+        "us": "/rɪˈkɔːl/",
+        "uk": "/rɪˈkɔːl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rec/recal/recall__us_1_rr.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rec/recal/recall__us_1_rr.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rec/recal/recall__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rec/recal/recall__gb_2.ogg"
+        }
+      },
+      "examples": [
+        " recall something She could not recall his name.",
+        "Many years later Muir recalled his days at Glasgow University.",
+        "I cannot recall a time when the country faced such serious problems.",
+        "‘I may have; I don't recall,’ she said.",
+        "If I recall correctly, he lives in Luton.",
+        " recall doing something I can't recall meeting her before.",
+        "I vaguely recall seeing the film.",
+        "I seem to recall receiving an email from a reader a while ago.",
+        " recall somebody/something doing something I seem to recall him mentioning a brother once.",
+        " recall that… He recalled that she always came home late on Wednesdays.",
+        "He later recalled that he had met her once.",
+        " recall what, when, etc. Can you recall exactly what happened?",
+        "I can vividly recall where and when I saw them.",
+        " recall + speech ‘It was on a Thursday in March,’ he recalled. "
+      ]
+    },
+    {
+      "id": 4621,
+      "en": "receiver",
+      "translations": {
+        "ru": "получатель",
+        "uk": "одержувач"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/receiver",
+      "phonetics": {
+        "us": "/rɪˈsiːvər/",
+        "uk": "/rɪˈsiːvə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rec/recei/receiver__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rec/recei/receiver__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rec/recei/receiver__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rec/recei/receiver__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "to pick up/lift/put down/replace the receiver"
+      ]
+    },
+    {
+      "id": 4622,
+      "en": "recession",
+      "translations": {
+        "ru": "рецессия",
+        "uk": "рецесія"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/recession",
+      "phonetics": {
+        "us": "/rɪˈseʃn/",
+        "uk": "/rɪˈseʃn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rec/reces/recession__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rec/reces/recession__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rec/reces/recession__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rec/reces/recession__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "How do you assess the impact of the current recession on manufacturing?",
+        " in recession The economy is in deep recession.",
+        "policies to pull the country out of recession",
+        "These industries have been hard hit by recession."
+      ]
+    },
+    {
+      "id": 4623,
+      "en": "reckon",
+      "translations": {
+        "ru": "считать",
+        "uk": "вважати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/reckon",
+      "phonetics": {
+        "us": "/ˈrekən/",
+        "uk": "/ˈrekən/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rec/recko/reckon__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rec/recko/reckon__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rec/recko/reckon__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rec/recko/reckon__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "I reckon (that) I’m going to get that job.",
+        "He'll be famous one day. What do you reckon (= do you agree)?",
+        "It's worth a lot of money, I reckon.",
+        "‘They'll never find out.’ ‘You reckon?’ (= I think you may be wrong about that)"
+      ]
+    },
+    {
+      "id": 4624,
+      "en": "recognition",
+      "translations": {
+        "ru": "признание",
+        "uk": "визнання"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/recognition",
+      "phonetics": {
+        "us": "/ˌrekəɡˈnɪʃn/",
+        "uk": "/ˌrekəɡˈnɪʃn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rec/recog/recognition__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rec/recog/recognition__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rec/recog/recognition__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rec/recog/recognition__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "He glanced briefly towards her but there was no sign of recognition.",
+        "the automatic recognition of handwriting and printed text by computer"
+      ]
+    },
+    {
+      "id": 4625,
+      "en": "recover",
+      "translations": {
+        "ru": "восстанавливаться",
+        "uk": "відновлюватися"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/recover",
+      "phonetics": {
+        "us": "/rɪˈkʌvər/",
+        "uk": "/rɪˈkʌvə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rec/recov/recover__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rec/recov/recover__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rec/recov/recover__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rec/recov/recover__gb_2.ogg"
+        }
+      },
+      "examples": [
+        " recover from something He's still recovering from his operation.",
+        "She spent many weeks in hospital recovering from her injuries.",
+        "He has fully recovered from the shoulder surgery. ",
+        "She remains in serious condition, but is expected to recover.",
+        "The victim is recovering well at home."
+      ]
+    },
+    {
+      "id": 4626,
+      "en": "recovery",
+      "translations": {
+        "ru": "восстановление",
+        "uk": "відновлення"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/recovery",
+      "phonetics": {
+        "us": "/rɪˈkʌvəri/",
+        "uk": "/rɪˈkʌvəri/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rec/recov/recovery__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rec/recov/recovery__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rec/recov/recovery__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rec/recov/recovery__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "My father has made a full recovery from the operation.",
+        "to make a remarkable/quick/speedy/slow recovery",
+        "She is on the road to (= making progress towards) recovery."
+      ]
+    },
+    {
+      "id": 4627,
+      "en": "recruit",
+      "translations": {
+        "ru": "новобранец",
+        "uk": "новобранець"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/recruit_2",
+      "phonetics": {
+        "us": "/rɪˈkruːt/",
+        "uk": "/rɪˈkruːt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rec/recru/recruit__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rec/recru/recruit__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rec/recru/recruit__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rec/recru/recruit__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "the training of new recruits",
+        "He spoke of us scornfully as raw recruits (= people without training or experience)."
+      ]
+    },
+    {
+      "id": 4628,
+      "en": "recruit",
+      "translations": {
+        "ru": "нанимать",
+        "uk": "наймати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/recruit_1",
+      "phonetics": {
+        "us": "/rɪˈkruːt/",
+        "uk": "/rɪˈkruːt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rec/recru/recruit__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rec/recru/recruit__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rec/recru/recruit__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rec/recru/recruit__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " recruit (somebody) We are trying to recruit officers from more diverse backgrounds.",
+        "He's responsible for recruiting at all levels.",
+        " recruit somebody to something They recruited several new members to the club.",
+        " recruit somebody to do something They recruited more staff to deal with the complaints. "
+      ]
+    },
+    {
+      "id": 4629,
+      "en": "recruitment",
+      "translations": {
+        "ru": "набор",
+        "uk": "набір"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/recruitment",
+      "phonetics": {
+        "us": "/rɪˈkruːtmənt/",
+        "uk": "/rɪˈkruːtmənt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rec/recru/recruitment__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rec/recru/recruitment__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rec/recru/recruitment__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rec/recru/recruitment__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "the recruitment of new members",
+        "a recruitment drive",
+        "a recruitment consultant/agency"
+      ]
+    },
+    {
+      "id": 4630,
+      "en": "reduction",
+      "translations": {
+        "ru": "сокращение",
+        "uk": "скорочення"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/reduction",
+      "phonetics": {
+        "us": "/rɪˈdʌkʃn/",
+        "uk": "/rɪˈdʌkʃn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/red/reduc/reduction__us_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/red/reduc/reduction__us_3.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/red/reduc/reduction__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/red/reduc/reduction__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Some staff received wage rises, while others experienced a reduction.",
+        " reduction in something This year has seen a 33% reduction in the number of hospital beds available.",
+        "a drastic reduction in costs",
+        "Business is improving following the reduction in interest rates.",
+        "There has been some reduction in unemployment.",
+        "a significant/substantial reduction in spending",
+        "The report recommends further reductions in air and noise emissions.",
+        "Concern over global warming has not led to a reduction in the use of oil and gas.",
+        "Greater access to medical care for older people will result in reductions in mortality.",
+        " reduction of something There are continuing demands for a reduction of US troop levels in the country."
+      ]
+    },
+    {
+      "id": 4631,
+      "en": "referee",
+      "translations": {
+        "ru": "судья",
+        "uk": "суддя"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/referee_1",
+      "phonetics": {
+        "us": "/ˌrefəˈriː/",
+        "uk": "/ˌrefəˈriː/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ref/refer/referee__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/ref/refer/referee__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ref/refer/referee__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/ref/refer/referee__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "He was sent off for arguing with the referee."
+      ]
+    },
+    {
+      "id": 4632,
+      "en": "refugee",
+      "translations": {
+        "ru": "беженец",
+        "uk": "біженець"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/refugee",
+      "phonetics": {
+        "us": "/ˌrefjuˈdʒiː/",
+        "uk": "/ˌrefjuˈdʒiː/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ref/refug/refugee__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/ref/refug/refugee__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ref/refug/refugee__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/ref/refug/refugee__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "There has been a steady flow of refugees from the war zone.",
+        "political/economic refugees",
+        "political refugees",
+        "a refugee camp"
+      ]
+    },
+    {
+      "id": 4633,
+      "en": "regard",
+      "translations": {
+        "ru": "уважение",
+        "uk": "повага"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/regard_2",
+      "phonetics": {
+        "us": "/rɪˈɡɑːrd/",
+        "uk": "/rɪˈɡɑːd/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/reg/regar/regard__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/reg/regar/regard__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/reg/regar/regard__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/reg/regar/regard__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " regard for somebody/something to have scant/little/no regard for somebody/something",
+        "to pay/show little regard for other people’s property",
+        "Social services should pay proper regard to the needs of inner-city areas.",
+        " without regard to somebody/something He was driving without regard to speed limits."
+      ]
+    },
+    {
+      "id": 4634,
+      "en": "regard",
+      "translations": {
+        "ru": "рассматривать",
+        "uk": "розглядати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/regard_1",
+      "phonetics": {
+        "us": "/rɪˈɡɑːrd/",
+        "uk": "/rɪˈɡɑːd/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/reg/regar/regard__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/reg/regar/regard__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/reg/regar/regard__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/reg/regar/regard__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " regard somebody/something + adv./prep. They regarded people outside their own town with suspicion.",
+        "Her work is very highly regarded.",
+        " regard somebody/something/yourself as something He regards himself as a patriot.",
+        "Capital punishment was regarded as inhuman and immoral.",
+        "She is widely regarded as the current leader's natural successor."
+      ]
+    },
+    {
+      "id": 4635,
+      "en": "regional",
+      "translations": {
+        "ru": "региональный",
+        "uk": "регіональний"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/regional",
+      "phonetics": {
+        "us": "/ˈriːdʒənl/",
+        "uk": "/ˈriːdʒənl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/reg/regio/regional__us_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/reg/regio/regional__us_3.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/reg/regio/regional__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/reg/regio/regional__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "services available at a local and regional level",
+        "the conflict between regional and national interests",
+        "a regional assembly/council/government",
+        "a regional director/manager",
+        "national initiatives for regional development",
+        "a regional office/centre/agency"
+      ]
+    },
+    {
+      "id": 4636,
+      "en": "register",
+      "translations": {
+        "ru": "реестр",
+        "uk": "реєстр"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/register_2",
+      "phonetics": {
+        "us": "/ˈredʒɪstər/",
+        "uk": "/ˈredʒɪstə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/reg/regis/register__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/reg/regis/register__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/reg/regis/register__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/reg/regis/register__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "The bride and groom signed the register.",
+        "Could you sign the hotel register please, sir?",
+        " register of somebody/something They keep a register of all those who have contributed to the fund.",
+        " on a register to be on the register of electors ",
+        "in a register an entry in a register",
+        "Income information will also appear in the register.",
+        " (British English) The teacher took the register (= checked who was present at school).",
+        " (British English) Dr Shaw was struck off the medical register for misconduct."
+      ]
+    },
+    {
+      "id": 4637,
+      "en": "register",
+      "translations": {
+        "ru": "регистрировать",
+        "uk": "реєструвати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/register_1",
+      "phonetics": {
+        "us": "/ˈredʒɪstər/",
+        "uk": "/ˈredʒɪstə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/reg/regis/register__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/reg/regis/register__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/reg/regis/register__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/reg/regis/register__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "You can also register online.",
+        "to register a birth/marriage/death",
+        "to register a company/trademark",
+        " register somebody/something The site has 114 million registered users.",
+        "a registered charity",
+        "We expect about 50 per cent of registered voters to vote in the election.",
+        "The police has registered a case against the company.",
+        "The regulations require doctors and patients to register in a database.",
+        "The ship was registered in Panama.",
+        "Six other families were also registered at the same address.",
+        "to register at a hotel",
+        " register somebody + adj. She is officially registered disabled.",
+        " register as something They encouraged all eligible citizens to register as voters.",
+        " register somebody/something as something He then registered the name as a trademark.",
+        " register with somebody/something to register with a doctor/dentist",
+        " register somebody/something with somebody/something All childminders should be registered with the local authority.",
+        " register for something About 700 people registered for the conference.",
+        " register somebody/something for something The drug has not been registered for use in Australia.",
+        " register to do something More than 5 000 people registered to take part in the contest.",
+        " register somebody to do something 78 per cent reported that they were registered to vote."
+      ]
+    },
+    {
+      "id": 4638,
+      "en": "registration",
+      "translations": {
+        "ru": "регистрация",
+        "uk": "реєстрація"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/registration",
+      "phonetics": {
+        "us": "/ˌredʒɪˈstreɪʃn/",
+        "uk": "/ˌredʒɪˈstreɪʃn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/reg/regis/registration__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/reg/regis/registration__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/reg/regis/registration__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/reg/regis/registration__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "the registration of letters and parcels",
+        "the registration of students for a course",
+        "registration fees",
+        "the registration of a child’s birth"
+      ]
+    },
+    {
+      "id": 4639,
+      "en": "regret",
+      "translations": {
+        "ru": "сожаление",
+        "uk": "жаль"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/regret_2",
+      "phonetics": {
+        "us": "/rɪˈɡret/",
+        "uk": "/rɪˈɡret/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/reg/regre/regret__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/reg/regre/regret__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/reg/regre/regret__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/reg/regre/regret__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a feeling/pang/twinge of regret",
+        " It is a matter of regret that no proper investigation was carried out at the time.",
+        "What is your greatest regret (= the thing that you are most sorry about doing or not doing)?",
+        " with regret It is with great regret that I accept your resignation.",
+        " regret at something She expressed her regret at the decision.",
+        " regret at doing something She admitted her regrets at having had to give up her youthful ambitions.",
+        " regret about doing something I have no regrets about leaving Newcastle (= I do not feel sorry about it).",
+        " regret about something He confessed to a few regrets about his time in Parliament.",
+        " regret for something There has still been no official expression of regret for their deaths.",
+        " regret for doing something He said he felt deep regret for having been part of a government that had brutally violated human rights.",
+        "He gave up teaching in 2009, much to the regret of his students."
+      ]
+    },
+    {
+      "id": 4640,
+      "en": "regret",
+      "translations": {
+        "ru": "сожалеть",
+        "uk": "шкодувати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/regret_1",
+      "phonetics": {
+        "us": "/rɪˈɡret/",
+        "uk": "/rɪˈɡret/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/reg/regre/regret__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/reg/regre/regret__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/reg/regre/regret__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/reg/regre/regret__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " regret something If you don't do it now, you'll only regret it.",
+        "The decision could be one he lives to regret.",
+        "I soon came to regret my action.",
+        "‘I've had a wonderful life,’ she said, ‘I don't regret a thing.’",
+        "She regretted the words the moment they were out of her mouth.",
+        " regret doing something He bitterly regretted ever having mentioned it.",
+        "I never regretted dropping out of college.",
+        " regret what, how, etc… I deeply regret what I said.",
+        " regret that I regret that I never got to meet him in person."
+      ]
+    },
+    {
+      "id": 4641,
+      "en": "regulate",
+      "translations": {
+        "ru": "регулировать",
+        "uk": "регулювати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/regulate",
+      "phonetics": {
+        "us": "/ˈreɡjuleɪt/",
+        "uk": "/ˈreɡjuleɪt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/reg/regul/regulate__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/reg/regul/regulate__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/reg/regul/regulate__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/reg/regul/regulate__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The department is responsible for regulating the insurance industry.",
+        "The activities of credit companies are regulated by law.",
+        "The government accepts whaling in principle as long as it is carefully regulated.",
+        "It is up to the regulating authority to put the measures into effect."
+      ]
+    },
+    {
+      "id": 4642,
+      "en": "regulation",
+      "translations": {
+        "ru": "регулирование",
+        "uk": "регулювання"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/regulation_1",
+      "phonetics": {
+        "us": "/ˌreɡjuˈleɪʃn/",
+        "uk": "/ˌreɡjuˈleɪʃn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/reg/regul/regulation__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/reg/regul/regulation__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/reg/regul/regulation__gb_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/reg/regul/regulation__gb_3.ogg"
+        }
+      },
+      "examples": [
+        "too many rules and regulations",
+        "fire/building regulations",
+        "the strict regulations governing the sale of weapons",
+        "To comply with government hygiene regulations, there must be a separate sink for hand washing.",
+        " against regulations It's against safety regulations to fix these doors open.",
+        " under the regulations Under the new regulations spending on office equipment will be strictly controlled."
+      ]
+    },
+    {
+      "id": 4643,
+      "en": "reinforce",
+      "translations": {
+        "ru": "усиливать",
+        "uk": "посилювати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/reinforce",
+      "phonetics": {
+        "us": "/ˌriːɪnˈfɔːrs/",
+        "uk": "/ˌriːɪnˈfɔːs/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rei/reinf/reinforce__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rei/reinf/reinforce__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rei/reinf/reinforce__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rei/reinf/reinforce__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "The experience reinforced my sense of loss.",
+        "Such jokes tend to reinforce gender stereotypes.",
+        "The climate of political confusion has only reinforced the country's economic decline.",
+        "Success in the talks will reinforce his reputation as an international statesman."
+      ]
+    },
+    {
+      "id": 4644,
+      "en": "relatively",
+      "translations": {
+        "ru": "относительно",
+        "uk": "відносно"
+      },
+      "cefr": "B2",
+      "type": "adverb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/relatively",
+      "phonetics": {
+        "us": "/ˈrelətɪvli/",
+        "uk": "/ˈrelətɪvli/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rel/relat/relatively__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rel/relat/relatively__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rel/relat/relatively__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rel/relat/relatively__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "relatively large/small/high/low",
+        "Lack of exercise is also a risk factor for heart disease but it's relatively small when compared with the others.",
+        "I found the test relatively easy.",
+        "These students had a relatively simple task.",
+        "We had relatively few applications for the job.",
+        "I have relatively little to do this afternoon.",
+        "It all happened in a relatively short period of time.",
+        "At the time, the internet was a relatively new phenomenon.",
+        "He was charged with a relatively minor offence.",
+        "In the early 1960s divorce was still relatively rare."
+      ]
+    },
+    {
+      "id": 4645,
+      "en": "relevant",
+      "translations": {
+        "ru": "релевантный",
+        "uk": "релевантний"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/relevant",
+      "phonetics": {
+        "us": "/ˈreləvənt/",
+        "uk": "/ˈreləvənt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rel/relev/relevant__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rel/relev/relevant__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rel/relev/relevant__gb_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rel/relev/relevant__gb_3.ogg"
+        }
+      },
+      "examples": [
+        "relevant information/facts/documents/factors",
+        "The incident is still under investigation by the relevant authorities.",
+        "a relevant suggestion/question/point",
+        "The decision was in accordance with the relevant provisions of the Police Act 1996.",
+        "Do you have the relevant experience?",
+        " relevant to somebody/something These comments are not directly relevant to this inquiry.",
+        " relevant for somebody/something This book is particularly relevant for the study of Irish history of this period.",
+        " it is relevant to do something It was clearly relevant to consider what effect the proposed works would have on the land."
+      ]
+    },
+    {
+      "id": 4646,
+      "en": "relief",
+      "translations": {
+        "ru": "облегчение",
+        "uk": "полегшення"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/relief",
+      "phonetics": {
+        "us": "/rɪˈliːf/",
+        "uk": "/rɪˈliːf/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rel/relie/relief__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rel/relie/relief__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rel/relie/relief__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rel/relie/relief__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "I felt a huge sense of relief when I heard they were all OK.",
+        "We all breathed a sigh of relief when he left.",
+        "Much to my relief the car was not damaged.",
+        "News of their safety came as a great relief.",
+        "She sighed with relief.",
+        "He smiled in relief as he saw them both.",
+        "She had gone through hell and there was no relief in sight for her. ",
+        "relief to somebody This was a great relief to him.",
+        "It was a relief to be able to talk to someone about it.",
+        "It was a relief to her to realize that she was not the only one with this problem.",
+        " relief that… His mother spoke of her relief that he was now safely home.",
+        "It is actually a relief that it's finally happened.",
+        " relief at something She expressed relief at the outcome of the investigation.",
+        " relief at doing something He described his relief at securing his freedom.",
+        "What a relief!"
+      ]
+    },
+    {
+      "id": 4647,
+      "en": "relieve",
+      "translations": {
+        "ru": "облегчать",
+        "uk": "полегшувати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/relieve",
+      "phonetics": {
+        "us": "/rɪˈliːv/",
+        "uk": "/rɪˈliːv/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rel/relie/relieve__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rel/relie/relieve__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rel/relie/relieve__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rel/relie/relieve__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "to relieve the symptoms of a cold",
+        "to relieve anxiety/guilt/stress",
+        "Being able to tell the truth at last seemed to relieve her."
+      ]
+    },
+    {
+      "id": 4648,
+      "en": "relieved",
+      "translations": {
+        "ru": "успокоенный",
+        "uk": "заспокоєний"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/relieved",
+      "phonetics": {
+        "us": "/rɪˈliːvd/",
+        "uk": "/rɪˈliːvd/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rel/relie/relieved__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rel/relie/relieved__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rel/relie/relieved__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rel/relie/relieved__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "She sounded relieved.",
+        " relieved to see, hear, find, etc. something You'll be relieved to know your jobs are safe.",
+        " relieved (that)… I'm just relieved that nobody was hurt.",
+        "They exchanged relieved glances.",
+        "He was clearly relieved when we offered to pay for the damage."
+      ]
+    },
+    {
+      "id": 4649,
+      "en": "rely",
+      "translations": {
+        "ru": "полагаться",
+        "uk": "покладатися"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/rely",
+      "phonetics": {
+        "us": "/rɪˈlaɪ/",
+        "uk": "/rɪˈlaɪ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rel/rely_/rely__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rel/rely_/rely__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rel/rely_/rely__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rel/rely_/rely__gb_1.ogg"
+        }
+      },
+      "examples": []
+    },
+    {
+      "id": 4650,
+      "en": "remark",
+      "translations": {
+        "ru": "замечание",
+        "uk": "зауваження"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/remark_1",
+      "phonetics": {
+        "us": "/rɪˈmɑːrk/",
+        "uk": "/rɪˈmɑːk/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rem/remar/remark__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rem/remar/remark__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rem/remar/remark__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rem/remar/remark__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "to make a remark",
+        " remark by somebody The controversy intensified following remarks by the President of the European Commission.",
+        "What exactly did you mean by that last remark?",
+        "He made a number of rude remarks about the food.",
+        "He made his opening remarks to the assembled press.",
+        "I'm ready to apologize for my immature remarks."
+      ]
+    },
+    {
+      "id": 4651,
+      "en": "remark",
+      "translations": {
+        "ru": "замечать",
+        "uk": "зауважувати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/remark_2",
+      "phonetics": {
+        "us": "/rɪˈmɑːrk/",
+        "uk": "/rɪˈmɑːk/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rem/remar/remark__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rem/remar/remark__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rem/remar/remark__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rem/remar/remark__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Sport, George Orwell once remarked, is like war.",
+        " remark on/upon somebody/something The judges remarked on the high standard of entries for the competition.",
+        " remark how She remarked how tired I was looking.",
+        " remark + speech ‘It's much colder than yesterday,’ he remarked casually.",
+        " remark to somebody + speech 'That's an excellent idea,' she remarked to her companion.",
+        " remark that… Critics remarked that the play was not original.",
+        " remark to somebody that… He was heard to remark to his wife that the behaviour of some of the guests was appalling.",
+        " be remarked on The similarities between the two have often been remarked on."
+      ]
+    },
+    {
+      "id": 4652,
+      "en": "remarkable",
+      "translations": {
+        "ru": "замечательный",
+        "uk": "визначний"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/remarkable",
+      "phonetics": {
+        "us": "/rɪˈmɑːrkəbl/",
+        "uk": "/rɪˈmɑːkəbl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rem/remar/remarkable__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rem/remar/remarkable__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rem/remar/remarkable__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rem/remar/remarkable__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a remarkable achievement/career/talent",
+        "She was a truly remarkable woman.",
+        "What is even more remarkable about the whole thing is…",
+        " remarkable for something The area is remarkable for its scenery.",
+        " remarkable that… It is remarkable that nobody noticed sooner."
+      ]
+    },
+    {
+      "id": 4653,
+      "en": "remarkably",
+      "translations": {
+        "ru": "замечательно",
+        "uk": "визначно"
+      },
+      "cefr": "B2",
+      "type": "adverb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/remarkably",
+      "phonetics": {
+        "us": "/rɪˈmɑːrkəbli/",
+        "uk": "/rɪˈmɑːkəbli/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rem/remar/remarkably__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rem/remar/remarkably__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rem/remar/remarkably__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rem/remar/remarkably__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The car is in remarkably good condition for its age.",
+        "Remarkably, nobody was killed.",
+        "The two reports are remarkably similar."
+      ]
+    },
+    {
+      "id": 4654,
+      "en": "reporting",
+      "translations": {
+        "ru": "отчётность",
+        "uk": "звітність"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/reporting",
+      "phonetics": {
+        "us": "/rɪˈpɔːrtɪŋ/",
+        "uk": "/rɪˈpɔːtɪŋ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rep/repor/reporting__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rep/repor/reporting__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rep/repor/reporting__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rep/repor/reporting__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "accurate/balanced/objective reporting",
+        " (British English) Reporting restrictions on the trial have been lifted (= it can now legally be reported)."
+      ]
+    },
+    {
+      "id": 4655,
+      "en": "representative",
+      "translations": {
+        "ru": "представительный",
+        "uk": "представницький"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/representative_2",
+      "phonetics": {
+        "us": "/ˌreprɪˈzentətɪv/",
+        "uk": "/ˌreprɪˈzentətɪv/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rep/repre/representative__us_4.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rep/repre/representative__us_4.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rep/repre/representative__gb_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rep/repre/representative__gb_3.ogg"
+        }
+      },
+      "examples": [
+        "Is a questionnaire answered by 500 people truly representative of the population as a whole?",
+        "The paper-thin models in magazines are not representative of most women.",
+        "Some residents argued that the protesters were not representative of the community.",
+        "The painting is not representative of his work of the period."
+      ]
+    },
+    {
+      "id": 4656,
+      "en": "representative",
+      "translations": {
+        "ru": "представитель",
+        "uk": "представник"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/representative_1",
+      "phonetics": {
+        "us": "/ˌreprɪˈzentətɪv/",
+        "uk": "/ˌreprɪˈzentətɪv/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rep/repre/representative__us_4.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rep/repre/representative__us_4.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rep/repre/representative__gb_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rep/repre/representative__gb_3.ogg"
+        }
+      },
+      "examples": [
+        "Our elected representatives in government should be doing something about this.",
+        "Management are obliged to consult with union representatives about changes to conditions.",
+        "The actor's legal representatives have strongly denied the allegations. ",
+        "He was the Queen's representative at the ceremony.",
+        " representative of somebody/something a representative of the UN",
+        " representative from something The committee includes representatives from industry."
+      ]
+    },
+    {
+      "id": 4657,
+      "en": "reputation",
+      "translations": {
+        "ru": "репутация",
+        "uk": "репутація"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/reputation",
+      "phonetics": {
+        "us": "/ˌrepjuˈteɪʃn/",
+        "uk": "/ˌrepjuˈteɪʃn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rep/reput/reputation__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rep/reput/reputation__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rep/reput/reputation__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rep/reput/reputation__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "to have a good/bad reputation",
+        "to build/earn a reputation",
+        " reputation as something She soon established a reputation as a first-class cook.",
+        " reputation for something The company enjoys an international reputation for quality of design.",
+        "a politician with a reputation for honesty",
+        " reputation for doing something I'm aware of Mark's reputation for being late.",
+        " reputation of being something He has the reputation of being a hard worker.",
+        "to damage/tarnish/ruin somebody’s reputation",
+        "The weather in England is living up to its reputation (= is exactly as expected).",
+        " by reputation She is, by reputation, very difficult to please."
+      ]
+    },
+    {
+      "id": 4658,
+      "en": "requirement",
+      "translations": {
+        "ru": "требование",
+        "uk": "вимога"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/requirement",
+      "phonetics": {
+        "us": "/rɪˈkwaɪərmənt/",
+        "uk": "/rɪˈkwaɪəmənt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/req/requi/requirement__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/req/requi/requirement__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/req/requi/requirement__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/req/requi/requirement__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "the basic requirements of life",
+        "a software solution to meet your requirements",
+        "All products can be customized to suit your specific requirements.",
+        "Our immediate requirement is extra staff.",
+        "These goods are surplus to requirements (= more than we need)."
+      ]
+    },
+    {
+      "id": 4659,
+      "en": "rescue",
+      "translations": {
+        "ru": "спасение",
+        "uk": "порятунок"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/rescue_2",
+      "phonetics": {
+        "us": "/ˈreskjuː/",
+        "uk": "/ˈreskjuː/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/rescu/rescue__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/res/rescu/rescue__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/rescu/rescue__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/res/rescu/rescue__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "We had given up hope of rescue.",
+        "A wealthy benefactor came to their rescue with a generous donation.",
+        "a rescue operation/mission",
+        "a mountain rescue team",
+        "rescue helicopters/boats/workers",
+        "The United Nations is helping to coordinate rescue efforts."
+      ]
+    },
+    {
+      "id": 4660,
+      "en": "rescue",
+      "translations": {
+        "ru": "спасать",
+        "uk": "рятувати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/rescue_1",
+      "phonetics": {
+        "us": "/ˈreskjuː/",
+        "uk": "/ˈreskjuː/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/rescu/rescue__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/res/rescu/rescue__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/rescu/rescue__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/res/rescu/rescue__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " rescue somebody/something from something/somebody The coastguard rescued six people from the sinking boat.",
+        "The woman was rescued from her burning home by firefighters.",
+        "You rescued me from an embarrassing situation.",
+        "The house was rescued from demolition.",
+        " rescue somebody/something from doing something He rescued a child from drowning.",
+        " rescue somebody/something The hostages were rescued and brought to safety.",
+        "The shelter rescues stray dogs.",
+        " rescue somebody/something + adj. She had despaired of ever being rescued alive."
+      ]
+    },
+    {
+      "id": 4661,
+      "en": "reserve",
+      "translations": {
+        "ru": "резерв",
+        "uk": "резерв"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/reserve_1",
+      "phonetics": {
+        "us": "/rɪˈzɜːrv/",
+        "uk": "/rɪˈzɜːv/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/reser/reserve__us_4.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/res/reser/reserve__us_4.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/reser/reserve__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/res/reser/reserve__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "cash/foreign currency reserves",
+        "large oil and gas reserves",
+        "reserve funds",
+        " reserve of something He discovered unexpected reserves of strength.",
+        "The country has the world's largest reserves of coal.",
+        "The company has substantial reserves of capital."
+      ]
+    },
+    {
+      "id": 4662,
+      "en": "reserve",
+      "translations": {
+        "ru": "резервировать",
+        "uk": "резервувати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/reserve_2",
+      "phonetics": {
+        "us": "/rɪˈzɜːrv/",
+        "uk": "/rɪˈzɜːv/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/reser/reserve__us_4.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/res/reser/reserve__us_4.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/reser/reserve__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/res/reser/reserve__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " reserve something for somebody/something I'd like to reserve a table for three for eight o'clock.",
+        " reserve something I've reserved a room in the name of Jones."
+      ]
+    },
+    {
+      "id": 4663,
+      "en": "resident",
+      "translations": {
+        "ru": "проживающий",
+        "uk": "що проживає"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/resident_2",
+      "phonetics": {
+        "us": "/ˈrezɪdənt/",
+        "uk": "/ˈrezɪdənt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/resid/resident__us_1_rr.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/res/resid/resident__us_1_rr.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/resid/resident__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/res/resid/resident__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "the town’s resident population (= not tourists or visitors)",
+        "to be resident abroad/in the UK",
+        "Tom's our resident expert (= our own expert) on foreign movies."
+      ]
+    },
+    {
+      "id": 4664,
+      "en": "resident",
+      "translations": {
+        "ru": "житель",
+        "uk": "мешканець"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/resident_1",
+      "phonetics": {
+        "us": "/ˈrezɪdənt/",
+        "uk": "/ˈrezɪdənt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/resid/resident__us_1_rr.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/res/resid/resident__us_1_rr.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/resid/resident__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/res/resid/resident__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "a resident of the United States",
+        "The proposals sparked concern among local residents."
+      ]
+    },
+    {
+      "id": 4665,
+      "en": "resign",
+      "translations": {
+        "ru": "уходить в отставку",
+        "uk": "іти у відставку"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/resign",
+      "phonetics": {
+        "us": "/rɪˈzaɪn/",
+        "uk": "/rɪˈzaɪn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/resig/resign__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/res/resig/resign__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/resig/resign__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/res/resig/resign__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "She was forced to resign due to ill health.",
+        " resign as something He resigned as manager after eight years.",
+        " resign from something Two members resigned from the board in protest.",
+        " resign over something Some judges have threatened to resign over this issue.",
+        " resign something My father resigned his directorship last year."
+      ]
+    },
+    {
+      "id": 4666,
+      "en": "resist",
+      "translations": {
+        "ru": "сопротивляться",
+        "uk": "опиратися"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/resist",
+      "phonetics": {
+        "us": "/rɪˈzɪst/",
+        "uk": "/rɪˈzɪst/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/resis/resist__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/res/resis/resist__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/resis/resist__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/res/resis/resist__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " resist something They are determined to resist pressure to change the law.",
+        "People naturally resist change.",
+        " resist doing something The bank strongly resisted cutting interest rates.",
+        "Residents who oppose the plans are threatening to resist."
+      ]
+    },
+    {
+      "id": 4667,
+      "en": "resolution",
+      "translations": {
+        "ru": "резолюция",
+        "uk": "резолюція"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/resolution",
+      "phonetics": {
+        "us": "/ˌrezəˈluːʃn/",
+        "uk": "/ˌrezəˈluːʃn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/resol/resolution__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/res/resol/resolution__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/resol/resolution__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/res/resol/resolution__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Have you made any New Year's resolutions (= for example, to give up smoking from 1 January)?",
+        " resolution to do something She made a resolution to visit her relatives more often.",
+        "I made a New Year resolution to give up smoking."
+      ]
+    },
+    {
+      "id": 4668,
+      "en": "resolve",
+      "translations": {
+        "ru": "решать",
+        "uk": "вирішувати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/resolve_1",
+      "phonetics": {
+        "us": "/rɪˈzɑːlv/",
+        "uk": "/rɪˈzɒlv/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/resol/resolve__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/res/resol/resolve__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/resol/resolve__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/res/resol/resolve__gb_2.ogg"
+        }
+      },
+      "examples": [
+        " resolve something to resolve an issue/a dispute/a conflict/a crisis",
+        "Attempts are being made to resolve the problem of security in schools.",
+        "Both sides met in order to try to resolve their differences.",
+        "We hope to resolve the matter as soon as possible.",
+        "Everything is being done to resolve the situation.",
+        "The dispute has not been fully resolved.",
+        " resolve itself Be patient and the situation may resolve itself."
+      ]
+    },
+    {
+      "id": 4669,
+      "en": "resort",
+      "translations": {
+        "ru": "курорт",
+        "uk": "курорт"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/resort_1",
+      "phonetics": {
+        "us": "/rɪˈzɔːrt/",
+        "uk": "/rɪˈzɔːt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/resor/resort__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/res/resor/resort__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/resor/resort__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/res/resor/resort__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "seaside/mountain resorts",
+        "They spent a month at a fashionable ski resort in Switzerland.",
+        "a popular tourist resort",
+        " (British English also) a popular holiday resort",
+        "the resort town of Byron Bay",
+        "destination resorts such as Atlantis in the Bahamas"
+      ]
+    },
+    {
+      "id": 4670,
+      "en": "restore",
+      "translations": {
+        "ru": "восстанавливать",
+        "uk": "відновлювати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/restore",
+      "phonetics": {
+        "us": "/rɪˈstɔːr/",
+        "uk": "/rɪˈstɔː(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/resto/restore__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/res/resto/restore__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/resto/restore__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/res/resto/restore__gb_2.ogg"
+        }
+      },
+      "examples": [
+        " restore something The measures are intended to restore public confidence in the economy.",
+        "Order was quickly restored after the riots.",
+        "Such kindness restores your faith in human nature (= makes you believe most people are kind).",
+        "The operation restored his sight (= made him able to see again).",
+        " restore something to somebody Peace has now been restored to the area."
+      ]
+    },
+    {
+      "id": 4671,
+      "en": "restrict",
+      "translations": {
+        "ru": "ограничивать",
+        "uk": "обмежувати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/restrict",
+      "phonetics": {
+        "us": "/rɪˈstrɪkt/",
+        "uk": "/rɪˈstrɪkt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/restr/restrict__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/res/restr/restrict__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/restr/restrict__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/res/restr/restrict__gb_2.ogg"
+        }
+      },
+      "examples": [
+        " restrict something to something Speed is restricted to 30 mph in towns.",
+        "We restrict the number of students per class to ten.",
+        " restrict something Fog severely restricted visibility.",
+        "Having small children tends to restrict your freedom."
+      ]
+    },
+    {
+      "id": 4672,
+      "en": "restriction",
+      "translations": {
+        "ru": "ограничение",
+        "uk": "обмеження"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/restriction",
+      "phonetics": {
+        "us": "/rɪˈstrɪkʃn/",
+        "uk": "/rɪˈstrɪkʃn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/restr/restriction__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/res/restr/restriction__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/restr/restriction__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/res/restr/restriction__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "import/speed/travel restrictions",
+        " restriction on something to impose/place a restriction on something",
+        "The government has agreed to lift restrictions on press freedom.",
+        "There are no restrictions on the amount of money you can withdraw."
+      ]
+    },
+    {
+      "id": 4673,
+      "en": "retail",
+      "translations": {
+        "ru": "розничная торговля",
+        "uk": "роздрібна торгівля"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/retail1_1",
+      "phonetics": {
+        "us": "/ˈriːteɪl/",
+        "uk": "/ˈriːteɪl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ret/retai/retail__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/ret/retai/retail__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ret/retai/retail__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/ret/retai/retail__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The recommended retail price is £9.99.",
+        "department stores and other retail outlets",
+        "the retail trade"
+      ]
+    },
+    {
+      "id": 4674,
+      "en": "retain",
+      "translations": {
+        "ru": "сохранять",
+        "uk": "зберігати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/retain",
+      "phonetics": {
+        "us": "/rɪˈteɪn/",
+        "uk": "/rɪˈteɪn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ret/retai/retain__us_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/ret/retai/retain__us_3.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ret/retai/retain__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/ret/retai/retain__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "to retain your independence",
+        "He struggled to retain control of the situation.",
+        "The house retains much of its original charm.",
+        "She retained her tennis title for the third year."
+      ]
+    },
+    {
+      "id": 4675,
+      "en": "retirement",
+      "translations": {
+        "ru": "пенсия",
+        "uk": "пенсія"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/retirement",
+      "phonetics": {
+        "us": "/rɪˈtaɪərmənt/",
+        "uk": "/rɪˈtaɪəmənt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ret/retir/retirement__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/ret/retir/retirement__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ret/retir/retirement__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/ret/retir/retirement__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "At 60, he was now approaching retirement.",
+        "Susan is going to take early retirement (= retire before the usual age).",
+        "retirement age",
+        "This year we have seen the retirements of several senior personnel.",
+        "a retirement pension"
+      ]
+    },
+    {
+      "id": 4676,
+      "en": "reveal",
+      "translations": {
+        "ru": "раскрывать",
+        "uk": "розкривати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/reveal_1",
+      "phonetics": {
+        "us": "/rɪˈviːl/",
+        "uk": "/rɪˈviːl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rev/revea/reveal__us_5.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rev/revea/reveal__us_5.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rev/revea/reveal__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rev/revea/reveal__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " reveal something to reveal a secret",
+        "Her expression revealed nothing.",
+        "A series of flashbacks reveal the details of the tragedy.",
+        "The identity of the buyer has not been revealed.",
+        "The survey reveals some worrying statistics.",
+        " reveal something to somebody The doctors did not reveal the truth to him.",
+        " reveal (that)… The report reveals that the company made a loss of £20 million last year.",
+        " it is revealed that… It was revealed that important evidence had been suppressed.",
+        " reveal how, what, etc… Officers could not reveal how he died.",
+        " reveal somebody/something to be/have something Salted peanuts were recently revealed to be the nation's favourite snack.",
+        " reveal somebody/something as something He has been revealed as a traitor."
+      ]
+    },
+    {
+      "id": 4677,
+      "en": "revenue",
+      "translations": {
+        "ru": "доход",
+        "uk": "дохід"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/revenue",
+      "phonetics": {
+        "us": "/ˈrevənuː/",
+        "uk": "/ˈrevənjuː/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rev/reven/revenue__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rev/reven/revenue__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rev/reven/revenue__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rev/reven/revenue__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "The government is currently facing a shortfall in tax revenue.",
+        "Advertising revenue finances the commercial television channels.",
+        "a slump in oil revenues",
+        "The company's annual revenues rose by 30%."
+      ]
+    },
+    {
+      "id": 4678,
+      "en": "revision",
+      "translations": {
+        "ru": "пересмотр",
+        "uk": "перегляд"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/revision",
+      "phonetics": {
+        "us": "/rɪˈvɪʒn/",
+        "uk": "/rɪˈvɪʒn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rev/revis/revision__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rev/revis/revision__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rev/revis/revision__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rev/revis/revision__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "He made some minor revisions to the report before printing it out."
+      ]
+    },
+    {
+      "id": 4679,
+      "en": "revolution",
+      "translations": {
+        "ru": "революция",
+        "uk": "революція"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/revolution",
+      "phonetics": {
+        "us": "/ˌrevəˈluːʃn/",
+        "uk": "/ˌrevəˈluːʃn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rev/revol/revolution__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rev/revol/revolution__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rev/revol/revolution__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rev/revol/revolution__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "a socialist revolution",
+        "the outbreak of the French Revolution in 1789",
+        "The shooting and killing of thirty people started a revolution.",
+        "The country appears to be on the brink of revolution."
+      ]
+    },
+    {
+      "id": 4680,
+      "en": "reward",
+      "translations": {
+        "ru": "награда",
+        "uk": "нагорода"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/reward_1",
+      "phonetics": {
+        "us": "/rɪˈwɔːrd/",
+        "uk": "/rɪˈwɔːd/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rew/rewar/reward__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rew/rewar/reward__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rew/rewar/reward__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rew/rewar/reward__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a financial reward",
+        " reward for something a reward for good behaviour",
+        " reward for doing something You deserve a reward for being so helpful.",
+        "Winning the match was just reward for the effort the team had made.",
+        "They're playing the game more for the love of sport than for financial reward.",
+        "The company is now reaping the rewards of their investments.",
+        " Top corporate jobs are not without their rewards. ",
+        "The appointment was widely seen as a reward for his loyalty. "
+      ]
+    },
+    {
+      "id": 4681,
+      "en": "reward",
+      "translations": {
+        "ru": "награждать",
+        "uk": "нагороджувати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/reward_2",
+      "phonetics": {
+        "us": "/rɪˈwɔːrd/",
+        "uk": "/rɪˈwɔːd/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rew/rewar/reward__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rew/rewar/reward__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rew/rewar/reward__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rew/rewar/reward__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " reward somebody for something She was rewarded for her efforts with a cash bonus.",
+        " reward somebody for doing something He rewarded us handsomely (= with a lot of money) for helping him.",
+        "In some states of India, doctors are richly rewarded for serving in the rural areas. ",
+        "reward somebody with something She started singing to the baby and was rewarded with a smile.",
+        " reward somebody/something Our patience was finally rewarded.",
+        "After a steep climb you will be rewarded by magnificent views from the summit."
+      ]
+    },
+    {
+      "id": 4682,
+      "en": "rhythm",
+      "translations": {
+        "ru": "ритм",
+        "uk": "ритм"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/rhythm",
+      "phonetics": {
+        "us": "/ˈrɪðəm/",
+        "uk": "/ˈrɪðəm/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rhy/rhyth/rhythm__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rhy/rhyth/rhythm__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rhy/rhyth/rhythm__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rhy/rhyth/rhythm__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "to dance to the rhythm of the music",
+        "I listened to the steady rhythm of her breathing.",
+        "music with a fast/slow/steady rhythm",
+        "I love these jazz rhythms.",
+        "abnormal heart rhythms",
+        " in rhythm He can't seem to play in rhythm.",
+        " in rhythm with something The boat rocked up and down in rhythm with the sea.",
+        "a dancer with a natural sense of rhythm (= the ability to move in time to a fixed beat)"
+      ]
+    },
+    {
+      "id": 4683,
+      "en": "rid",
+      "translations": {
+        "ru": "избавлять",
+        "uk": "позбавляти"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/rid",
+      "phonetics": {
+        "us": "/rɪd/",
+        "uk": "/rɪd/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rid/rid__/rid__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rid/rid__/rid__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rid/rid__/rid__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rid/rid__/rid__gb_1.ogg"
+        }
+      },
+      "examples": []
+    },
+    {
+      "id": 4684,
+      "en": "ridiculous",
+      "translations": {
+        "ru": "смешной",
+        "uk": "смішний"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/ridiculous",
+      "phonetics": {
+        "us": "/rɪˈdɪkjələs/",
+        "uk": "/rɪˈdɪkjələs/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rid/ridic/ridiculous__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rid/ridic/ridiculous__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rid/ridic/ridiculous__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rid/ridic/ridiculous__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "I look ridiculous in this hat.",
+        "Don't be ridiculous! You can't pay £50 for a T-shirt!",
+        "It was ridiculous that this should be so difficult to say.",
+        "They ate and drank a ridiculous amount."
+      ]
+    },
+    {
+      "id": 4685,
+      "en": "risky",
+      "translations": {
+        "ru": "рискованный",
+        "uk": "ризикований"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/risky",
+      "phonetics": {
+        "us": "/ˈrɪski/",
+        "uk": "/ˈrɪski/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ris/risky/risky__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/ris/risky/risky__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ris/risky/risky__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/ris/risky/risky__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Life as an aid worker can be a risky business (= dangerous).",
+        "Even a very good company can be a risky investment if it is overvalued.",
+        "It's far too risky to generalize from one set of results."
+      ]
+    },
+    {
+      "id": 4686,
+      "en": "rival",
+      "translations": {
+        "ru": "соперничающий",
+        "uk": "суперницький"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/rival_2",
+      "phonetics": {
+        "us": "/ˈraɪvl/",
+        "uk": "/ˈraɪvl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/riv/rival/rival__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/riv/rival/rival__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/riv/rival/rival__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/riv/rival/rival__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a rival bid/claim/offer",
+        "fighting between rival groups/factions",
+        "He was shot by a member of a rival gang."
+      ]
+    },
+    {
+      "id": 4687,
+      "en": "rival",
+      "translations": {
+        "ru": "соперник",
+        "uk": "суперник"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/rival_1",
+      "phonetics": {
+        "us": "/ˈraɪvl/",
+        "uk": "/ˈraɪvl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/riv/rival/rival__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/riv/rival/rival__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/riv/rival/rival__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/riv/rival/rival__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The two teams have always been rivals.",
+        "Marlowe was Shakespeare's main rival at the beginning of his career.",
+        "the company's nearest/closest rival in the business",
+        "The two men were bitter rivals throughout their careers.",
+        "This latest design has no rivals (= it is easily the best design available).",
+        " rival for something She has no rivals for the job.",
+        " rival to somebody/something Grand it may be, but this cathedral is no rival to the great cathedral of Amiens."
+      ]
+    },
+    {
+      "id": 4688,
+      "en": "rob",
+      "translations": {
+        "ru": "грабить",
+        "uk": "грабувати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/rob_1",
+      "phonetics": {
+        "us": "/rɑːb/",
+        "uk": "/rɒb/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rob/rob__/rob__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rob/rob__/rob__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rob/rob__/rob__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rob/rob__/rob__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "to rob a bank",
+        "The tomb had been robbed of its treasures.",
+        "The gang had robbed and killed the drugstore owner."
+      ]
+    },
+    {
+      "id": 4689,
+      "en": "robbery",
+      "translations": {
+        "ru": "ограбление",
+        "uk": "пограбування"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/robbery",
+      "phonetics": {
+        "us": "/ˈrɑːbəri/",
+        "uk": "/ˈrɒbəri/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rob/robbe/robbery__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rob/robbe/robbery__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rob/robbe/robbery__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rob/robbe/robbery__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "armed robbery (= using a gun, knife, etc.)",
+        "There has been a spate of robberies in the area recently.",
+        "He was shot as he tried to foil a bank robbery.",
+        "He already had a conviction for armed robbery."
+      ]
+    },
+    {
+      "id": 4690,
+      "en": "rocket",
+      "translations": {
+        "ru": "ракета",
+        "uk": "ракета"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/rocket_1",
+      "phonetics": {
+        "us": "/ˈrɑːkɪt/",
+        "uk": "/ˈrɒkɪt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/roc/rocke/rocket__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/roc/rocke/rocket__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/roc/rocke/rocket__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/roc/rocke/rocket__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a space rocket",
+        "The rocket was launched in 2007.",
+        "The idea took off like a rocket (= it immediately became popular)."
+      ]
+    },
+    {
+      "id": 4691,
+      "en": "romance",
+      "translations": {
+        "ru": "романтика",
+        "uk": "романтика"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/romance_1",
+      "phonetics": {
+        "us": "/ˈrəʊmæns/",
+        "uk": "/ˈrəʊmæns/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rom/roman/romance__us_1_rr.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rom/roman/romance__us_1_rr.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rom/roman/romance__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rom/roman/romance__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a holiday romance",
+        "They had a whirlwind romance."
+      ]
+    },
+    {
+      "id": 4692,
+      "en": "root",
+      "translations": {
+        "ru": "корень",
+        "uk": "корінь"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/root_1",
+      "phonetics": {
+        "us": "/ruːt/",
+        "uk": "/ruːt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/roo/root_/root__us_1_rr.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/roo/root_/root__us_1_rr.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rou/route/route__gb_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rou/route/route__gb_3.ogg"
+        }
+      },
+      "examples": [
+        "deep spreading roots",
+        "Tree roots can cause damage to buildings.",
+        " by the roots I pulled the plant up by the roots (= including the roots).",
+        "root vegetables/crops (= plants whose roots you can eat, such as carrots)",
+        "Good soil promotes strong root growth. ",
+        "Root tips die quickly when exposed to light and air."
+      ]
+    },
+    {
+      "id": 4693,
+      "en": "rose",
+      "translations": {
+        "ru": "роза",
+        "uk": "троянда"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/rose_1",
+      "phonetics": {
+        "us": "/rəʊz/",
+        "uk": "/rəʊz/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ros/rose_/rose__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/ros/rose_/rose__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ros/rose_/rose__gb_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/ros/rose_/rose__gb_3.ogg"
+        }
+      },
+      "examples": [
+        "a bunch of red roses",
+        "a rose bush/garden",
+        "a climbing/rambling rose"
+      ]
+    },
+    {
+      "id": 4694,
+      "en": "roughly",
+      "translations": {
+        "ru": "приблизительно",
+        "uk": "приблизно"
+      },
+      "cefr": "B2",
+      "type": "adverb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/roughly",
+      "phonetics": {
+        "us": "/ˈrʌfli/",
+        "uk": "/ˈrʌfli/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rou/rough/roughly__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rou/rough/roughly__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rou/rough/roughly__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rou/rough/roughly__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Sales are up by roughly 10 per cent.",
+        "We live roughly halfway between here and the coast.",
+        "They all left at roughly the same time.",
+        "Roughly speaking, we receive about fifty letters a week on the subject."
+      ]
+    },
+    {
+      "id": 4695,
+      "en": "round",
+      "translations": {
+        "ru": "раунд",
+        "uk": "раунд"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/round_4",
+      "phonetics": {
+        "us": "/raʊnd/",
+        "uk": "/raʊnd/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rou/round/round__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rou/round/round__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rou/round/round__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rou/round/round__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "the qualifying rounds of the National Championships",
+        "Anderson was knocked out of the tournament in the third round.",
+        "He beat Fischer in the opening round.",
+        "She made it through to the final round. "
+      ]
+    },
+    {
+      "id": 4696,
+      "en": "routine",
+      "translations": {
+        "ru": "рутинный",
+        "uk": "рутинний"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/routine_2",
+      "phonetics": {
+        "us": "/ruːˈtiːn/",
+        "uk": "/ruːˈtiːn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rou/routi/routine__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rou/routi/routine__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rou/routi/routine__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rou/routi/routine__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "routine enquiries/questions/tests/screening",
+        "Don't worry—these are just routine enquiries.",
+        "The fault was discovered during a routine check.",
+        "This equipment requires routine maintenance. ",
+        "The policemen were on a routine patrol. ",
+        "It was claimed that torture of detainees was routine.",
+        "Routine use of antibiotics should be discouraged."
+      ]
+    },
+    {
+      "id": 4697,
+      "en": "rub",
+      "translations": {
+        "ru": "тереть",
+        "uk": "терти"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/rub_1",
+      "phonetics": {
+        "us": "/rʌb/",
+        "uk": "/rʌb/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rub/rub__/rub__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rub/rub__/rub__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rub/rub__/rub__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rub/rub__/rub__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " rub something He sat up on the hard bunk and rubbed his eyes. ",
+        "She rubbed her chin thoughtfully.",
+        " rub something + adv./prep. He rubbed a hand wearily over his eyes.",
+        " rub something/yourself with something Rub the surface with sandpaper before painting.",
+        " rub something/yourself against something The cat rubbed itself against my legs.",
+        " rub at something I rubbed at the stain on the cloth.",
+        " rub against something Animals had been rubbing against the trees.",
+        " rub something/yourself + adj. Rub the surface smooth.",
+        "She rubbed her hair dry quickly with a towel.",
+        " rub + noun I rubbed a clear patch on the window with my fingers."
+      ]
+    },
+    {
+      "id": 4698,
+      "en": "rubber",
+      "translations": {
+        "ru": "резиновый",
+        "uk": "гумовий"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/rubber_2",
+      "phonetics": {
+        "us": "/ˈrʌbər/",
+        "uk": "/ˈrʌbə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rub/rubbe/rubber__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rub/rubbe/rubber__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rub/rubbe/rubber__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rub/rubbe/rubber__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "a rubber ball",
+        "rubber gloves",
+        "sensible brown shoes with rubber soles "
+      ]
+    },
+    {
+      "id": 4699,
+      "en": "rubber",
+      "translations": {
+        "ru": "резина",
+        "uk": "гума"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/rubber_1",
+      "phonetics": {
+        "us": "/ˈrʌbər/",
+        "uk": "/ˈrʌbə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rub/rubbe/rubber__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rub/rubbe/rubber__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rub/rubbe/rubber__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rub/rubbe/rubber__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "a ball made of rubber",
+        "a rubber tree",
+        "a rubber plantation ",
+        "My legs were like rubber - I could hardly walk. ",
+        "I don't like the smell of burning rubber."
+      ]
+    },
+    {
+      "id": 4700,
+      "en": "ruin",
+      "translations": {
+        "ru": "руины",
+        "uk": "руїни"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/ruin_2",
+      "phonetics": {
+        "us": "/ˈruːɪn/",
+        "uk": "/ˈruːɪn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rui/ruin_/ruin__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/r/rui/ruin_/ruin__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rui/ruin_/ruin__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/r/rui/ruin_/ruin__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "A large number of churches fell into ruin after the revolution.",
+        "The house had been left to go to ruin.",
+        "The terrorist attack had left the city in a state of ruin"
+      ]
+    }
+  ]
+}

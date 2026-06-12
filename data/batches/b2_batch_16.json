@@ -1,0 +1,1143 @@
+{
+  "batch": "b2_batch_16",
+  "cefr": "B2",
+  "version": 1,
+  "source": "tyypgzl/Oxford-5000-words",
+  "words": [
+    {
+      "id": 5001,
+      "en": "wander",
+      "translations": {
+        "ru": "бродить",
+        "uk": "блукати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/wander_1",
+      "phonetics": {
+        "us": "/ˈwɑːndər/",
+        "uk": "/ˈwɒndə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wan/wande/wander__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/w/wan/wande/wander__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wan/wande/wander__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/w/wan/wande/wander__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " + adv./prep. She wandered aimlessly around the streets.",
+        "We wandered back towards the car.",
+        " wander something The child was found wandering the streets alone."
+      ]
+    },
+    {
+      "id": 5002,
+      "en": "warming",
+      "translations": {
+        "ru": "потепление",
+        "uk": "потепління"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/warming_1",
+      "phonetics": {
+        "us": "/ˈwɔːrmɪŋ/",
+        "uk": "/ˈwɔːmɪŋ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/war/warmi/warming__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/w/war/warmi/warming__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/war/warmi/warming__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/w/war/warmi/warming__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "atmospheric warming",
+        "the seasonal warming of the Pacific"
+      ]
+    },
+    {
+      "id": 5003,
+      "en": "way",
+      "translations": {
+        "ru": "значительно",
+        "uk": "значно"
+      },
+      "cefr": "B2",
+      "type": "adverb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/way_2",
+      "phonetics": {
+        "us": "/weɪ/",
+        "uk": "/weɪ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/way/way__/way__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/w/way/way__/way__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/way/way__/way__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/w/way/way__/way__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "She finished the race way ahead of the other runners.",
+        "children who are way behind in reading skills",
+        "I must be going home; it's way past my bedtime.",
+        "The price is way above what we can afford.",
+        "They live way out in the suburbs.",
+        "I guessed that there would be a hundred people there, but I was way out (= wrong by a large amount).",
+        "This skirt is way too short.",
+        "The project is going way beyond our expectations."
+      ]
+    },
+    {
+      "id": 5004,
+      "en": "weakness",
+      "translations": {
+        "ru": "слабость",
+        "uk": "слабкість"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/weakness",
+      "phonetics": {
+        "us": "/ˈwiːknəs/",
+        "uk": "/ˈwiːknəs/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wea/weakn/weakness__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/w/wea/weakn/weakness__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wea/weakn/weakness__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/w/wea/weakn/weakness__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "The disease causes progressive muscle weakness.",
+        " weakness in something The sudden weakness in her legs made her stumble."
+      ]
+    },
+    {
+      "id": 5005,
+      "en": "wealth",
+      "translations": {
+        "ru": "богатство",
+        "uk": "багатство"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/wealth",
+      "phonetics": {
+        "us": "/welθ/",
+        "uk": "/welθ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wea/wealt/wealth__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/w/wea/wealt/wealth__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wea/wealt/wealth__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/w/wea/wealt/wealth__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "the desire to gain wealth and power",
+        "He has pledged to redistribute the country's vast oil wealth.",
+        "Their aim is to keep taxes low enough to encourage wealth creation.",
+        "a person of wealth and influence",
+        "The purpose of industry is to create wealth.",
+        "His personal wealth is estimated at around $100 million.",
+        "the distribution of wealth in Britain"
+      ]
+    },
+    {
+      "id": 5006,
+      "en": "wealthy",
+      "translations": {
+        "ru": "богатый",
+        "uk": "багатий"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/wealthy",
+      "phonetics": {
+        "us": "/ˈwelθi/",
+        "uk": "/ˈwelθi/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wea/wealt/wealthy__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/w/wea/wealt/wealthy__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wea/wealt/wealthy__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/w/wea/wealt/wealthy__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a wealthy businessman/individual/family",
+        "a wealthy country/nation ",
+        "The deal is about to make him a very wealthy man.",
+        "The couple are said to be fabulously wealthy.",
+        "They live in a wealthy suburb of Chicago."
+      ]
+    },
+    {
+      "id": 5007,
+      "en": "weekly",
+      "translations": {
+        "ru": "еженедельный",
+        "uk": "щотижневий"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/weekly_1",
+      "phonetics": {
+        "us": "/ˈwiːkli/",
+        "uk": "/ˈwiːkli/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wee/weekl/weekly__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/w/wee/weekl/weekly__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wee/weekl/weekly__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/w/wee/weekl/weekly__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "weekly meetings",
+        "a weekly magazine"
+      ]
+    },
+    {
+      "id": 5008,
+      "en": "weird",
+      "translations": {
+        "ru": "странный",
+        "uk": "дивний"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/weird_1",
+      "phonetics": {
+        "us": "/wɪrd/",
+        "uk": "/wɪəd/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wei/weird/weird__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/w/wei/weird/weird__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wei/weird/weird__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/w/wei/weird/weird__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "I had a really weird dream last night.",
+        "She's a really weird girl.",
+        "He's got some weird ideas.",
+        "It's really weird seeing yourself on television.",
+        "the weird and wonderful creatures that live beneath the sea"
+      ]
+    },
+    {
+      "id": 5009,
+      "en": "welfare",
+      "translations": {
+        "ru": "благосостояние",
+        "uk": "добробут"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/welfare",
+      "phonetics": {
+        "us": "/ˈwelfer/",
+        "uk": "/ˈwelfeə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wel/welfa/welfare__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/w/wel/welfa/welfare__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wel/welfa/welfare__gb_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/w/wel/welfa/welfare__gb_3.ogg"
+        }
+      },
+      "examples": [
+        "We are concerned about the child's welfare."
+      ]
+    },
+    {
+      "id": 5010,
+      "en": "wheat",
+      "translations": {
+        "ru": "пшеница",
+        "uk": "пшениця"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/wheat",
+      "phonetics": {
+        "us": "/wiːt/",
+        "uk": "/wiːt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/whe/wheat/wheat__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/w/whe/wheat/wheat__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/whe/wheat/wheat__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/w/whe/wheat/wheat__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "wheat flour"
+      ]
+    },
+    {
+      "id": 5011,
+      "en": "whisper",
+      "translations": {
+        "ru": "шёпот",
+        "uk": "шепіт"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/whisper_2",
+      "phonetics": {
+        "us": "/ˈwɪspər/",
+        "uk": "/ˈwɪspə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/whi/whisp/whisper__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/w/whi/whisp/whisper__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/whi/whisp/whisper__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/w/whi/whisp/whisper__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " in a whisper ‘I love you,’ he said in a whisper.",
+        " in whispers They spoke in whispers.",
+        " above a whisper ‘I feel the same way,’ he said, his voice barely above a whisper.",
+        "Her voice dropped to a whisper."
+      ]
+    },
+    {
+      "id": 5012,
+      "en": "whisper",
+      "translations": {
+        "ru": "шептать",
+        "uk": "шепотіти"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/whisper_1",
+      "phonetics": {
+        "us": "/ˈwɪspər/",
+        "uk": "/ˈwɪspə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/whi/whisp/whisper__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/w/whi/whisp/whisper__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/whi/whisp/whisper__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/w/whi/whisp/whisper__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Don't you know it's rude to whisper?",
+        " whisper about something What are you two whispering about?",
+        " whisper + speech ‘Can you meet me tonight?’ he whispered.",
+        "'I'm sorry,' he whispered softly.",
+        " whisper to somebody + speech ‘Let's go,' she whispered to Anne.",
+        " whisper something She leaned over and whispered something in his ear.",
+        " whisper something to somebody I whispered words of comfort to him.",
+        " whisper to somebody that… He whispered to me that he was afraid.",
+        " whisper that… She whispered that she would tell me all about it later."
+      ]
+    },
+    {
+      "id": 5013,
+      "en": "widely",
+      "translations": {
+        "ru": "широко",
+        "uk": "широко"
+      },
+      "cefr": "B2",
+      "type": "adverb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/widely",
+      "phonetics": {
+        "us": "/ˈwaɪdli/",
+        "uk": "/ˈwaɪdli/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wid/widel/widely__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/w/wid/widel/widely__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wid/widel/widely__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/w/wid/widel/widely__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The term is widely used in everyday speech.",
+        "The idea is now widely accepted.",
+        "There is still no word on when the service will become widely available.",
+        "The film is widely regarded as a masterpiece.",
+        "The company is widely acknowledged as a leader in the field.",
+        "He is widely recognized as the founder of modern anatomy.",
+        "Her remarks were widely reported in the media.",
+        "a widely held belief",
+        "The 2012 Olympic Games were widely considered a success.",
+        "He was not widely known outside China.",
+        "the most widely distributed species of lizards in North America",
+        "The ruling party was widely expected to win the elections.",
+        "It is widely believed that the bank may move its headquarters to Frankfurt.",
+        "a widely publicized murder case",
+        "The president was widely criticized for his response to the disaster.",
+        "He has travelled widely in Asia.",
+        "Her books are widely read (= a lot of people read them).",
+        "He's an educated, widely read man (= he has read a lot of books)."
+      ]
+    },
+    {
+      "id": 5014,
+      "en": "widespread",
+      "translations": {
+        "ru": "распространённый",
+        "uk": "поширений"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/widespread",
+      "phonetics": {
+        "us": "/ˈwaɪdspred/",
+        "uk": "/ˈwaɪdspred/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wid/wides/widespread__us_1_rr.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/w/wid/wides/widespread__us_1_rr.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wid/wides/widespread__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/w/wid/wides/widespread__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "The storm caused widespread damage.",
+        "The plan received widespread support throughout the country."
+      ]
+    },
+    {
+      "id": 5015,
+      "en": "wildlife",
+      "translations": {
+        "ru": "дикая природа",
+        "uk": "дика природа"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/wildlife",
+      "phonetics": {
+        "us": "/ˈwaɪldlaɪf/",
+        "uk": "/ˈwaɪldlaɪf/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wil/wildl/wildlife__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/w/wil/wildl/wildlife__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wil/wildl/wildlife__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/w/wil/wildl/wildlife__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "policies designed to protect wildlife",
+        "Development of the area would endanger wildlife.",
+        "a wildlife habitat",
+        "a wildlife refuge/sanctuary"
+      ]
+    },
+    {
+      "id": 5016,
+      "en": "willing",
+      "translations": {
+        "ru": "готовый",
+        "uk": "готовий"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/willing",
+      "phonetics": {
+        "us": "/ˈwɪlɪŋ/",
+        "uk": "/ˈwɪlɪŋ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wil/willi/willing__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/w/wil/willi/willing__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wil/willi/willing__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/w/wil/willi/willing__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Many consumers are willing to pay more for organic food",
+        "She seemed willing to accept my explanation.",
+        "He's still trying to find a lawyer willing to take his case.",
+        "I'm willing to give you the benefit of the doubt.",
+        "I'm willing to bet that she knows where he is.",
+        "He's quite willing to do anything to win.",
+        "I'm perfectly willing to discuss the problem.",
+        "They are willing and able to share their knowledge and experience.",
+        "We're ready and willing to do everything necessary to meet this challenge."
+      ]
+    },
+    {
+      "id": 5017,
+      "en": "wind",
+      "translations": {
+        "ru": "наматывать",
+        "uk": "намотувати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/wind2_2",
+      "phonetics": {
+        "us": "/waɪnd/",
+        "uk": "/waɪnd/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/win/wind_/wind__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/w/win/wind_/wind__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/win/wind_/wind__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/w/win/wind_/wind__gb_2.ogg"
+        }
+      },
+      "examples": [
+        " wind + adv./prep. The path wound down to the beach.",
+        "A wooden staircase winds up to the attic.",
+        "The king's funeral procession wound slowly through city.",
+        " wind its way + adv./prep. The river winds its way between two meadows."
+      ]
+    },
+    {
+      "id": 5018,
+      "en": "wire",
+      "translations": {
+        "ru": "провод",
+        "uk": "провід"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/wire_1",
+      "phonetics": {
+        "us": "/ˈwaɪər/",
+        "uk": "/ˈwaɪə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wir/wire_/wire__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/w/wir/wire_/wire__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wir/wire_/wire__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/w/wir/wire_/wire__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a coil of copper wire",
+        "wire mesh",
+        "A high wire fence encircles the complex.",
+        "a wire basket",
+        "The box was fastened with a rusty wire."
+      ]
+    },
+    {
+      "id": 5019,
+      "en": "wisdom",
+      "translations": {
+        "ru": "мудрость",
+        "uk": "мудрість"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/wisdom",
+      "phonetics": {
+        "us": "/ˈwɪzdəm/",
+        "uk": "/ˈwɪzdəm/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wis/wisdo/wisdom__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/w/wis/wisdo/wisdom__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wis/wisdo/wisdom__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/w/wis/wisdo/wisdom__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "She was known to be a woman of great wisdom.",
+        "Do you have any more words of wisdom for us?",
+        "He is too lacking in worldly wisdom to be a politician."
+      ]
+    },
+    {
+      "id": 5020,
+      "en": "wise",
+      "translations": {
+        "ru": "мудрый",
+        "uk": "мудрий"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/wise_1",
+      "phonetics": {
+        "us": "/waɪz/",
+        "uk": "/waɪz/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wis/wise_/wise__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/w/wis/wise_/wise__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wis/wise_/wise__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/w/wis/wise_/wise__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a wise man",
+        "I'm older and wiser after ten years in the business.",
+        "He played the role of the wise old man."
+      ]
+    },
+    {
+      "id": 5021,
+      "en": "withdraw",
+      "translations": {
+        "ru": "отзывать",
+        "uk": "відкликати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/withdraw",
+      "phonetics": {
+        "us": "/wɪθˈdrɔː/",
+        "uk": "/wɪθˈdrɔː/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wit/withd/withdraw__us_1_rr.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/w/wit/withd/withdraw__us_1_rr.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wit/withd/withdraw__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/w/wit/withd/withdraw__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " withdraw something With this account, you can withdraw up to £300 a day.",
+        " withdraw something from something He had withdrawn all the money from their joint account."
+      ]
+    },
+    {
+      "id": 5022,
+      "en": "witness",
+      "translations": {
+        "ru": "свидетель",
+        "uk": "свідок"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/witness_1",
+      "phonetics": {
+        "us": "/ˈwɪtnəs/",
+        "uk": "/ˈwɪtnəs/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wit/witne/witness__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/w/wit/witne/witness__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wit/witne/witness__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/w/wit/witne/witness__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "He failed to interview a key witness.",
+        " witness to something Police have appealed for witnesses to the accident.",
+        "We have a witness to the killing.",
+        "According to witnesses, the man jumped out of his vehicle and attacked the other driver.",
+        "She gave a witness statement to the police.",
+        "Mark had to go into the witness protection programme to escape the violence."
+      ]
+    },
+    {
+      "id": 5023,
+      "en": "witness",
+      "translations": {
+        "ru": "быть свидетелем",
+        "uk": "бути свідком"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/witness_2",
+      "phonetics": {
+        "us": "/ˈwɪtnəs/",
+        "uk": "/ˈwɪtnəs/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wit/witne/witness__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/w/wit/witne/witness__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wit/witne/witness__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/w/wit/witne/witness__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "to witness an accident/a murder/an attack",
+        "Police have appealed for anyone who witnessed the incident to contact them.",
+        "We are now witnessing an unprecedented increase in violent crime.",
+        "She was shocked by the violent scenes she had witnessed.",
+        "The novel is based on an event that he himself had witnessed.",
+        "I couldn’t bear to witness their suffering.",
+        "We had witnessed one of the most outstanding theatrical performances of the decade.",
+        "It's one of the strongest pieces of dance theatre I've ever witnessed."
+      ]
+    },
+    {
+      "id": 5024,
+      "en": "workforce",
+      "translations": {
+        "ru": "рабочая сила",
+        "uk": "робоча сила"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/workforce",
+      "phonetics": {
+        "us": "/ˈwɜːrkfɔːrs/",
+        "uk": "/ˈwɜːkfɔːs/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wor/workf/workforce__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/w/wor/workf/workforce__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wor/workf/workforce__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/w/wor/workf/workforce__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "The factory has a 1 000-strong workforce.",
+        "Two thirds of the workforce is/are women."
+      ]
+    },
+    {
+      "id": 5025,
+      "en": "workplace",
+      "translations": {
+        "ru": "рабочее место",
+        "uk": "робоче місце"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/workplace",
+      "phonetics": {
+        "us": "/ˈwɜːrkpleɪs/",
+        "uk": "/ˈwɜːkpleɪs/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wor/workp/workplace__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/w/wor/workp/workplace__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wor/workp/workplace__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/w/wor/workp/workplace__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "the introduction of new technology into the workplace",
+        "These safety standards apply to all workplaces.",
+        "workplace safety"
+      ]
+    },
+    {
+      "id": 5026,
+      "en": "workshop",
+      "translations": {
+        "ru": "мастерская",
+        "uk": "майстерня"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/workshop",
+      "phonetics": {
+        "us": "/ˈwɜːrkʃɑːp/",
+        "uk": "/ˈwɜːkʃɒp/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wor/works/workshop__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/w/wor/works/workshop__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wor/works/workshop__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/w/wor/works/workshop__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "There will be the opportunity for practical theatre work in drama workshops.",
+        "She was invited to participate in a poetry workshop on campus."
+      ]
+    },
+    {
+      "id": 5027,
+      "en": "worm",
+      "translations": {
+        "ru": "червь",
+        "uk": "хробак"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/worm_1",
+      "phonetics": {
+        "us": "/wɜːrm/",
+        "uk": "/wɜːm/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wor/worm_/worm__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/w/wor/worm_/worm__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wor/worm_/worm__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/w/wor/worm_/worm__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "birds looking for worms",
+        "Worms burrow down through the soil."
+      ]
+    },
+    {
+      "id": 5028,
+      "en": "worse",
+      "translations": {
+        "ru": "худшее",
+        "uk": "гірше"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/worse_3",
+      "phonetics": {
+        "us": "/wɜːrs/",
+        "uk": "/wɜːs/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wor/worse/worse__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/w/wor/worse/worse__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wor/worse/worse__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/w/wor/worse/worse__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "I'm afraid there is worse to come.",
+        "McPherson was sent off for a tackle on Mendes. Worse followed when Yardley gave Saints the lead."
+      ]
+    },
+    {
+      "id": 5029,
+      "en": "worst",
+      "translations": {
+        "ru": "наихудшее",
+        "uk": "найгірше"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/worst_3",
+      "phonetics": {
+        "us": "/wɜːrst/",
+        "uk": "/wɜːst/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wor/worst/worst__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/w/wor/worst/worst__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wor/worst/worst__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/w/wor/worst/worst__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "When they did not hear from her, they feared the worst.",
+        "It doesn't matter what I say. My mother always expects the worst.",
+        " the worst of something The worst of it is that I can't even be sure if they received my letter.",
+        "Although all the votes have not yet been counted, the party is preparing for the worst.",
+        "This is politics at its worst.",
+        "If the worst happens, at least you're prepared.",
+        "The worst of the storm was over.",
+        "He was always optimistic, even when things were at their worst."
+      ]
+    },
+    {
+      "id": 5030,
+      "en": "worth",
+      "translations": {
+        "ru": "стоимость",
+        "uk": "вартість"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/worth_2",
+      "phonetics": {
+        "us": "/wɜːrθ/",
+        "uk": "/wɜːθ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wor/worth/worth__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/w/wor/worth/worth__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wor/worth/worth__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/w/wor/worth/worth__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The winner will receive fifty pounds' worth of books.",
+        "The floods caused tens of millions of pounds' worth of damage.",
+        "a dollar’s worth of change"
+      ]
+    },
+    {
+      "id": 5031,
+      "en": "wound",
+      "translations": {
+        "ru": "рана",
+        "uk": "рана"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/wound1_1",
+      "phonetics": {
+        "us": "/wuːnd/",
+        "uk": "/wuːnd/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wou/wound/wound__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/w/wou/wound/wound__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wou/wound/wound__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/w/wou/wound/wound__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "a gunshot/stab wound",
+        "a bullet/knife/shrapnel wound",
+        "a head/leg wound",
+        "an old war wound",
+        "The nurse cleaned the wound.",
+        "The wound healed slowly.",
+        "He died of his wounds.",
+        " wound to something He suffered a fatal wound to the abdomen.",
+        "He died from the wounds he had received to his chest."
+      ]
+    },
+    {
+      "id": 5032,
+      "en": "wound",
+      "translations": {
+        "ru": "ранить",
+        "uk": "ранити"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/wound1_2",
+      "phonetics": {
+        "us": "/wuːnd/",
+        "uk": "/wuːnd/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wou/wound/wound__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/w/wou/wound/wound__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wou/wound/wound__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/w/wou/wound/wound__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "He had been wounded in the arm.",
+        "The driver was seriously wounded in the shooting.",
+        "Two soldiers were wounded in yesterday's fighting.",
+        "She was fatally wounded in the attack.",
+        "His leg had been badly wounded in the helicopter crash."
+      ]
+    },
+    {
+      "id": 5033,
+      "en": "wrap",
+      "translations": {
+        "ru": "заворачивать",
+        "uk": "загортати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/wrap_1",
+      "phonetics": {
+        "us": "/ræp/",
+        "uk": "/ræp/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wra/wrap_/wrap__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/w/wra/wrap_/wrap__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wra/wrap_/wrap__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/w/wra/wrap_/wrap__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " wrap something up He spent the evening wrapping up the Christmas presents.",
+        " wrap something individually wrapped chocolates",
+        " wrap something in something Each apple was wrapped in paper.",
+        "The cheese is cut and wrapped in plastic.",
+        " wrap something up in something fish and chips wrapped up in newspaper"
+      ]
+    },
+    {
+      "id": 5034,
+      "en": "wrist",
+      "translations": {
+        "ru": "запястье",
+        "uk": "зап'ястя"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/wrist",
+      "phonetics": {
+        "us": "/rɪst/",
+        "uk": "/rɪst/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wri/wrist/wrist__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/w/wri/wrist/wrist__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wri/wrist/wrist__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/w/wri/wrist/wrist__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "She's broken her wrist.",
+        "He wore a copper bracelet on his wrist."
+      ]
+    },
+    {
+      "id": 5035,
+      "en": "wrong",
+      "translations": {
+        "ru": "несправедливость",
+        "uk": "несправедливість"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/wrong_3",
+      "phonetics": {
+        "us": "/rɔːŋ/",
+        "uk": "/rɒŋ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wro/wrong/wrong__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/w/wro/wrong/wrong__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wro/wrong/wrong__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/w/wro/wrong/wrong__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Children must be taught the difference between right and wrong.",
+        "Her son can do no wrong in her eyes."
+      ]
+    },
+    {
+      "id": 5036,
+      "en": "zone",
+      "translations": {
+        "ru": "зона",
+        "uk": "зона"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/zone_1",
+      "phonetics": {
+        "us": "/zəʊn/",
+        "uk": "/zəʊn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/z/zon/zone_/zone__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/z/zon/zone_/zone__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/z/zon/zone_/zone__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/z/zon/zone_/zone__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a war/combat/demilitarized/exclusion zone",
+        "a danger zone",
+        "a pedestrian zone (= where vehicles may not go)",
+        "They have called for a 100-mile buffer zone (= protected area) around the island to protect the seals.",
+        "an earthquake zone"
+      ]
+    }
+  ]
+}
