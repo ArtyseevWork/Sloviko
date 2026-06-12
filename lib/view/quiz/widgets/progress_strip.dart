@@ -3,21 +3,27 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 import '../../../core/icons/detto_icon.dart';
+import '../../../core/locale/app_locale.dart';
 import '../../../core/router/app_router.dart';
 import '../../../core/router/go.dart';
 import '../../../core/theme/theme_provider.dart';
 
 class ProgressStrip extends ConsumerWidget {
-  final int learned;
-  final int total;
+  final int todayPoints;
+  final int dailyGoal;
 
-  const ProgressStrip({required this.learned, required this.total, super.key});
+  const ProgressStrip({
+    required this.todayPoints,
+    required this.dailyGoal,
+    super.key,
+  });
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     final c = ref.watch(dettoThemeProvider).palette(context);
-    final ratio = total == 0 ? 0.0 : (learned / total).clamp(0.0, 1.0);
-    final pct = (ratio * 100).round();
+    final ratio = dailyGoal == 0 ? 0.0 : (todayPoints / dailyGoal).clamp(0.0, 1.0);
+    final reached = todayPoints >= dailyGoal;
+    final barColor = reached ? c.success : c.accent;
 
     return Padding(
       padding: EdgeInsets.fromLTRB(20.w, 6.h, 20.w, 12.h),
@@ -30,14 +36,24 @@ class ProgressStrip extends ConsumerWidget {
                 Row(
                   children: [
                     Text(
-                      '$learned / $total',
-                      style: TextStyle(fontSize: 12.sp, fontWeight: FontWeight.w500, color: c.textSub),
+                      '$todayPoints / $dailyGoal',
+                      style: TextStyle(
+                        fontSize: 12.sp,
+                        fontWeight: FontWeight.w700,
+                        color: reached ? c.success : c.text,
+                      ),
+                    ),
+                    SizedBox(width: 6.w),
+                    Text(
+                      AppLocale.text('progress_today'),
+                      style: TextStyle(fontSize: 11.sp, color: c.textSub),
                     ),
                     const Spacer(),
-                    Text(
-                      '$pct%',
-                      style: TextStyle(fontSize: 12.sp, fontWeight: FontWeight.w700, color: c.accent),
-                    ),
+                    if (reached)
+                      Text(
+                        '🎯',
+                        style: TextStyle(fontSize: 13.sp),
+                      ),
                   ],
                 ),
                 SizedBox(height: 6.h),
@@ -49,7 +65,7 @@ class ProgressStrip extends ConsumerWidget {
                     child: FractionallySizedBox(
                       alignment: Alignment.centerLeft,
                       widthFactor: ratio,
-                      child: Container(color: c.accent),
+                      child: Container(color: barColor),
                     ),
                   ),
                 ),

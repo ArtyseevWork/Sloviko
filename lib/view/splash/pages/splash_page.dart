@@ -6,6 +6,7 @@ import '../../../core/di/providers.dart';
 import '../../../core/locale/app_locale.dart';
 import '../../../core/router/app_router.dart';
 import '../../../core/router/go.dart';
+import '../../../core/settings/cefr_levels.dart';
 import '../../../core/theme/theme_provider.dart';
 import '../widgets/logo_mark.dart';
 
@@ -28,8 +29,9 @@ class _SplashPageState extends ConsumerState<SplashPage> {
     final repo = ref.read(wordsRepositoryProvider);
     await repo.bootstrap();
     await ref.read(applyDecayProvider).call();
-    // Fire-and-forget remote top-up.
-    unawaited(ref.read(loadNextBatchProvider).call());
+    // Fire-and-forget remote top-up scoped to the user's active CEFR levels.
+    final levels = ref.read(cefrLevelsProvider).levels;
+    unawaited(ref.read(loadNextBatchProvider).call(levels));
     await Future.delayed(const Duration(milliseconds: 1500));
     if (!mounted) return;
     Go.to(context, Routes.quiz);

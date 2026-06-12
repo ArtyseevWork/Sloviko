@@ -12,14 +12,20 @@ class SubmitAnswer {
     required Word word,
     required bool correct,
   }) async {
-    int short = word.shortScore;
-    int long = word.longScore;
-    DateTime? lastLongUpAt = word.lastLongUpAt;
-    DateTime? learnedAt = word.learnedAt;
-    int decayStep = word.decayStep;
+    // Defense against concurrent calls on the same Word: read the freshly
+    // persisted scores so we never apply -3 to a stale 0 while another call
+    // has already written -3.
+    final fresh = await _repo.findById(word.id) ?? word;
+    int short = fresh.shortScore;
+    int long = fresh.longScore;
+    DateTime? lastLongUpAt = fresh.lastLongUpAt;
+    DateTime? learnedAt = fresh.learnedAt;
+    int decayStep = fresh.decayStep;
 
     final now = DateTime.now();
     final wasLearned = learnedAt != null;
+    final fromShort = fresh.shortScore;
+    final fromLong = fresh.longScore;
 
     if (correct) {
       short += 1;
@@ -46,7 +52,7 @@ class SubmitAnswer {
       decayStep = 0;
     }
 
-    final updated = word.copyWith(
+    final updated = fresh.copyWith(
       shortScore: short,
       longScore: long,
       lastLongUpAt: lastLongUpAt,
@@ -65,8 +71,8 @@ class SubmitAnswer {
 
     return AnswerOutcome(
       correct: correct,
-      shortDelta: updated.shortScore - word.shortScore,
-      longDelta: updated.longScore - word.longScore,
+      shortDelta: updated.shortScore - fromShort,
+      longDelta: updated.longScore - fromLong,
       justLearned: justLearned,
       updated: updated,
     );

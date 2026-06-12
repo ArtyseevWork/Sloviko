@@ -32,7 +32,7 @@ class QuizPage extends ConsumerWidget {
               children: [
                 // Progress strip is always present so user can reach
                 // settings/stats even on exhausted / loading state.
-                ProgressStrip(learned: s.learnedCount, total: s.totalCount),
+                ProgressStrip(todayPoints: s.todayPoints, dailyGoal: s.dailyGoal),
                 Expanded(child: _Body(notifier: notifier)),
               ],
             ),

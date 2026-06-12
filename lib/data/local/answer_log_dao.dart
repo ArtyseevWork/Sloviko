@@ -76,6 +76,25 @@ class AnswerLogDao {
     return out;
   }
 
+  /// Net daily points: +1 per correct, -3 per wrong.
+  /// Mirrors the per-word short_score delta in submit_answer.
+  /// "Skip" (I-know-this) is not counted — it's a user assertion, not earned.
+  Future<int> todayPoints() async {
+    final today = _ymd(DateTime.now());
+    final r = await _db.db.rawQuery(
+      "SELECT result, COUNT(*) AS c FROM answer_log "
+      "WHERE day = ? AND result IN ('correct','wrong') GROUP BY result",
+      [today],
+    );
+    int correct = 0, wrong = 0;
+    for (final row in r) {
+      final c = (row['c'] as int?) ?? 0;
+      if (row['result'] == 'correct') correct = c;
+      if (row['result'] == 'wrong') wrong = c;
+    }
+    return correct - wrong * 3;
+  }
+
   /// Distinct days with at least one event, descending.
   Future<List<String>> activeDays({int lookbackDays = 365}) async {
     final firstDay = DateTime.now().subtract(Duration(days: lookbackDays));

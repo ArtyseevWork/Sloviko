@@ -49,6 +49,12 @@ class WordsDao {
     return (r.first['c'] as int?) ?? 0;
   }
 
+  Future<Word?> findById(int id) async {
+    final rows = await _d.query('words', where: 'id = ?', whereArgs: [id], limit: 1);
+    if (rows.isEmpty) return null;
+    return Word.fromMap(rows.first);
+  }
+
   Future<List<Word>> all() async {
     final rows = await _d.query('words', orderBy: 'id ASC');
     return rows.map(Word.fromMap).toList();
@@ -106,6 +112,11 @@ class WordsDao {
       if (out.length >= count) break;
     }
     return out.toList();
+  }
+
+  Future<Set<String>> distinctBatches() async {
+    final rows = await _d.rawQuery('SELECT DISTINCT batch FROM words');
+    return rows.map((r) => r['batch'] as String).toSet();
   }
 
   Future<List<Word>> learnedForDecay() async {
