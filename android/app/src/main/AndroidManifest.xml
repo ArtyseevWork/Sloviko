@@ -1,4 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Required for streaming word pronunciations and pulling remote
+         vocabulary batches from GitHub raw URLs. -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+
     <application
         android:label="Sloviko"
         android:name="${applicationName}"
