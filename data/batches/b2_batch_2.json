@@ -1,0 +1,3162 @@
+{
+  "batch": "b2_batch_2",
+  "cefr": "B2",
+  "version": 1,
+  "source": "tyypgzl/Oxford-5000-words",
+  "words": [
+    {
+      "id": 901,
+      "en": "bat",
+      "translations": {
+        "ru": "летучая мышь",
+        "uk": "кажан"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/bat_1",
+      "phonetics": {
+        "us": "/bæt/",
+        "uk": "/bæt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bat/bat__/bat__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bat/bat__/bat__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bat/bat__/bat__gb_4.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bat/bat__/bat__gb_4.ogg"
+        }
+      },
+      "examples": [
+        "a baseball/cricket bat"
+      ]
+    },
+    {
+      "id": 902,
+      "en": "battle",
+      "translations": {
+        "ru": "бороться",
+        "uk": "боротися"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/battle_2",
+      "phonetics": {
+        "us": "/ˈbætl/",
+        "uk": "/ˈbætl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bat/battl/battle__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bat/battl/battle__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bat/battl/battle__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bat/battl/battle__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Both teams battled hard.",
+        " battle for something The two leaders are battling for control of the government.",
+        " battle with somebody/something She's still battling with a knee injury.",
+        " battle against somebody/something We had to battle against the elements to reach safety.",
+        " battle over something Residents are battling over plans for a new airport runway.",
+        " battle it out The two sides will battle it out in the final next week.",
+        " battle + adv. It’s vital that we keep battling away at the problem.",
+        " battle to do something Doctors battled to keep her alive.",
+        "I had to battle hard just to stay afloat.",
+        " battle something He battled cancer for four years."
+      ]
+    },
+    {
+      "id": 903,
+      "en": "bear",
+      "translations": {
+        "ru": "переносить",
+        "uk": "переносити"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/bear_1",
+      "phonetics": {
+        "us": "/ber/",
+        "uk": "/beə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bea/bear_/bear__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bea/bear_/bear__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bea/bear_/bear__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bea/bear_/bear__gb_2.ogg"
+        }
+      },
+      "examples": [
+        " bear something The pain was almost more than he could bear.",
+        "She bore it all with her usual patience.",
+        "She couldn't bear the thought of losing him.",
+        " bear doing something I can't bear having cats in the house.",
+        "He can't bear being laughed at.",
+        " bear to do something He can't bear to be laughed at.",
+        "I can hardly bear to think about it.",
+        "How can you bear to eat that stuff?",
+        " bear somebody doing something I can't bear you doing that."
+      ]
+    },
+    {
+      "id": 904,
+      "en": "beat",
+      "translations": {
+        "ru": "удар",
+        "uk": "удар"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/beat_2",
+      "phonetics": {
+        "us": "/biːt/",
+        "uk": "/biːt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bea/beat_/beat__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bea/beat_/beat__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bea/beat_/beat__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bea/beat_/beat__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "several loud beats on the drum",
+        "a heart rate of 80 beats per minute "
+      ]
+    },
+    {
+      "id": 905,
+      "en": "beg",
+      "translations": {
+        "ru": "умолять",
+        "uk": "благати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/beg",
+      "phonetics": {
+        "us": "/beɡ/",
+        "uk": "/beɡ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/beg/beg__/beg__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/beg/beg__/beg__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/beg/beg__/beg__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/beg/beg__/beg__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Now you have to beg and plead.",
+        " beg for something He wants to see them beg for mercy.",
+        " beg somebody for something They begged him for help.",
+        " beg somebody Forgive me, I beg you!",
+        " beg something She begged permission to leave.",
+        " beg something of/from somebody I managed to beg a lift from a passing motorist.",
+        "Can I beg a favour of you?",
+        " beg (somebody) + speech ‘Give me one more chance,’ he begged (her).",
+        " beg somebody to do something She begged him not to go.",
+        " beg to do something He begged to be told the truth.",
+        " beg that… (formal) She begged that she be allowed to go.",
+        " (British English also) She begged that she should be allowed to go.",
+        " beg of somebody (formal) Don't leave me here, I beg of you!",
+        " beg somebody's something I have come to apologize and to beg your forgiveness."
+      ]
+    },
+    {
+      "id": 906,
+      "en": "being",
+      "translations": {
+        "ru": "существо",
+        "uk": "істота"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/being",
+      "phonetics": {
+        "us": "/ˈbiːɪŋ/",
+        "uk": "/ˈbiːɪŋ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bei/being/being__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bei/being/being__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bei/being/being__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bei/being/being__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The Irish Free State came into being in 1922.",
+        "A new era was brought into being by the war."
+      ]
+    },
+    {
+      "id": 907,
+      "en": "beneficial",
+      "translations": {
+        "ru": "полезный",
+        "uk": "корисний"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/beneficial",
+      "phonetics": {
+        "us": "/ˌbenɪˈfɪʃl/",
+        "uk": "/ˌbenɪˈfɪʃl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/ben/benef/beneficial__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/ben/benef/beneficial__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/ben/benef/beneficial__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/ben/benef/beneficial__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "A good diet is beneficial to health.",
+        "They finally came to a mutually beneficial agreement."
+      ]
+    },
+    {
+      "id": 908,
+      "en": "bent",
+      "translations": {
+        "ru": "согнутый",
+        "uk": "зігнутий"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/bent_1",
+      "phonetics": {
+        "us": "/bent/",
+        "uk": "/bent/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/ben/bent_/bent__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/ben/bent_/bent__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/ben/bent_/bent__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/ben/bent_/bent__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "a piece of bent wire",
+        "Do this exercise with your knees bent (= not with your legs straight).",
+        "The lamp post got bent in the crash.",
+        "Lock your elbows in a slightly bent position."
+      ]
+    },
+    {
+      "id": 909,
+      "en": "besides",
+      "translations": {
+        "ru": "кроме того",
+        "uk": "крім того"
+      },
+      "cefr": "B2",
+      "type": "adverb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/besides_2",
+      "phonetics": {
+        "us": "/bɪˈsaɪdz/",
+        "uk": "/bɪˈsaɪdz/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bes/besid/besides__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bes/besid/besides__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bes/besid/besides__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bes/besid/besides__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "I don't really want to go. Besides, it's too late now."
+      ]
+    },
+    {
+      "id": 910,
+      "en": "bet",
+      "translations": {
+        "ru": "ставка",
+        "uk": "ставка"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/bet_2",
+      "phonetics": {
+        "us": "/bet/",
+        "uk": "/bet/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bet/bet__/bet__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bet/bet__/bet__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bet/bet__/bet__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bet/bet__/bet__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "to win/lose a bet",
+        "I was tempted to place a large bet.",
+        " bet on something We've got a bet on who's going to arrive first.",
+        "He had a bet on the horses.",
+        "They all put a bet on the race.",
+        "I hear you're taking bets on whether she'll marry him.",
+        "I did it for a bet (= because somebody had agreed to pay me money if I did).",
+        "‘Liverpool are bound to win.’ ‘Do you want a bet?’ (= I disagree with you, I don't think they will.)"
+      ]
+    },
+    {
+      "id": 911,
+      "en": "bet",
+      "translations": {
+        "ru": "ставить",
+        "uk": "ставити"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/bet_1",
+      "phonetics": {
+        "us": "/bet/",
+        "uk": "/bet/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bet/bet__/bet__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bet/bet__/bet__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bet/bet__/bet__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bet/bet__/bet__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "You have to be over 16 to bet.",
+        " bet on/against somebody/something doing something I wouldn't bet on them winning the next election.",
+        "Not many people are betting against France retaining their title.",
+        " bet on/against something He likes betting on horses and watching table tennis.",
+        " bet something on something He bet $2 000 on the final score of the game.",
+        " bet something You shouldn't praise a gambler for betting his life savings if he wins.",
+        " bet somebody something (that) She bet me £20 (that) I wouldn't do it.",
+        " bet somebody (that) I bet her (that) the Democrats would not win.",
+        " bet something (that) He bet ten dollars (that) he could write a complete story in just six words."
+      ]
+    },
+    {
+      "id": 912,
+      "en": "beyond",
+      "translations": {
+        "ru": "за пределами",
+        "uk": "поза межами"
+      },
+      "cefr": "B2",
+      "type": "adverb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/beyond_2",
+      "phonetics": {
+        "us": "/bɪˈjɑːnd/",
+        "uk": "/bɪˈjɒnd/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bey/beyon/beyond__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bey/beyon/beyond__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bey/beyon/beyond__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bey/beyon/beyond__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Snowdon and the mountains beyond were covered in snow.",
+        "The immediate future is clear, but it's hard to tell what lies beyond.",
+        "the year 2025 and beyond"
+      ]
+    },
+    {
+      "id": 913,
+      "en": "bias",
+      "translations": {
+        "ru": "предвзятость",
+        "uk": "упередженість"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/bias_1",
+      "phonetics": {
+        "us": "/ˈbaɪəs/",
+        "uk": "/ˈbaɪəs/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bia/bias_/bias__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bia/bias_/bias__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bia/bias_/bias__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bia/bias_/bias__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "accusations of political bias in news programmes (= that reports are unfair and show favour to one political party)",
+        "Employers must consider all candidates impartially and without bias.",
+        "Some institutions still have a strong bias against women.",
+        "The article examines gender bias in our schools."
+      ]
+    },
+    {
+      "id": 914,
+      "en": "bid",
+      "translations": {
+        "ru": "ставка",
+        "uk": "ставка"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/bid1_1",
+      "phonetics": {
+        "us": "/bɪd/",
+        "uk": "/bɪd/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bid/bid__/bid__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bid/bid__/bid__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bid/bid__/bid__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bid/bid__/bid__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " bid for something A German firm launched a takeover bid for the company.",
+        "At the auction (= a public sale where things are sold to the person who offers the most), the highest bid for the picture was £200.",
+        " bid on something (North American English also) the highest bid on the picture",
+        "Any more bids?"
+      ]
+    },
+    {
+      "id": 915,
+      "en": "bid",
+      "translations": {
+        "ru": "предлагать цену",
+        "uk": "пропонувати ціну"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/bid1_2",
+      "phonetics": {
+        "us": "/bɪd/",
+        "uk": "/bɪd/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bid/bid__/bid__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bid/bid__/bid__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bid/bid__/bid__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bid/bid__/bid__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " bid (something) (for something) I bid £2 000 for the painting.",
+        " bid (against somebody) (for something) We wanted to buy the chairs but another couple were bidding against us.",
+        "Two dealers bid against each other for the antique table."
+      ]
+    },
+    {
+      "id": 916,
+      "en": "bill",
+      "translations": {
+        "ru": "выставлять счёт",
+        "uk": "виставляти рахунок"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/bill_2",
+      "phonetics": {
+        "us": "/bɪl/",
+        "uk": "/bɪl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bil/bill_/bill__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bil/bill_/bill__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bil/bill_/bill__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bil/bill_/bill__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " bill somebody for something Please bill me for the books.",
+        "You will be billed monthly for the service.",
+        " bill somebody We are changing the way that we bill our customers.",
+        " bill somebody something He only billed me £130.",
+        " bill something to somebody/something The cost will be billed to your account."
+      ]
+    },
+    {
+      "id": 917,
+      "en": "biological",
+      "translations": {
+        "ru": "биологический",
+        "uk": "біологічний"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/biological",
+      "phonetics": {
+        "us": "/ˌbaɪəˈlɑːdʒɪkl/",
+        "uk": "/ˌbaɪəˈlɒdʒɪkl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bio/biolo/biological__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bio/biolo/biological__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bio/biolo/biological__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bio/biolo/biological__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "the biological sciences"
+      ]
+    },
+    {
+      "id": 918,
+      "en": "bitter",
+      "translations": {
+        "ru": "горький",
+        "uk": "гіркий"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/bitter_1",
+      "phonetics": {
+        "us": "/ˈbɪtər/",
+        "uk": "/ˈbɪtə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bit/bitte/bitter__us_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bit/bitte/bitter__us_3.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bit/bitte/bitter__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bit/bitte/bitter__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Black coffee leaves a bitter taste in the mouth."
+      ]
+    },
+    {
+      "id": 919,
+      "en": "blame",
+      "translations": {
+        "ru": "вина",
+        "uk": "провина"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/blame_2",
+      "phonetics": {
+        "us": "/bleɪm/",
+        "uk": "/bleɪm/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bla/blame/blame__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bla/blame/blame__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bla/blame/blame__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bla/blame/blame__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "Why do I always get the blame for everything that goes wrong?",
+        "to lay/put the blame for something on somebody",
+        "The government will have to take the blame for the riots.",
+        "The real estate industry deserves a fair share of the blame for this failure. ",
+        "Don't even think about playing the blame game (= blaming somebody else for a problem instead of trying to find a solution)."
+      ]
+    },
+    {
+      "id": 920,
+      "en": "blame",
+      "translations": {
+        "ru": "винить",
+        "uk": "звинувачувати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/blame_1",
+      "phonetics": {
+        "us": "/bleɪm/",
+        "uk": "/bleɪm/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bla/blame/blame__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bla/blame/blame__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bla/blame/blame__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bla/blame/blame__gb_2.ogg"
+        }
+      },
+      "examples": [
+        " blame somebody/something for something She doesn't blame anyone for her father's death.",
+        "A dropped cigarette is being blamed for the fire.",
+        "Why is he blaming others for his problems?",
+        " blame somebody/something for doing something You can't really blame them for not telling you.",
+        " blame somebody/something It's easy to blame the media at times like this.",
+        " blame something on somebody/something Police are blaming the accident on dangerous driving.",
+        "The violence was blamed in part on militants."
+      ]
+    },
+    {
+      "id": 921,
+      "en": "blanket",
+      "translations": {
+        "ru": "одеяло",
+        "uk": "ковдра"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/blanket_1",
+      "phonetics": {
+        "us": "/ˈblæŋkɪt/",
+        "uk": "/ˈblæŋkɪt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bla/blank/blanket__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bla/blank/blanket__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bla/blank/blanket__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bla/blank/blanket__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "It’s cold tonight—can I have another blanket?",
+        "The baby was wrapped in a blanket."
+      ]
+    },
+    {
+      "id": 922,
+      "en": "blind",
+      "translations": {
+        "ru": "слепой",
+        "uk": "сліпий"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/blind_1",
+      "phonetics": {
+        "us": "/blaɪnd/",
+        "uk": "/blaɪnd/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bli/blind/blind__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bli/blind/blind__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bli/blind/blind__gb_11.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bli/blind/blind__gb_11.ogg"
+        }
+      },
+      "examples": [
+        "Doctors think he will go blind.",
+        "She went blind at the age of ten.",
+        "blind and partially sighted people",
+        "One of her parents is blind.",
+        "She has been legally blind since birth. ",
+        "The accident left her blind in one eye."
+      ]
+    },
+    {
+      "id": 923,
+      "en": "blow",
+      "translations": {
+        "ru": "удар",
+        "uk": "удар"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/blow_2",
+      "phonetics": {
+        "us": "/bləʊ/",
+        "uk": "/bləʊ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/blo/blow_/blow__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/blo/blow_/blow__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/blo/blow_/blow__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/blo/blow_/blow__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "She received a severe blow on the head.",
+        "He was knocked out by a single blow to the head.",
+        "The two men were exchanging blows.",
+        "He landed a blow on Hill's nose."
+      ]
+    },
+    {
+      "id": 924,
+      "en": "bold",
+      "translations": {
+        "ru": "смелый",
+        "uk": "сміливий"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/bold_1",
+      "phonetics": {
+        "us": "/bəʊld/",
+        "uk": "/bəʊld/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bol/bold_/bold__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bol/bold_/bold__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bol/bold_/bold__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bol/bold_/bold__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "It was a bold move on their part to open a business in France.",
+        "Few people have been bold enough to criticize the manager.",
+        "a bold and fearless warrior"
+      ]
+    },
+    {
+      "id": 925,
+      "en": "bombing",
+      "translations": {
+        "ru": "бомбардировка",
+        "uk": "бомбардування"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/bombing",
+      "phonetics": {
+        "us": "/ˈbɑːmɪŋ/",
+        "uk": "/ˈbɒmɪŋ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bom/bombi/bombing__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bom/bombi/bombing__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bom/bombi/bombing__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bom/bombi/bombing__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "recent bombings in major cities",
+        "The neighbourhood was badly damaged by enemy bombing."
+      ]
+    },
+    {
+      "id": 926,
+      "en": "bond",
+      "translations": {
+        "ru": "связь",
+        "uk": "зв'язок"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/bond_1",
+      "phonetics": {
+        "us": "/bɑːnd/",
+        "uk": "/bɒnd/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bon/bond_/bond__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bon/bond_/bond__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bon/bond_/bond__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bon/bond_/bond__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "the bond that links us",
+        " bond between A and B A bond of friendship had been forged between them.",
+        "The agreement strengthened the bonds between the two countries.",
+        "the special bond between mother and child",
+        "Informal language creates a bond between the members of the community. ",
+        "bond with somebody The students formed strong bonds with each other. "
+      ]
+    },
+    {
+      "id": 927,
+      "en": "booking",
+      "translations": {
+        "ru": "бронирование",
+        "uk": "бронювання"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/booking",
+      "phonetics": {
+        "us": "/ˈbʊkɪŋ/",
+        "uk": "/ˈbʊkɪŋ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/boo/booki/booking__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/boo/booki/booking__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/boo/booki/booking__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/boo/booki/booking__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a booking form/hall/clerk",
+        "Can I make a booking for Friday?",
+        "Early booking is recommended.",
+        "No advance booking is necessary.",
+        "We can't take any more bookings."
+      ]
+    },
+    {
+      "id": 928,
+      "en": "boost",
+      "translations": {
+        "ru": "подъём",
+        "uk": "підвищення"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/boost_2",
+      "phonetics": {
+        "us": "/buːst/",
+        "uk": "/buːst/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/boo/boost/boost__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/boo/boost/boost__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/boo/boost/boost__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/boo/boost/boost__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a great/tremendous/welcome boost",
+        "The tax cuts will give a much needed boost to the economy.",
+        "Winning the competition was a wonderful boost for her morale."
+      ]
+    },
+    {
+      "id": 929,
+      "en": "boost",
+      "translations": {
+        "ru": "повышать",
+        "uk": "підвищувати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/boost_1",
+      "phonetics": {
+        "us": "/buːst/",
+        "uk": "/buːst/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/boo/boost/boost__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/boo/boost/boost__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/boo/boost/boost__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/boo/boost/boost__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "to boost exports/profits",
+        "to boost productivity/spending",
+        "The movie helped boost her screen career.",
+        "to boost somebody’s confidence/morale",
+        "Getting that job did a lot to boost his ego (= make him feel more confident)."
+      ]
+    },
+    {
+      "id": 930,
+      "en": "border",
+      "translations": {
+        "ru": "граничить",
+        "uk": "межувати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/border_2",
+      "phonetics": {
+        "us": "/ˈbɔːrdər/",
+        "uk": "/ˈbɔːdə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bor/borde/border__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bor/borde/border__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bor/borde/border__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bor/borde/border__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "the countries bordering the Baltic",
+        "a mountainous region bordering Pakistan",
+        "Albania is bordered to the north by Serbia and Montenegro."
+      ]
+    },
+    {
+      "id": 931,
+      "en": "bound",
+      "translations": {
+        "ru": "обязанный",
+        "uk": "зобов'язаний"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/bound_1",
+      "phonetics": {
+        "us": "/baʊnd/",
+        "uk": "/baʊnd/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bou/bound/bound__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bou/bound/bound__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bou/bound/bound__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bou/bound/bound__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "There are bound to be changes when the new system is introduced.",
+        "It's bound to be sunny again tomorrow.",
+        "You've done so much work—you're bound to pass the exam.",
+        "It was bound to happen sooner or later (= we should have expected it).",
+        "These problems were almost bound to arise.",
+        "You're bound to be nervous the first time (= it's easy to understand)."
+      ]
+    },
+    {
+      "id": 932,
+      "en": "breast",
+      "translations": {
+        "ru": "грудь",
+        "uk": "груди"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/breast_1",
+      "phonetics": {
+        "us": "/brest/",
+        "uk": "/brest/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bre/breas/breast__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bre/breas/breast__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bre/breas/breast__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bre/breas/breast__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "She put the baby to her breast.",
+        "breast cancer",
+        "The protective benefits of breast milk are numerous for both mother and baby.",
+        "She had breast-augmentation surgery.",
+        "Getting breast implants entails major surgery.",
+        "The book promoted the benefits of breast feeding to child health.",
+        "She discovered a lump in her breast."
+      ]
+    },
+    {
+      "id": 933,
+      "en": "brick",
+      "translations": {
+        "ru": "кирпич",
+        "uk": "цегла"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/brick_1",
+      "phonetics": {
+        "us": "/brɪk/",
+        "uk": "/brɪk/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bri/brick/brick__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bri/brick/brick__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bri/brick/brick__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bri/brick/brick__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "The school is built of brick.",
+        "a pile of bricks",
+        "a brick wall"
+      ]
+    },
+    {
+      "id": 934,
+      "en": "brief",
+      "translations": {
+        "ru": "краткий",
+        "uk": "короткий"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/brief_1",
+      "phonetics": {
+        "us": "/briːf/",
+        "uk": "/briːf/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bri/brief/brief__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bri/brief/brief__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bri/brief/brief__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bri/brief/brief__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "a brief visit/meeting/conversation",
+        "Mozart's life was brief.",
+        " He said nothing during the brief court appearance.",
+        "a brief pause/silence",
+        "Susan and Mary were enjoying a brief moment of solitude.",
+        "He died after a relatively brief period of suffering."
+      ]
+    },
+    {
+      "id": 935,
+      "en": "briefly",
+      "translations": {
+        "ru": "кратко",
+        "uk": "коротко"
+      },
+      "cefr": "B2",
+      "type": "adverb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/briefly",
+      "phonetics": {
+        "us": "/ˈbriːfli/",
+        "uk": "/ˈbriːfli/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bri/brief/briefly__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bri/brief/briefly__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bri/brief/briefly__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bri/brief/briefly__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "He had spoken to Emma only briefly.",
+        "She met John briefly on Friday night."
+      ]
+    },
+    {
+      "id": 936,
+      "en": "broad",
+      "translations": {
+        "ru": "широкий",
+        "uk": "широкий"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/broad_1",
+      "phonetics": {
+        "us": "/brɔːd/",
+        "uk": "/brɔːd/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bro/broad/broad__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bro/broad/broad__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bro/broad/broad__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bro/broad/broad__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a broad street/avenue/river",
+        "He's got broad shoulders.",
+        "He is tall, broad and muscular.",
+        "a broad smile/grin (= one in which your mouth is stretched very wide because you are very pleased)"
+      ]
+    },
+    {
+      "id": 937,
+      "en": "broadcast",
+      "translations": {
+        "ru": "передача",
+        "uk": "передача"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/broadcast_2",
+      "phonetics": {
+        "us": "/ˈbrɔːdkæst/",
+        "uk": "/ˈbrɔːdkɑːst/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bro/broad/broadcast__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bro/broad/broadcast__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bro/broad/broadcast__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bro/broad/broadcast__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " (British English) a party political broadcast (= for example, before an election)",
+        "We watched a live broadcast of the speech (= one shown at the same time as the speech was made).",
+        "The evening news broadcasts are very different today than they were 25 years ago.",
+        "She has 20 years' experience in broadcast journalism.",
+        "We need one body that regulates all broadcast media.",
+        "They do not own a major television broadcast network."
+      ]
+    },
+    {
+      "id": 938,
+      "en": "broadcast",
+      "translations": {
+        "ru": "транслировать",
+        "uk": "транслювати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/broadcast_1",
+      "phonetics": {
+        "us": "/ˈbrɔːdkæst/",
+        "uk": "/ˈbrɔːdkɑːst/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bro/broad/broadcast__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bro/broad/broadcast__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bro/broad/broadcast__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bro/broad/broadcast__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The concert will be broadcast live (= at the same time as it takes place) tomorrow evening.",
+        "Most of the programmes are broadcast in English.",
+        "They began broadcasting in 1922.",
+        "The station broadcasts programmes around the world in 43 languages.",
+        "The event will be broadcast over the internet",
+        "He broadcasts his Saturday morning show on the station. "
+      ]
+    },
+    {
+      "id": 939,
+      "en": "broadcaster",
+      "translations": {
+        "ru": "телекомпания",
+        "uk": "телекомпанія"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/broadcaster",
+      "phonetics": {
+        "us": "/ˈbrɔːdkæstər/",
+        "uk": "/ˈbrɔːdkɑːstə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bro/broad/broadcaster__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bro/broad/broadcaster__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bro/broad/broadcaster__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bro/broad/broadcaster__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "She is a writer and broadcaster on environmental matters."
+      ]
+    },
+    {
+      "id": 940,
+      "en": "broadly",
+      "translations": {
+        "ru": "широко",
+        "uk": "широко"
+      },
+      "cefr": "B2",
+      "type": "adverb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/broadly",
+      "phonetics": {
+        "us": "/ˈbrɔːdli/",
+        "uk": "/ˈbrɔːdli/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bro/broad/broadly__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bro/broad/broadly__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bro/broad/broadly__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bro/broad/broadly__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Broadly speaking, I agree with you.",
+        "broadly similar/comparable/equivalent/consistent"
+      ]
+    },
+    {
+      "id": 941,
+      "en": "budget",
+      "translations": {
+        "ru": "бюджет",
+        "uk": "бюджет"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/budget_1",
+      "phonetics": {
+        "us": "/ˈbʌdʒɪt/",
+        "uk": "/ˈbʌdʒɪt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bud/budge/budget__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bud/budge/budget__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bud/budge/budget__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bud/budge/budget__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "an annual budget of £10 million ",
+        "a balanced budget (= one where the amount spent matches the amount available)",
+        "Many families struggle to balance the household budget.",
+        "to cut/slash a budget",
+        "the education/defence budget (= the amount of money that can be spent on this)",
+        "an advertising budget of $2 million",
+        "It's one of those big-budget Hollywood movies.",
+        " on a budget We decorated the house on a tight budget (= without much money to spend).",
+        " on/within budget The work was finished on time and within budget (= did not cost more money than was planned).",
+        " over budget They went over budget (= spent too much money).",
+        " under/below budget The project came in under budget.",
+        " in the budget Is there any money left in the budget?",
+        "The hospital now faces severe budget cuts.",
+        "a budget surplus/shortfall (= when there is more/less money than is needed)"
+      ]
+    },
+    {
+      "id": 942,
+      "en": "bug",
+      "translations": {
+        "ru": "жук",
+        "uk": "жук"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/bug_1",
+      "phonetics": {
+        "us": "/bʌɡ/",
+        "uk": "/bʌɡ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bug/bug__/bug__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bug/bug__/bug__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bug/bug__/bug__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bug/bug__/bug__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "There's a bug crawling up your arm."
+      ]
+    },
+    {
+      "id": 943,
+      "en": "bullet",
+      "translations": {
+        "ru": "пуля",
+        "uk": "куля"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/bullet",
+      "phonetics": {
+        "us": "/ˈbʊlɪt/",
+        "uk": "/ˈbʊlɪt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bul/bulle/bullet__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bul/bulle/bullet__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bul/bulle/bullet__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bul/bulle/bullet__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "He was found to have a single bullet wound in his chest.",
+        "There were bullet holes in the door.",
+        "He was killed by a bullet in the head.",
+        "A soldier fired live bullets into the crowd.",
+        "The mirror had been broken by bullets from a gun.",
+        "An assassin's bullet killed Martin Luther King Jr."
+      ]
+    },
+    {
+      "id": 944,
+      "en": "bunch",
+      "translations": {
+        "ru": "пучок",
+        "uk": "пучок"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/bunch_1",
+      "phonetics": {
+        "us": "/bʌntʃ/",
+        "uk": "/bʌntʃ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bun/bunch/bunch__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bun/bunch/bunch__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bun/bunch/bunch__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bun/bunch/bunch__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a bunch of bananas, grapes, etc.",
+        "a bunch of keys",
+        "She picked me a bunch of flowers.",
+        "She put all the flowers together in one big bunch."
+      ]
+    },
+    {
+      "id": 945,
+      "en": "burn",
+      "translations": {
+        "ru": "ожог",
+        "uk": "опік"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/burn_2",
+      "phonetics": {
+        "us": "/bɜːrn/",
+        "uk": "/bɜːn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bur/burn_/burn__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bur/burn_/burn__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bur/burn_/burn__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bur/burn_/burn__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "to have minor/severe/third-degree burns",
+        "She suffered serious burns but is expected to survive.",
+        "He was treated in the hospital for 60% burns.",
+        " burn to something He is recovering from burns to his face and hands.",
+        " burn on something cigarette burns on the furniture",
+        "a slight burn on the back of her hand",
+        "burn marks/injuries",
+        "burn victims",
+        "a specialist burns unit in a hospital"
+      ]
+    },
+    {
+      "id": 946,
+      "en": "bush",
+      "translations": {
+        "ru": "куст",
+        "uk": "кущ"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/bush",
+      "phonetics": {
+        "us": "/bʊʃ/",
+        "uk": "/bʊʃ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bus/bush_/bush__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/b/bus/bush_/bush__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bus/bush_/bush_1_gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/b/bus/bush_/bush_1_gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a rose/holly bush",
+        " in the bushes She was hiding in the bushes at the side of the lane."
+      ]
+    },
+    {
+      "id": 947,
+      "en": "cabin",
+      "translations": {
+        "ru": "каюта",
+        "uk": "каюта"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/cabin",
+      "phonetics": {
+        "us": "/ˈkæbɪn/",
+        "uk": "/ˈkæbɪn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cab/cabin/cabin__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cab/cabin/cabin__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cab/cabin/cabin__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cab/cabin/cabin__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "I lay in my cabin feeling miserably seasick."
+      ]
+    },
+    {
+      "id": 948,
+      "en": "cable",
+      "translations": {
+        "ru": "кабель",
+        "uk": "кабель"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/cable_1",
+      "phonetics": {
+        "us": "/ˈkeɪbl/",
+        "uk": "/ˈkeɪbl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cab/cable/cable__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cab/cable/cable__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cab/cable/cable__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cab/cable/cable__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "fibre-optic cable",
+        "a power cable ",
+        "overhead/underground/undersea cables",
+        "a 10 000-volt cable",
+        "a USB cable",
+        "a length of electric cable",
+        "They're digging up the road to lay cables."
+      ]
+    },
+    {
+      "id": 949,
+      "en": "calculate",
+      "translations": {
+        "ru": "вычислять",
+        "uk": "обчислювати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/calculate",
+      "phonetics": {
+        "us": "/ˈkælkjuleɪt/",
+        "uk": "/ˈkælkjuleɪt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cal/calcu/calculate__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cal/calcu/calculate__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cal/calcu/calculate__gb_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cal/calcu/calculate__gb_3.ogg"
+        }
+      },
+      "examples": [
+        " calculate something An independent valuer will calculate the value of your property.",
+        "That figure was calculated using the standard equation.",
+        "Use the formula to calculate the volume of the container.",
+        "We haven’t really calculated the cost of the vacation yet.",
+        "Benefit is calculated on the basis of average weekly earnings.",
+        " calculate something from something Expected cancer rates were calculated from data from the eight surrounding counties.",
+        " calculate something by something The daily doses were calculated by a somewhat simpler method.",
+        " calculate something by doing something The ratio is calculated by dividing a company's share price by its earnings per share.",
+        " calculate how much, what, etc. You'll need to calculate how much time the assignment will take.",
+        " it is calculated that… It has been calculated that at least 47 000 jobs were lost last year.",
+        " be calculated at… The sum involved was calculated at $82 million."
+      ]
+    },
+    {
+      "id": 950,
+      "en": "canal",
+      "translations": {
+        "ru": "канал",
+        "uk": "канал"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/canal",
+      "phonetics": {
+        "us": "/kəˈnæl/",
+        "uk": "/kəˈnæl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/can/canal/canal__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/can/canal/canal__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/can/canal/canal__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/can/canal/canal__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "the Panama/Suez Canal",
+        "an irrigation canal"
+      ]
+    },
+    {
+      "id": 951,
+      "en": "cancel",
+      "translations": {
+        "ru": "отменять",
+        "uk": "скасовувати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/cancel",
+      "phonetics": {
+        "us": "/ˈkænsl/",
+        "uk": "/ˈkænsl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/can/cance/cancel__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/can/cance/cancel__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/can/cance/cancel__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/can/cance/cancel__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "All flights have been cancelled because of bad weather.",
+        "The prime minister has abruptly cancelled a trip to Washington.",
+        "to cancel a meeting/a show/an event",
+        "The Foreign Office is not advising people to cancel their travel plans.",
+        "The wedding was cancelled at the last minute.",
+        "The president fell ill and was forced to cancel all public engagements.",
+        "When the war broke out all leave was cancelled.",
+        "She abruptly cancelled a scheduled meeting. "
+      ]
+    },
+    {
+      "id": 952,
+      "en": "cancer",
+      "translations": {
+        "ru": "рак",
+        "uk": "рак"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/cancer_1",
+      "phonetics": {
+        "us": "/ˈkænsər/",
+        "uk": "/ˈkænsə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/can/cance/cancer__us_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/can/cance/cancer__us_3.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/can/cance/cancer__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/can/cance/cancer__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "breast/lung cancer",
+        "Most skin cancers are completely curable.",
+        " cancer of something cancer of the colon/cervix",
+        "The cancer has spread to his stomach.",
+        "Smokers face an increased risk of developing lung cancer.",
+        "to detect/diagnose/treat/cure cancer ",
+        "The drug can lower the risk of breast cancer.",
+        "cancer patients/survivors",
+        "cancer research",
+        "cancer screening/treatment/prevention/risk"
+      ]
+    },
+    {
+      "id": 953,
+      "en": "candle",
+      "translations": {
+        "ru": "свеча",
+        "uk": "свічка"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/candle",
+      "phonetics": {
+        "us": "/ˈkændl/",
+        "uk": "/ˈkændl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/can/candl/candle__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/can/candl/candle__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/can/candl/candle__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/can/candl/candle__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a flickering candle",
+        "The room was lit by candles.",
+        "to blow out/snuff out a candle"
+      ]
+    },
+    {
+      "id": 954,
+      "en": "capable",
+      "translations": {
+        "ru": "способный",
+        "uk": "здатний"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/capable",
+      "phonetics": {
+        "us": "/ˈkeɪpəbl/",
+        "uk": "/ˈkeɪpəbl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cap/capab/capable__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cap/capab/capable__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cap/capab/capable__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cap/capab/capable__gb_2.ogg"
+        }
+      },
+      "examples": [
+        " capable of something You are capable of better work than this.",
+        " capable of doing something He's quite capable of lying to get out of trouble.",
+        "I'm perfectly capable of doing it myself, thank you.",
+        "He is more than capable of playing at an international level.",
+        "He is still capable of doing the job."
+      ]
+    },
+    {
+      "id": 955,
+      "en": "capacity",
+      "translations": {
+        "ru": "ёмкость",
+        "uk": "місткість"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/capacity",
+      "phonetics": {
+        "us": "/kəˈpæsəti/",
+        "uk": "/kəˈpæsəti/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cap/capac/capacity__us_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cap/capac/capacity__us_3.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cap/capac/capacity__gb_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cap/capac/capacity__gb_3.ogg"
+        }
+      },
+      "examples": [
+        "a fuel tank with a maximum capacity of 50 litres",
+        "The theatre has a seating capacity of 2 000.",
+        "a hard disk storage capacity of 1 000 gigabytes",
+        "large capacity disk drives",
+        " to capacity The hall was filled to capacity (= was completely full). ",
+        "They played to a capacity crowd (= one that filled all the space or seats)."
+      ]
+    },
+    {
+      "id": 956,
+      "en": "capture",
+      "translations": {
+        "ru": "захват",
+        "uk": "захоплення"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/capture_2",
+      "phonetics": {
+        "us": "/ˈkæptʃər/",
+        "uk": "/ˈkæptʃə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cap/captu/capture__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cap/captu/capture__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cap/captu/capture__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cap/captu/capture__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "He evaded capture for three days.",
+        "to elude/avoid capture",
+        "They narrowly escaped capture several times.",
+        "This information led to the capture of the murderer."
+      ]
+    },
+    {
+      "id": 957,
+      "en": "capture",
+      "translations": {
+        "ru": "захватывать",
+        "uk": "захоплювати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/capture_1",
+      "phonetics": {
+        "us": "/ˈkæptʃər/",
+        "uk": "/ˈkæptʃə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cap/captu/capture__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cap/captu/capture__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cap/captu/capture__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cap/captu/capture__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Allied troops captured over 300 enemy soldiers.",
+        "The animals are captured in nets and sold to local zoos."
+      ]
+    },
+    {
+      "id": 958,
+      "en": "carbon",
+      "translations": {
+        "ru": "углерод",
+        "uk": "вуглець"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/carbon",
+      "phonetics": {
+        "us": "/ˈkɑːrbən/",
+        "uk": "/ˈkɑːbən/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/car/carbo/carbon__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/car/carbo/carbon__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/car/carbo/carbon__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/car/carbo/carbon__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "carbon fibre",
+        "iron with a high carbon content"
+      ]
+    },
+    {
+      "id": 959,
+      "en": "cast",
+      "translations": {
+        "ru": "актёрский состав",
+        "uk": "акторський склад"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/cast_2",
+      "phonetics": {
+        "us": "/kæst/",
+        "uk": "/kɑːst/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cas/cast_/cast__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cas/cast_/cast__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cas/cast_/cast__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cas/cast_/cast__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "an all-star cast (= including many well-known actors)",
+        "the supporting cast (= not the main actors, but the others)",
+        "The whole cast performs/perform brilliantly.",
+        " in the cast Everyone in the cast is excellent.",
+        " Bonus features include interviews with the cast and crew.",
+        "a play with a large cast of characters",
+        "None of the other cast members makes much of an impression.",
+        "members of the cast",
+        "the cast list"
+      ]
+    },
+    {
+      "id": 960,
+      "en": "cast",
+      "translations": {
+        "ru": "бросать",
+        "uk": "кидати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/cast_1",
+      "phonetics": {
+        "us": "/kæst/",
+        "uk": "/kɑːst/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cas/cast_/cast__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cas/cast_/cast__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cas/cast_/cast__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cas/cast_/cast__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " cast something + adv./prep. She cast a welcoming smile in his direction.",
+        "I cast an angry look at him.",
+        "He groaned, casting his eyes to the ceiling.",
+        " cast somebody something She cast me a disapproving glance."
+      ]
+    },
+    {
+      "id": 961,
+      "en": "casual",
+      "translations": {
+        "ru": "повседневный",
+        "uk": "повсякденний"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/casual_1",
+      "phonetics": {
+        "us": "/ˈkæʒuəl/",
+        "uk": "/ˈkæʒuəl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cas/casua/casual__us_1_rr.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cas/casua/casual__us_1_rr.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cas/casua/casual__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cas/casua/casual__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "casual clothes (= comfortable clothes that you choose to wear in your free time)",
+        "family parties and other casual occasions"
+      ]
+    },
+    {
+      "id": 962,
+      "en": "catch",
+      "translations": {
+        "ru": "улов",
+        "uk": "улов"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/catch_2",
+      "phonetics": {
+        "us": "/ketʃ/",
+        "uk": "/kætʃ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cat/catch/catch__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cat/catch/catch__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cat/catch/catch__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cat/catch/catch__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "Roger made some brilliant catches at today's game.",
+        "He dropped several easy catches."
+      ]
+    },
+    {
+      "id": 963,
+      "en": "cave",
+      "translations": {
+        "ru": "пещера",
+        "uk": "печера"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/cave_1",
+      "phonetics": {
+        "us": "/keɪv/",
+        "uk": "/keɪv/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cav/cave_/cave__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cav/cave_/cave__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cav/cave_/cave__gb_4.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cav/cave_/cave__gb_4.ogg"
+        }
+      },
+      "examples": [
+        "the mouth (= the entrance) of the cave",
+        "The area contains vast underground cave systems.",
+        "a cave-dweller (= a person who lives in a cave)",
+        "We took shelter in a dark cave.",
+        "a collapsed limestone cave"
+      ]
+    },
+    {
+      "id": 964,
+      "en": "cell",
+      "translations": {
+        "ru": "клетка",
+        "uk": "клітина"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/cell",
+      "phonetics": {
+        "us": "/sel/",
+        "uk": "/sel/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cel/cell_/cell__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cel/cell_/cell__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cel/cell_/cell__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cel/cell_/cell__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "red and white blood cells",
+        "brain/nerve/cancer cells",
+        "the nucleus of a cell",
+        "Cells divide and form new cells."
+      ]
+    },
+    {
+      "id": 965,
+      "en": "certainty",
+      "translations": {
+        "ru": "уверенность",
+        "uk": "впевненість"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/certainty",
+      "phonetics": {
+        "us": "/ˈsɜːrtnti/",
+        "uk": "/ˈsɜːtnti/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cer/certa/certainty__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cer/certa/certainty__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cer/certa/certainty__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cer/certa/certainty__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "There is no certainty that the president's removal would end the civil war.",
+        "I can't say with any certainty where I'll be next week."
+      ]
+    },
+    {
+      "id": 966,
+      "en": "certificate",
+      "translations": {
+        "ru": "сертификат",
+        "uk": "сертифікат"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/certificate_1",
+      "phonetics": {
+        "us": "/sərˈtɪfɪkət/",
+        "uk": "/səˈtɪfɪkət/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cer/certi/certificate__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cer/certi/certificate__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cer/certi/certificate__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cer/certi/certificate__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a birth/marriage/death certificate",
+        " certificate of something a certificate of motor insurance"
+      ]
+    },
+    {
+      "id": 967,
+      "en": "chain",
+      "translations": {
+        "ru": "приковывать",
+        "uk": "приковувати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/chain_2",
+      "phonetics": {
+        "us": "/tʃeɪn/",
+        "uk": "/tʃeɪn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cha/chain/chain__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cha/chain/chain__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cha/chain/chain__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cha/chain/chain__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " chain somebody/something The doors were always locked and chained.",
+        "He maintained that the convicts working on the roads were never chained.",
+        "He was beaten in his cell while in handcuffs and with his legs chained.",
+        " chain somebody/something up The dog was chained up for the night.",
+        "They took the prisoner out to the yard and chained him up.",
+        " chain somebody/something to somebody/something She chained her bicycle to the gate.",
+        "Four activists chained themselves to construction equipment.",
+        " (figurative) I've been chained to my desk all week (= because there was so much work).",
+        " chain somebody/something together The detainees were chained together in groups of two or three.",
+        "With their wrists chained together they were led out to the waiting vehicles."
+      ]
+    },
+    {
+      "id": 968,
+      "en": "chair",
+      "translations": {
+        "ru": "председательствовать",
+        "uk": "головувати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/chair_2",
+      "phonetics": {
+        "us": "/tʃer/",
+        "uk": "/tʃeə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cha/chair/chair__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cha/chair/chair__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cha/chair/chair__gb_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cha/chair/chair__gb_3.ogg"
+        }
+      },
+      "examples": [
+        "to chair a committee",
+        "Who's chairing the meeting?",
+        "a judging panel chaired by a radio presenter."
+      ]
+    },
+    {
+      "id": 969,
+      "en": "chairman",
+      "translations": {
+        "ru": "председатель",
+        "uk": "голова"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/chairman",
+      "phonetics": {
+        "us": "/ˈtʃermən/",
+        "uk": "/ˈtʃeəmən/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cha/chair/chairman__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cha/chair/chairman__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cha/chair/chairman__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cha/chair/chairman__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Sir Herbert took it upon himself to act as chairman.",
+        "The motion was carried on the casting vote of the chairman."
+      ]
+    },
+    {
+      "id": 970,
+      "en": "challenge",
+      "translations": {
+        "ru": "бросать вызов",
+        "uk": "кидати виклик"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/challenge_2",
+      "phonetics": {
+        "us": "/ˈtʃælɪndʒ/",
+        "uk": "/ˈtʃælɪndʒ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cha/chall/challenge__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cha/chall/challenge__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cha/chall/challenge__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cha/chall/challenge__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " challenge something His legal team immediately sought to challenge the decision. ",
+        "The story was completely untrue and was successfully challenged in court.",
+        "She does not like anyone challenging her authority.",
+        "This discovery challenges traditional beliefs.",
+        "The new study challenges fundamental assumptions about the virus. ",
+        "challenge somebody on something She challenged him on his old-fashioned views.",
+        " challenge somebody He repeated the claim but the interviewer did not challenge him."
+      ]
+    },
+    {
+      "id": 971,
+      "en": "challenging",
+      "translations": {
+        "ru": "сложный",
+        "uk": "складний"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/challenging",
+      "phonetics": {
+        "us": "/ˈtʃælɪndʒɪŋ/",
+        "uk": "/ˈtʃælɪndʒɪŋ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cha/chall/challenging__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cha/chall/challenging__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cha/chall/challenging__gb_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cha/chall/challenging__gb_3.ogg"
+        }
+      },
+      "examples": [
+        "challenging work/questions/problems",
+        "I have had a challenging and rewarding career as a teacher."
+      ]
+    },
+    {
+      "id": 972,
+      "en": "championship",
+      "translations": {
+        "ru": "чемпионат",
+        "uk": "чемпіонат"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/championship",
+      "phonetics": {
+        "us": "/ˈtʃæmpiənʃɪp/",
+        "uk": "/ˈtʃæmpiənʃɪp/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cha/champ/championship__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cha/champ/championship__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cha/champ/championship__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cha/champ/championship__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "the National Basketball Association Championship",
+        "He won a silver medal at the European Championships."
+      ]
+    },
+    {
+      "id": 973,
+      "en": "characteristic",
+      "translations": {
+        "ru": "характерный",
+        "uk": "характерний"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/characteristic_2",
+      "phonetics": {
+        "us": "/ˌkærəktəˈrɪstɪk/",
+        "uk": "/ˌkærəktəˈrɪstɪk/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cha/chara/characteristic__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cha/chara/characteristic__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cha/chara/characteristic__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cha/chara/characteristic__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " characteristic of something/somebody Community support of families is characteristic of many societies.",
+        "This is just one example of the rudeness that was so characteristic of him.",
+        "the characteristic features of his style of painting",
+        "She spoke with characteristic enthusiasm."
+      ]
+    },
+    {
+      "id": 974,
+      "en": "characteristic",
+      "translations": {
+        "ru": "характеристика",
+        "uk": "характеристика"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/characteristic_1",
+      "phonetics": {
+        "us": "/ˌkærəktəˈrɪstɪk/",
+        "uk": "/ˌkærəktəˈrɪstɪk/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cha/chara/characteristic__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cha/chara/characteristic__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cha/chara/characteristic__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cha/chara/characteristic__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "There were few similarities in the brothers' physical characteristics.",
+        "All human languages share some common characteristics.",
+        "The two groups of children have quite different characteristics.",
+        "Personal characteristics, such as age and sex are taken into account.",
+        "genetic characteristics",
+        " characteristic of something/somebody The need to communicate is a key characteristic of human society.",
+        "a defining characteristic of contemporary American culture"
+      ]
+    },
+    {
+      "id": 975,
+      "en": "charming",
+      "translations": {
+        "ru": "очаровательный",
+        "uk": "чарівний"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/charming",
+      "phonetics": {
+        "us": "/ˈtʃɑːrmɪŋ/",
+        "uk": "/ˈtʃɑːmɪŋ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cha/charm/charming__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cha/charm/charming__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cha/charm/charming__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cha/charm/charming__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The cottage is tiny, but it's charming.",
+        "She's a charming person.",
+        "What a charming name."
+      ]
+    },
+    {
+      "id": 976,
+      "en": "chart",
+      "translations": {
+        "ru": "отслеживать",
+        "uk": "відстежувати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/chart_2",
+      "phonetics": {
+        "us": "/tʃɑːrt/",
+        "uk": "/tʃɑːt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cha/chart/chart__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cha/chart/chart__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cha/chart/chart__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cha/chart/chart__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The exhibition charts the history of the palace.",
+        "The tests are used to chart the progress of both the schools and their pupils.",
+        "His job was to chart the progress of the spacecraft."
+      ]
+    },
+    {
+      "id": 977,
+      "en": "chase",
+      "translations": {
+        "ru": "погоня",
+        "uk": "погоня"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/chase_2",
+      "phonetics": {
+        "us": "/tʃeɪs/",
+        "uk": "/tʃeɪs/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cha/chase/chase__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cha/chase/chase__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cha/chase/chase__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cha/chase/chase__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The thieves were caught by police after a short chase.",
+        "a high-speed car chase",
+        "We lost him in the narrow streets and had to give up the chase (= stop chasing him).",
+        "to take up the chase (= start chasing somebody)",
+        "The chase is on!"
+      ]
+    },
+    {
+      "id": 978,
+      "en": "chase",
+      "translations": {
+        "ru": "преследовать",
+        "uk": "переслідувати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/chase_1",
+      "phonetics": {
+        "us": "/tʃeɪs/",
+        "uk": "/tʃeɪs/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cha/chase/chase__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cha/chase/chase__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cha/chase/chase__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cha/chase/chase__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " chase somebody/something My dog likes chasing rabbits.",
+        "The kids chased each other around the kitchen table.",
+        "We were chased by a bull while crossing the field.",
+        " chase after somebody/something He chased after the burglar but couldn't catch him."
+      ]
+    },
+    {
+      "id": 979,
+      "en": "cheek",
+      "translations": {
+        "ru": "щека",
+        "uk": "щока"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/cheek_1",
+      "phonetics": {
+        "us": "/tʃiːk/",
+        "uk": "/tʃiːk/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/che/cheek/cheek__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/che/cheek/cheek__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/che/cheek/cheek__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/che/cheek/cheek__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "chubby/rosy/pink cheeks",
+        "He kissed her on both cheeks.",
+        "Couples were dancing cheek to cheek."
+      ]
+    },
+    {
+      "id": 980,
+      "en": "cheer",
+      "translations": {
+        "ru": "ура",
+        "uk": "ура"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/cheer_2",
+      "phonetics": {
+        "us": "/tʃɪr/",
+        "uk": "/tʃɪə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/che/cheer/cheer__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/che/cheer/cheer__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/che/cheer/cheer__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/che/cheer/cheer__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "A great cheer went up from the crowd.",
+        "cheers of encouragement",
+        "Three cheers for the winners! (= used when you are asking a group of people to cheer three times, in order to congratulate somebody, etc.)"
+      ]
+    },
+    {
+      "id": 981,
+      "en": "cheer",
+      "translations": {
+        "ru": "подбадривать",
+        "uk": "підбадьорювати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/cheer_1",
+      "phonetics": {
+        "us": "/tʃɪr/",
+        "uk": "/tʃɪə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/che/cheer/cheer__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/che/cheer/cheer__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/che/cheer/cheer__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/che/cheer/cheer__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "We all cheered as the team came on to the field.",
+        "Cheering crowds greeted their arrival.",
+        " cheer for somebody/something The fans cheered for their team.",
+        " cheer somebody The crowd cheered the president as he drove slowly by."
+      ]
+    },
+    {
+      "id": 982,
+      "en": "chief",
+      "translations": {
+        "ru": "главный",
+        "uk": "головний"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/chief_1",
+      "phonetics": {
+        "us": "/tʃiːf/",
+        "uk": "/tʃiːf/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/chi/chief/chief__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/chi/chief/chief__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/chi/chief/chief__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/chi/chief/chief__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "the chief cause/problem/reason",
+        "He became the chief architect of the Treaty of Paris.",
+        "She cites the economy as her chief concern.",
+        "one of the President’s chief rivals",
+        "somebody's chief enemy/opponent",
+        " chief among somebody/something Chief among his challenges is the impact that current reforms could have on small businesses."
+      ]
+    },
+    {
+      "id": 983,
+      "en": "chief",
+      "translations": {
+        "ru": "начальник",
+        "uk": "начальник"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/chief_2",
+      "phonetics": {
+        "us": "/tʃiːf/",
+        "uk": "/tʃiːf/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/chi/chief/chief__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/chi/chief/chief__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/chi/chief/chief__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/chi/chief/chief__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "army/police chiefs",
+        "She is Washington bureau chief for ‘USA Today’.",
+        "industry chiefs",
+        "education chiefs at Sheffield Council",
+        " chief of somebody/something He served as chief of police between 2002 and 2009.",
+        "our new chief of operations"
+      ]
+    },
+    {
+      "id": 984,
+      "en": "choir",
+      "translations": {
+        "ru": "хор",
+        "uk": "хор"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/choir",
+      "phonetics": {
+        "us": "/ˈkwaɪər/",
+        "uk": "/ˈkwaɪə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cho/choir/choir__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cho/choir/choir__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cho/choir/choir__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cho/choir/choir__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "She sings in the school choir.",
+        "He joined the church choir when he was eight.",
+        "to conduct/lead/direct a choir",
+        "a male voice choir",
+        "The children's choir will perform some Christmas songs."
+      ]
+    },
+    {
+      "id": 985,
+      "en": "chop",
+      "translations": {
+        "ru": "рубить",
+        "uk": "рубати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/chop_1",
+      "phonetics": {
+        "us": "/tʃɑːp/",
+        "uk": "/tʃɒp/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cho/chop_/chop__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cho/chop_/chop__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cho/chop_/chop__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cho/chop_/chop__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " chop something He was chopping logs for firewood.",
+        "Add the finely chopped onions.",
+        " chop something (up) (into something) Chop the carrots up into small pieces.",
+        " (figurative) The country was chopped up into small administrative areas."
+      ]
+    },
+    {
+      "id": 986,
+      "en": "circuit",
+      "translations": {
+        "ru": "цепь",
+        "uk": "коло"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/circuit",
+      "phonetics": {
+        "us": "/ˈsɜːrkɪt/",
+        "uk": "/ˈsɜːkɪt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cir/circu/circuit__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cir/circu/circuit__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cir/circu/circuit__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cir/circu/circuit__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The race ended with eight laps of a city centre circuit.",
+        "The earth takes a year to make a circuit of (= go around) the sun."
+      ]
+    },
+    {
+      "id": 987,
+      "en": "circumstance",
+      "translations": {
+        "ru": "обстоятельство",
+        "uk": "обставина"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/circumstance",
+      "phonetics": {
+        "us": "/ˈsɜːrkəmstæns/",
+        "uk": "/ˈsɜːkəmstæns/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cir/circu/circumstance__us_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cir/circu/circumstance__us_3.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cir/circu/circumstance__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cir/circu/circumstance__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Police said there were no suspicious circumstances surrounding the boy's death.",
+        " under … circumstances Under normal circumstances, your white blood cells are able to fight infections.",
+        " in … circumstances The company reserves the right to cancel this agreement in certain circumstances.",
+        "In exceptional circumstances, detainees could be denied access to a lawyer.",
+        "I know I can trust her in any circumstance.",
+        "Due to unforeseen circumstances, we have had to reschedule the concert.",
+        "Britain is fortunately not facing the same set of circumstances.",
+        "The court will take into account all the circumstances of the case.",
+        "Police are investigating the circumstances of the death of a baby boy."
+      ]
+    },
+    {
+      "id": 988,
+      "en": "cite",
+      "translations": {
+        "ru": "цитировать",
+        "uk": "цитувати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/cite",
+      "phonetics": {
+        "us": "/saɪt/",
+        "uk": "/saɪt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cit/cite_/cite__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cit/cite_/cite__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cit/cite_/cite__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cit/cite_/cite__gb_2.ogg"
+        }
+      },
+      "examples": [
+        " cite something She cited examples of companies the city has helped relocate or expand.",
+        "Citing unnamed sources, the newspaper reports that the two companies are nearing a deal.",
+        "There is no reason to doubt the information in the articles cited above.",
+        "He cited personal reasons for his decision to resign.",
+        "The Bank of England has cited concerns about inflation for the first time in four years.",
+        "Their method is similar to those used by many studies cited in this report.",
+        " cite something as something He cited his heavy workload as the reason for his breakdown."
+      ]
+    },
+    {
+      "id": 989,
+      "en": "citizen",
+      "translations": {
+        "ru": "гражданин",
+        "uk": "громадянин"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/citizen",
+      "phonetics": {
+        "us": "/ˈsɪtɪzn/",
+        "uk": "/ˈsɪtɪzn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cit/citiz/citizen__us_7.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cit/citiz/citizen__us_7.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cit/citiz/citizen__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cit/citiz/citizen__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "The defeat of the president did not change the lives of ordinary citizens for the better.",
+        "an economic slowdown that has left millions of our fellow citizens unemployed",
+        "She's Italian by birth but is now an Australian citizen.",
+        "Polish citizens living in other parts of the European Union",
+        "the government's failure to address the concerns of the average citizen ",
+        "In light of the unrest in the country, the US embassy has urged private citizens to leave.",
+        "I became a naturalized American citizen when I was 18.",
+        "He said the primary responsibility of a state is to protect its citizens from attack.",
+        "This shows that the government respects the rights of citizens.",
+        " citizen of something Some politicians seem to be treating the citizens of this country with contempt."
+      ]
+    },
+    {
+      "id": 990,
+      "en": "civil",
+      "translations": {
+        "ru": "гражданский",
+        "uk": "громадянський"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/civil",
+      "phonetics": {
+        "us": "/ˈsɪvl/",
+        "uk": "/ˈsɪvl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/civ/civil/civil__us_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/civ/civil/civil__us_3.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/civ/civil/civil__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/civ/civil/civil__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "civil unrest (= that is caused by groups of people within a country)",
+        "civil strife/conflict",
+        "There were concerns that the economic reforms might lead to civil unrest."
+      ]
+    },
+    {
+      "id": 991,
+      "en": "civilization",
+      "translations": {
+        "ru": "цивилизация",
+        "uk": "цивілізація"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/civilization",
+      "phonetics": {
+        "us": "/ˌsɪvələˈzeɪʃn/",
+        "uk": "/ˌsɪvəlaɪˈzeɪʃn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/civ/civil/civilization__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/civ/civil/civilization__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/civ/civil/civilization__gb_5.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/civ/civil/civilization__gb_5.ogg"
+        }
+      },
+      "examples": [
+        "the technology of modern civilization",
+        "The Victorians regarded the railways as bringing progress and civilization."
+      ]
+    },
+    {
+      "id": 992,
+      "en": "clarify",
+      "translations": {
+        "ru": "разъяснять",
+        "uk": "роз'яснювати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/clarify",
+      "phonetics": {
+        "us": "/ˈklærəfaɪ/",
+        "uk": "/ˈklærəfaɪ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cla/clari/clarify__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cla/clari/clarify__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cla/clari/clarify__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cla/clari/clarify__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " clarify something to clarify a situation/problem/issue",
+        "I hope this clarifies my position.",
+        "The law on drugs needs to be clarified.",
+        "Talking to someone has helped clarify my feelings.",
+        " clarify what/how, etc… She asked him to clarify what he meant."
+      ]
+    },
+    {
+      "id": 993,
+      "en": "classic",
+      "translations": {
+        "ru": "классический",
+        "uk": "класичний"
+      },
+      "cefr": "B2",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/classic_1",
+      "phonetics": {
+        "us": "/ˈklæsɪk/",
+        "uk": "/ˈklæsɪk/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cla/class/classic__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cla/class/classic__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cla/class/classic__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cla/class/classic__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a classic film/story/car/game ",
+        "I grew up listening to classic rock.",
+        "a classic novel/study/goal",
+        "This classic novel was first published in 1938."
+      ]
+    },
+    {
+      "id": 994,
+      "en": "classic",
+      "translations": {
+        "ru": "классика",
+        "uk": "класика"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/classic_2",
+      "phonetics": {
+        "us": "/ˈklæsɪk/",
+        "uk": "/ˈklæsɪk/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cla/class/classic__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cla/class/classic__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cla/class/classic__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cla/class/classic__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The film is now a cult classic.",
+        "The song became an instant classic.",
+        "The novel may become a modern classic.",
+        "English classics such as ‘Alice in Wonderland’",
+        "His book is something of a classic of the genre.",
+        "one of the true classics of French cinema"
+      ]
+    },
+    {
+      "id": 995,
+      "en": "classify",
+      "translations": {
+        "ru": "классифицировать",
+        "uk": "класифікувати"
+      },
+      "cefr": "B2",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/classify",
+      "phonetics": {
+        "us": "/ˈklæsɪfaɪ/",
+        "uk": "/ˈklæsɪfaɪ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cla/class/classify__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cla/class/classify__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cla/class/classify__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cla/class/classify__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "The books in the library are classified according to subject.",
+        "Patients are classified into three categories.",
+        "All rural settlements were classified according to their size.",
+        "people classified by ethnic group",
+        "These can be classified under five headings."
+      ]
+    },
+    {
+      "id": 996,
+      "en": "clerk",
+      "translations": {
+        "ru": "клерк",
+        "uk": "клерк"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/clerk_1",
+      "phonetics": {
+        "us": "/klɜːrk/",
+        "uk": "/klɑːk/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cle/clerk/clerk__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cle/clerk/clerk__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cle/clerk/clerk__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cle/clerk/clerk__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The clerk at the counter gave me too little change.",
+        "The sales clerk answered all our questions."
+      ]
+    },
+    {
+      "id": 997,
+      "en": "cliff",
+      "translations": {
+        "ru": "утёс",
+        "uk": "скеля"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/cliff_1",
+      "phonetics": {
+        "us": "/klɪf/",
+        "uk": "/klɪf/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cli/cliff/cliff__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cli/cliff/cliff__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cli/cliff/cliff__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cli/cliff/cliff__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "the cliff edge/top",
+        "the chalk cliffs of southern England",
+        "a castle perched high on the cliffs above the river",
+        "We set off along the cliff path."
+      ]
+    },
+    {
+      "id": 998,
+      "en": "clinic",
+      "translations": {
+        "ru": "клиника",
+        "uk": "клініка"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/clinic",
+      "phonetics": {
+        "us": "/ˈklɪnɪk/",
+        "uk": "/ˈklɪnɪk/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cli/clini/clinic__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cli/clini/clinic__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cli/clini/clinic__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cli/clini/clinic__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Your local family planning clinic can give you advice about birth control."
+      ]
+    },
+    {
+      "id": 999,
+      "en": "clip",
+      "translations": {
+        "ru": "клип",
+        "uk": "кліп"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/clip_1",
+      "phonetics": {
+        "us": "/klɪp/",
+        "uk": "/klɪp/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cli/clip_/clip__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cli/clip_/clip__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cli/clip_/clip__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cli/clip_/clip__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Here is a clip from her latest movie."
+      ]
+    },
+    {
+      "id": 1000,
+      "en": "close",
+      "translations": {
+        "ru": "конец",
+        "uk": "кінець"
+      },
+      "cefr": "B2",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/close1_2",
+      "phonetics": {
+        "us": "/kləʊz/",
+        "uk": "/kləʊz/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/clo/close/close__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/clo/close/close__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/clo/close/close__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/clo/close/close__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "at the close of the seventeenth century",
+        "His life was drawing to a close.",
+        "Can we bring this meeting to a close?",
+        "This chapter of her life had come to a close.",
+        "By the close of London trading, Wall Street was up 9.78 points.",
+        "The West Indies were 98 for 3 at the close of play (= at the end of the day’s play in a cricket match)."
+      ]
+    }
+  ]
+}

@@ -37,6 +37,19 @@ class WordsRepository {
     'b1_batch_1',
     'b2_batch_1',
     'c1_batch_1',
+    'a1_batch_2',
+    'a2_batch_3',
+    'b1_batch_2',
+    'b2_batch_2',
+    'c1_batch_2',
+    'a1_batch_3',
+    'a2_batch_4',
+    'b1_batch_3',
+    'b2_batch_3',
+    'c1_batch_3',
+    'a1_batch_4',
+    'a2_batch_5',
+    'b1_batch_4',
   ];
 
   /// Ensures DB is open and seed words are loaded on first launch.
@@ -79,6 +92,7 @@ class WordsRepository {
   // ── write
 
   Future<void> updateWord(Word w) => _wordsDao.update(w);
+  Future<Word?> findById(int id) => _wordsDao.findById(id);
 
   // ── remote batch loading
 
@@ -88,6 +102,20 @@ class WordsRepository {
     final idx = batchOrder.indexOf(last);
     if (idx < 0 || idx >= batchOrder.length - 1) return null;
     return batchOrder[idx + 1];
+  }
+
+  /// First batch in batchOrder whose CEFR level is in [activeLevels] AND that
+  /// hasn't been inserted into the DB yet. Allows skipping levels the user
+  /// doesn't want or back-filling earlier levels they enabled later.
+  Future<String?> nextBatchForLevels(List<String> activeLevels) async {
+    if (activeLevels.isEmpty) return null;
+    final loaded = await _wordsDao.distinctBatches();
+    for (final id in batchOrder) {
+      if (loaded.contains(id)) continue;
+      final level = id.substring(0, 2).toUpperCase();
+      if (activeLevels.contains(level)) return id;
+    }
+    return null;
   }
 
   Future<bool> loadBatch(String batchId) async {

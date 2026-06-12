@@ -1,0 +1,2989 @@
+{
+  "batch": "c1_batch_3",
+  "cefr": "C1",
+  "version": 1,
+  "source": "tyypgzl/Oxford-5000-words",
+  "words": [
+    {
+      "id": 1501,
+      "en": "commentary",
+      "translations": {
+        "ru": "комментарий",
+        "uk": "коментар"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/commentary",
+      "phonetics": {
+        "us": "/ˈkɑːmənteri/",
+        "uk": "/ˈkɒməntri/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/comme/commentary__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/com/comme/commentary__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/comme/commentary__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/com/comme/commentary__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a sports commentary",
+        "Our reporters will give a running commentary (= a continuous one) on the election results as they are announced.",
+        "He kept up a running commentary on everyone who came in or went out."
+      ]
+    },
+    {
+      "id": 1502,
+      "en": "commentator",
+      "translations": {
+        "ru": "комментатор",
+        "uk": "коментатор"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/commentator",
+      "phonetics": {
+        "us": "/ˈkɑːmənteɪtər/",
+        "uk": "/ˈkɒmənteɪtə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/comme/commentator__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/com/comme/commentator__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/comme/commentator__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/com/comme/commentator__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "a television/sports commentator",
+        "He's one of the great sports commentators of our time."
+      ]
+    },
+    {
+      "id": 1503,
+      "en": "commerce",
+      "translations": {
+        "ru": "торговля",
+        "uk": "торгівля"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/commerce",
+      "phonetics": {
+        "us": "/ˈkɑːmɜːrs/",
+        "uk": "/ˈkɒmɜːs/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/comme/commerce__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/com/comme/commerce__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/comme/commerce__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/com/comme/commerce__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "Leaders of industry and commerce met at the summit in Paris."
+      ]
+    },
+    {
+      "id": 1504,
+      "en": "commissioner",
+      "translations": {
+        "ru": "комиссар",
+        "uk": "комісар"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/commissioner",
+      "phonetics": {
+        "us": "/kəˈmɪʃənər/",
+        "uk": "/kəˈmɪʃənə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/commi/commissioner__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/com/commi/commissioner__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/commi/commissioner__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/com/commi/commissioner__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "the Church Commissioners (= the group of people responsible for controlling the financial affairs of the Church of England)",
+        "European Commissioners"
+      ]
+    },
+    {
+      "id": 1505,
+      "en": "commodity",
+      "translations": {
+        "ru": "товар",
+        "uk": "товар"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/commodity",
+      "phonetics": {
+        "us": "/kəˈmɑːdəti/",
+        "uk": "/kəˈmɒdəti/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/commo/commodity__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/com/commo/commodity__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/commo/commodity__gb_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/com/commo/commodity__gb_3.ogg"
+        }
+      },
+      "examples": [
+        "rice, flour and other basic commodities",
+        "a drop in commodity prices",
+        "Crude oil is the world's most important commodity.",
+        "basic agricultural commodities"
+      ]
+    },
+    {
+      "id": 1506,
+      "en": "communist",
+      "translations": {
+        "ru": "коммунистический",
+        "uk": "комуністичний"
+      },
+      "cefr": "C1",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/communist_1",
+      "phonetics": {
+        "us": "/ˈkɑːmjənɪst/",
+        "uk": "/ˈkɒmjənɪst/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/commu/communist__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/com/commu/communist__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/commu/communist__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/com/commu/communist__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "communist ideology"
+      ]
+    },
+    {
+      "id": 1507,
+      "en": "companion",
+      "translations": {
+        "ru": "спутник",
+        "uk": "супутник"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/companion",
+      "phonetics": {
+        "us": "/kəmˈpænjən/",
+        "uk": "/kəmˈpænjən/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/compa/companion__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/com/compa/companion__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compa/companion__gb_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/com/compa/companion__gb_3.ogg"
+        }
+      },
+      "examples": [
+        "travelling companions",
+        "Geoff was my companion on the journey.",
+        " (figurative) Fear was the hostages' constant companion."
+      ]
+    },
+    {
+      "id": 1508,
+      "en": "comparable",
+      "translations": {
+        "ru": "сопоставимый",
+        "uk": "порівнянний"
+      },
+      "cefr": "C1",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/comparable",
+      "phonetics": {
+        "us": "/ˈkɑːmpərəbl/",
+        "uk": "/ˈkɒmpərəbl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/compa/comparable__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/com/compa/comparable__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compa/comparable__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/com/compa/comparable__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "A comparable house in the south of the city would cost twice as much.",
+        " comparable to/with somebody/something The situation in the US is not directly comparable to that in the UK.",
+        "Inflation is now at a rate comparable with that in other European countries.",
+        " comparable in something The two machines are comparable in size."
+      ]
+    },
+    {
+      "id": 1509,
+      "en": "compassion",
+      "translations": {
+        "ru": "сострадание",
+        "uk": "співчуття"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/compassion",
+      "phonetics": {
+        "us": "/kəmˈpæʃn/",
+        "uk": "/kəmˈpæʃn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/compa/compassion__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/com/compa/compassion__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compa/compassion__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/com/compa/compassion__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "to feel/show compassion",
+        "She was known as a hard woman with no compassion, no emotion.",
+        "In an overworked doctor, feelings of compassion are soon lost."
+      ]
+    },
+    {
+      "id": 1510,
+      "en": "compel",
+      "translations": {
+        "ru": "принуждать",
+        "uk": "примушувати"
+      },
+      "cefr": "C1",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/compel",
+      "phonetics": {
+        "us": "/kəmˈpel/",
+        "uk": "/kəmˈpel/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/compe/compel__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/com/compe/compel__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compe/compel__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/com/compe/compel__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " compel somebody to do something The law can compel fathers to make regular payments for their children.",
+        "I feel compelled to write and tell you how much I enjoyed your book.",
+        "The court has powers to compel witnesses to attend.",
+        " compel something Last year ill health compelled his retirement."
+      ]
+    },
+    {
+      "id": 1511,
+      "en": "compelling",
+      "translations": {
+        "ru": "убедительный",
+        "uk": "переконливий"
+      },
+      "cefr": "C1",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/compelling",
+      "phonetics": {
+        "us": "/kəmˈpelɪŋ/",
+        "uk": "/kəmˈpelɪŋ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/compe/compelling__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/com/compe/compelling__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compe/compelling__gb_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/com/compe/compelling__gb_3.ogg"
+        }
+      },
+      "examples": [
+        "Her latest book makes compelling reading.",
+        "His eyes were strangely compelling."
+      ]
+    },
+    {
+      "id": 1512,
+      "en": "compensate",
+      "translations": {
+        "ru": "компенсировать",
+        "uk": "компенсувати"
+      },
+      "cefr": "C1",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/compensate",
+      "phonetics": {
+        "us": "/ˈkɑːmpenseɪt/",
+        "uk": "/ˈkɒmpenseɪt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/compe/compensate__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/com/compe/compensate__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compe/compensate__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/com/compe/compensate__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Nothing can compensate for the loss of a loved one."
+      ]
+    },
+    {
+      "id": 1513,
+      "en": "compensation",
+      "translations": {
+        "ru": "компенсация",
+        "uk": "компенсація"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/compensation",
+      "phonetics": {
+        "us": "/ˌkɑːmpenˈseɪʃn/",
+        "uk": "/ˌkɒmpenˈseɪʃn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/compe/compensation__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/com/compe/compensation__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compe/compensation__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/com/compe/compensation__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "to claim/award/receive compensation",
+        "The employer has a duty to pay full compensation for injuries received at work.",
+        " in compensation to receive £10 000 in compensation",
+        "She received a cash sum by way of compensation."
+      ]
+    },
+    {
+      "id": 1514,
+      "en": "competence",
+      "translations": {
+        "ru": "компетентность",
+        "uk": "компетентність"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/competence",
+      "phonetics": {
+        "us": "/ˈkɑːmpɪtəns/",
+        "uk": "/ˈkɒmpɪtəns/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/compe/competence__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/com/compe/competence__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compe/competence__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/com/compe/competence__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "to gain a high level of competence in English",
+        "professional/technical competence"
+      ]
+    },
+    {
+      "id": 1515,
+      "en": "competent",
+      "translations": {
+        "ru": "компетентный",
+        "uk": "компетентний"
+      },
+      "cefr": "C1",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/competent",
+      "phonetics": {
+        "us": "/ˈkɑːmpɪtənt/",
+        "uk": "/ˈkɒmpɪtənt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/compe/competent__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/com/compe/competent__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compe/competent__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/com/compe/competent__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "He's very competent in his work.",
+        " competent to do something Make sure the firm is competent to carry out the work.",
+        "I don’t feel competent to comment.",
+        " competent at something She is highly competent at her job."
+      ]
+    },
+    {
+      "id": 1516,
+      "en": "compile",
+      "translations": {
+        "ru": "составлять",
+        "uk": "складати"
+      },
+      "cefr": "C1",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/compile",
+      "phonetics": {
+        "us": "/kəmˈpaɪl/",
+        "uk": "/kəmˈpaɪl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/compi/compile__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/com/compi/compile__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compi/compile__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/com/compi/compile__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "We are trying to compile a list of suitable people for the job.",
+        "The album was compiled from live recordings from last year's tour.",
+        "The figures were compiled from a survey of 2  000 schoolchildren."
+      ]
+    },
+    {
+      "id": 1517,
+      "en": "complement",
+      "translations": {
+        "ru": "дополнять",
+        "uk": "доповнювати"
+      },
+      "cefr": "C1",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/complement_1",
+      "phonetics": {
+        "us": "/ˈkɑːmplɪment/",
+        "uk": "/ˈkɒmplɪment/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/compl/complement__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/com/compl/complement__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compl/complement__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/com/compl/complement__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The excellent menu is complemented by a good wine list.",
+        "The team needs players who complement each other.",
+        "The flavours in the dish complement each other perfectly."
+      ]
+    },
+    {
+      "id": 1518,
+      "en": "complexity",
+      "translations": {
+        "ru": "сложность",
+        "uk": "складність"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/complexity",
+      "phonetics": {
+        "us": "/kəmˈpleksəti/",
+        "uk": "/kəmˈpleksəti/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/compl/complexity__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/com/compl/complexity__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compl/complexity__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/com/compl/complexity__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "the increasing complexity of modern telecommunication systems",
+        "I was astonished by the size and complexity of the problem."
+      ]
+    },
+    {
+      "id": 1519,
+      "en": "compliance",
+      "translations": {
+        "ru": "соблюдение",
+        "uk": "дотримання"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/compliance",
+      "phonetics": {
+        "us": "/kəmˈplaɪəns/",
+        "uk": "/kəmˈplaɪəns/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/compl/compliance__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/com/compl/compliance__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compl/compliance__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/com/compl/compliance__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " compliance (with something) procedures that must be followed to ensure full compliance with the law",
+        " in compliance with something Safety measures were carried out in compliance with paragraph 6 of the building regulations.",
+        " (business) The compliance officer is responsible for enforcing policies and procedures."
+      ]
+    },
+    {
+      "id": 1520,
+      "en": "complication",
+      "translations": {
+        "ru": "осложнение",
+        "uk": "ускладнення"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/complication",
+      "phonetics": {
+        "us": "/ˌkɑːmplɪˈkeɪʃn/",
+        "uk": "/ˌkɒmplɪˈkeɪʃn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/compl/complication__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/com/compl/complication__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compl/complication__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/com/compl/complication__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The bad weather added a further complication to our journey."
+      ]
+    },
+    {
+      "id": 1521,
+      "en": "comply",
+      "translations": {
+        "ru": "соблюдать",
+        "uk": "дотримуватися"
+      },
+      "cefr": "C1",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/comply",
+      "phonetics": {
+        "us": "/kəmˈplaɪ/",
+        "uk": "/kəmˈplaɪ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/compl/comply__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/com/compl/comply__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compl/comply__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/com/compl/comply__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "They refused to comply with the UN resolution.",
+        "All furniture must comply with the fire safety regulations.",
+        "When requested to leave, they refused to comply.",
+        "What sanctions can they take against us if we fail to comply?"
+      ]
+    },
+    {
+      "id": 1522,
+      "en": "composition",
+      "translations": {
+        "ru": "композиция",
+        "uk": "композиція"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/composition",
+      "phonetics": {
+        "us": "/ˌkɑːmpəˈzɪʃn/",
+        "uk": "/ˌkɒmpəˈzɪʃn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/compo/composition__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/com/compo/composition__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compo/composition__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/com/compo/composition__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "the chemical composition of the soil",
+        "the composition of the board of directors",
+        "the size and composition of an average class"
+      ]
+    },
+    {
+      "id": 1523,
+      "en": "compromise",
+      "translations": {
+        "ru": "компромисс",
+        "uk": "компроміс"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/compromise_1",
+      "phonetics": {
+        "us": "/ˈkɑːmprəmaɪz/",
+        "uk": "/ˈkɒmprəmaɪz/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/compr/compromise__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/com/compr/compromise__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compr/compromise__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/com/compr/compromise__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "After lengthy talks the two sides finally reached a compromise.",
+        "In any relationship, you have to make compromises.",
+        "a compromise solution/agreement/candidate"
+      ]
+    },
+    {
+      "id": 1524,
+      "en": "compromise",
+      "translations": {
+        "ru": "идти на компромисс",
+        "uk": "йти на компроміс"
+      },
+      "cefr": "C1",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/compromise_2",
+      "phonetics": {
+        "us": "/ˈkɑːmprəmaɪz/",
+        "uk": "/ˈkɒmprəmaɪz/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/compr/compromise__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/com/compr/compromise__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compr/compromise__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/com/compr/compromise__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Neither side is prepared to compromise.",
+        " compromise (with somebody) (on something) After much argument, the judges finally compromised on (= agreed to give the prize to) the 18-year old pianist.",
+        "They were unwilling to compromise with the terrorists."
+      ]
+    },
+    {
+      "id": 1525,
+      "en": "compute",
+      "translations": {
+        "ru": "вычислять",
+        "uk": "обчислювати"
+      },
+      "cefr": "C1",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/compute",
+      "phonetics": {
+        "us": "/kəmˈpjuːt/",
+        "uk": "/kəmˈpjuːt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/compu/compute__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/com/compu/compute__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compu/compute__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/com/compu/compute__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The losses were computed at £5 million.",
+        "These measurements can be used to compute the average size."
+      ]
+    },
+    {
+      "id": 1526,
+      "en": "conceal",
+      "translations": {
+        "ru": "скрывать",
+        "uk": "приховувати"
+      },
+      "cefr": "C1",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/conceal",
+      "phonetics": {
+        "us": "/kənˈsiːl/",
+        "uk": "/kənˈsiːl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xconc/xconceal__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xconc/xconceal__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xconc/xconceal__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xconc/xconceal__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " conceal somebody/something The paintings were concealed beneath a thick layer of plaster.",
+        "Tim could barely conceal his disappointment.",
+        "She sat down to conceal the fact that she was trembling.",
+        " conceal somebody/something from somebody/something For a long time his death was concealed from her."
+      ]
+    },
+    {
+      "id": 1527,
+      "en": "concede",
+      "translations": {
+        "ru": "уступать",
+        "uk": "поступатися"
+      },
+      "cefr": "C1",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/concede",
+      "phonetics": {
+        "us": "/kənˈsiːd/",
+        "uk": "/kənˈsiːd/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xconc/xconcede__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xconc/xconcede__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xconc/xconcede__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xconc/xconcede__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " + speech ‘Not bad,’ she conceded grudgingly.",
+        " concede (that)… He was forced to concede (that) there might be difficulties.",
+        " concede something I had to concede the logic of this.",
+        " concede something to somebody He reluctantly conceded the point to me.",
+        " concede somebody something He reluctantly conceded me the point.",
+        " it is conceded that… It must be conceded that different judges have different approaches to these cases."
+      ]
+    },
+    {
+      "id": 1528,
+      "en": "conceive",
+      "translations": {
+        "ru": "задумывать",
+        "uk": "задумувати"
+      },
+      "cefr": "C1",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/conceive",
+      "phonetics": {
+        "us": "/kənˈsiːv/",
+        "uk": "/kənˈsiːv/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xconc/xconceive__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xconc/xconceive__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xconc/xconceive__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xconc/xconceive__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "He conceived the idea of transforming the old power station into an arts centre.",
+        "The dam project was originally conceived in 1977."
+      ]
+    },
+    {
+      "id": 1529,
+      "en": "conception",
+      "translations": {
+        "ru": "концепция",
+        "uk": "концепція"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/conception",
+      "phonetics": {
+        "us": "/kənˈsepʃn/",
+        "uk": "/kənˈsepʃn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xconc/xconception__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xconc/xconception__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xconc/xconception__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xconc/xconception__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " conception of something Marx’s conception of social justice",
+        "He has no conception of how difficult life is if you're unemployed.",
+        " conception that… I had to reassess my conception that she was basically an honest person."
+      ]
+    },
+    {
+      "id": 1530,
+      "en": "concession",
+      "translations": {
+        "ru": "уступка",
+        "uk": "поступка"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/concession",
+      "phonetics": {
+        "us": "/kənˈseʃn/",
+        "uk": "/kənˈseʃn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xconc/xconcession__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xconc/xconcession__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xconc/xconcession__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xconc/xconcession__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The firm will be forced to make concessions if it wants to avoid a strike.",
+        "to win a concession from somebody",
+        "a major/an important concession",
+        "She made no concession to his age; she expected him to work as hard as she did."
+      ]
+    },
+    {
+      "id": 1531,
+      "en": "condemn",
+      "translations": {
+        "ru": "осуждать",
+        "uk": "засуджувати"
+      },
+      "cefr": "C1",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/condemn",
+      "phonetics": {
+        "us": "/kənˈdem/",
+        "uk": "/kənˈdem/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xcond/xcondemn__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xcond/xcondemn__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcond/xcondemn__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xcond/xcondemn__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " condemn somebody/something The government issued a statement condemning the killings.",
+        " condemn somebody/something for/as something The editor of the newspaper was condemned as lacking integrity."
+      ]
+    },
+    {
+      "id": 1532,
+      "en": "confer",
+      "translations": {
+        "ru": "совещаться",
+        "uk": "радитися"
+      },
+      "cefr": "C1",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/confer",
+      "phonetics": {
+        "us": "/kənˈfɜːr/",
+        "uk": "/kənˈfɜː(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xconf/xconfer__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xconf/xconfer__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xconf/xconfer__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xconf/xconfer__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "He wanted to confer with his colleagues before reaching a decision."
+      ]
+    },
+    {
+      "id": 1533,
+      "en": "confession",
+      "translations": {
+        "ru": "признание",
+        "uk": "визнання"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/confession",
+      "phonetics": {
+        "us": "/kənˈfeʃn/",
+        "uk": "/kənˈfeʃn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xconf/xconfession__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xconf/xconfession__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xconf/xconfession__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xconf/xconfession__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "After hours of questioning by police, she made a full confession.",
+        "His confession was extracted under torture."
+      ]
+    },
+    {
+      "id": 1534,
+      "en": "configuration",
+      "translations": {
+        "ru": "конфигурация",
+        "uk": "конфігурація"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/configuration",
+      "phonetics": {
+        "us": "/kənˌfɪɡjəˈreɪʃn/",
+        "uk": "/kənˌfɪɡəˈreɪʃn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xconf/xconfiguration__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xconf/xconfiguration__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xconf/xconfiguration__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xconf/xconfiguration__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " configuration of something The design is based on four configurations of squares.",
+        "There was a changing configuration of lights coming from the stadium.",
+        " in a configuration The stars seemed to appear in a different configuration."
+      ]
+    },
+    {
+      "id": 1535,
+      "en": "confine",
+      "translations": {
+        "ru": "ограничивать",
+        "uk": "обмежувати"
+      },
+      "cefr": "C1",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/confine",
+      "phonetics": {
+        "us": "/kənˈfaɪn/",
+        "uk": "/kənˈfaɪn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xconf/xconfine__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xconf/xconfine__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xconf/xconfine__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xconf/xconfine__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " be confined to (doing) something The work will not be confined to the Glasgow area.",
+        " confine yourself to (doing) something I will confine myself to looking at the period from 1900 to 1916."
+      ]
+    },
+    {
+      "id": 1536,
+      "en": "confirmation",
+      "translations": {
+        "ru": "подтверждение",
+        "uk": "підтвердження"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/confirmation",
+      "phonetics": {
+        "us": "/ˌkɑːnfərˈmeɪʃn/",
+        "uk": "/ˌkɒnfəˈmeɪʃn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xconf/xconfirmation__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xconf/xconfirmation__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xconf/xconfirmation__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xconf/xconfirmation__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "I'm still waiting for confirmation of the test results."
+      ]
+    },
+    {
+      "id": 1537,
+      "en": "confront",
+      "translations": {
+        "ru": "противостоять",
+        "uk": "протистояти"
+      },
+      "cefr": "C1",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/confront",
+      "phonetics": {
+        "us": "/kənˈfrʌnt/",
+        "uk": "/kənˈfrʌnt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xconf/xconfront__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xconf/xconfront__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xconf/xconfront__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xconf/xconfront__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "What is to be done about the economic problems confronting the country?",
+        "I was suddenly confronted by the task of rewriting the entire book.",
+        "The government found itself confronted by massive opposition."
+      ]
+    },
+    {
+      "id": 1538,
+      "en": "confrontation",
+      "translations": {
+        "ru": "конфронтация",
+        "uk": "конфронтація"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/confrontation",
+      "phonetics": {
+        "us": "/ˌkɑːnfrənˈteɪʃn/",
+        "uk": "/ˌkɒnfrʌnˈteɪʃn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xconf/xconfrontation__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xconf/xconfrontation__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xconf/xconfrontation__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xconf/xconfrontation__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " confrontation (with somebody) She wanted to avoid another confrontation with her father.",
+        " confrontation between A and B Confrontation between employers and unions has resulted in strike action."
+      ]
+    },
+    {
+      "id": 1539,
+      "en": "congratulate",
+      "translations": {
+        "ru": "поздравлять",
+        "uk": "вітати"
+      },
+      "cefr": "C1",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/congratulate",
+      "phonetics": {
+        "us": "/kənˈɡrætʃəleɪt/",
+        "uk": "/kənˈɡrætʃəleɪt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xcong/xcongratulate__us_1_rr.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xcong/xcongratulate__us_1_rr.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcong/xcongratulate__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xcong/xcongratulate__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "I congratulated them all on their results.",
+        "The authors are to be congratulated on producing such a clear and authoritative work."
+      ]
+    },
+    {
+      "id": 1540,
+      "en": "congregation",
+      "translations": {
+        "ru": "собрание",
+        "uk": "збори"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/congregation",
+      "phonetics": {
+        "us": "/ˌkɑːŋɡrɪˈɡeɪʃn/",
+        "uk": "/ˌkɒŋɡrɪˈɡeɪʃn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xcong/xcongregation__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xcong/xcongregation__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcong/xcongregation__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xcong/xcongregation__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The congregation stood to sing the hymn."
+      ]
+    },
+    {
+      "id": 1541,
+      "en": "congressional",
+      "translations": {
+        "ru": "конгрессионный",
+        "uk": "конгресовий"
+      },
+      "cefr": "C1",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/congressional",
+      "phonetics": {
+        "us": "/kənˈɡreʃənl/",
+        "uk": "/kənˈɡreʃənl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xcong/xcongressional__us_1_rr.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xcong/xcongressional__us_1_rr.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcong/xcongressional__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xcong/xcongressional__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a congressional committee/bill",
+        "the midterm Congressional elections"
+      ]
+    },
+    {
+      "id": 1542,
+      "en": "conquer",
+      "translations": {
+        "ru": "завоёвывать",
+        "uk": "завойовувати"
+      },
+      "cefr": "C1",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/conquer",
+      "phonetics": {
+        "us": "/ˈkɑːŋkər/",
+        "uk": "/ˈkɒŋkə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xconq/xconquer__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xconq/xconquer__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xconq/xconquer__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xconq/xconquer__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The Normans conquered England in 1066.",
+        "In 330 BC Persia was conquered by Alexander the Great.",
+        "conquered territories/subjects/lands",
+        "The Roman empire offered citizenship to its conquered peoples."
+      ]
+    },
+    {
+      "id": 1543,
+      "en": "conscience",
+      "translations": {
+        "ru": "совесть",
+        "uk": "совість"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/conscience",
+      "phonetics": {
+        "us": "/ˈkɑːnʃəns/",
+        "uk": "/ˈkɒnʃəns/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xcons/xconscience__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xcons/xconscience__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcons/xconscience__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xcons/xconscience__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "to have a clear/guilty conscience (= to feel that you have done right/wrong)",
+        "This is a matter of individual conscience (= everyone must make their own judgement about it).",
+        "He won't let it trouble his conscience."
+      ]
+    },
+    {
+      "id": 1544,
+      "en": "consciousness",
+      "translations": {
+        "ru": "сознание",
+        "uk": "свідомість"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/consciousness",
+      "phonetics": {
+        "us": "/ˈkɑːnʃəsnəs/",
+        "uk": "/ˈkɒnʃəsnəs/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xcons/xconsciousness__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xcons/xconsciousness__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcons/xconsciousness__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xcons/xconsciousness__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "I can't remember any more—I must have lost consciousness.",
+        "She did not regain consciousness and died the next day."
+      ]
+    },
+    {
+      "id": 1545,
+      "en": "consecutive",
+      "translations": {
+        "ru": "последовательный",
+        "uk": "послідовний"
+      },
+      "cefr": "C1",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/consecutive",
+      "phonetics": {
+        "us": "/kənˈsekjətɪv/",
+        "uk": "/kənˈsekjətɪv/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xcons/xconsecutive__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xcons/xconsecutive__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcons/xconsecutive__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xcons/xconsecutive__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "She was absent for nine consecutive days.",
+        "He is beginning his fourth consecutive term of office.",
+        "After six consecutive defeats, the team was almost ready to give up.",
+        "Interest rates rose again for the fifth consecutive month.",
+        "They achieved their third consecutive year of record sales."
+      ]
+    },
+    {
+      "id": 1546,
+      "en": "consensus",
+      "translations": {
+        "ru": "консенсус",
+        "uk": "консенсус"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/consensus",
+      "phonetics": {
+        "us": "/kənˈsensəs/",
+        "uk": "/kənˈsensəs/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xcons/xconsensus__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xcons/xconsensus__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcons/xconsensus__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xcons/xconsensus__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " consensus (about/on something) She is skilled at achieving consensus on sensitive issues.",
+        "There is a growing consensus of opinion on this issue.",
+        "an attempt to reach a consensus",
+        "There now exists a broad political consensus in favour of economic reform.",
+        "consensus politics (= that people in general agree with)",
+        " consensus (among somebody) (about/on something) There is a general consensus among teachers about the need for greater security in schools.",
+        " consensus that… There seems to be a consensus that the plan should be rejected.",
+        " by consensus They have always governed by consensus."
+      ]
+    },
+    {
+      "id": 1547,
+      "en": "consent",
+      "translations": {
+        "ru": "согласие",
+        "uk": "згода"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/consent_1",
+      "phonetics": {
+        "us": "/kənˈsent/",
+        "uk": "/kənˈsent/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xcons/xconsent__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xcons/xconsent__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcons/xconsent__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xcons/xconsent__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "The written consent of a parent is required.",
+        " consent to something Children under 16 cannot give consent to medical treatment.",
+        "to refuse/withhold your consent",
+        " without (somebody's) consent He is charged with taking a car without the owner's consent."
+      ]
+    },
+    {
+      "id": 1548,
+      "en": "consent",
+      "translations": {
+        "ru": "соглашаться",
+        "uk": "погоджуватися"
+      },
+      "cefr": "C1",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/consent_2",
+      "phonetics": {
+        "us": "/kənˈsent/",
+        "uk": "/kənˈsent/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xcons/xconsent__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xcons/xconsent__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcons/xconsent__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xcons/xconsent__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "When she told them what she intended, they readily consented.",
+        " consent to something He reluctantly consented to the proposal.",
+        " consent to do something She finally consented to answer our questions."
+      ]
+    },
+    {
+      "id": 1549,
+      "en": "conserve",
+      "translations": {
+        "ru": "сохранять",
+        "uk": "зберігати"
+      },
+      "cefr": "C1",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/conserve_1",
+      "phonetics": {
+        "us": "/kənˈsɜːrv/",
+        "uk": "/kənˈsɜːv/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xcons/xconserve__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xcons/xconserve__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcons/xconserve__gb_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xcons/xconserve__gb_3.ogg"
+        }
+      },
+      "examples": [
+        "new laws to conserve wildlife in the area"
+      ]
+    },
+    {
+      "id": 1550,
+      "en": "consistency",
+      "translations": {
+        "ru": "согласованность",
+        "uk": "узгодженість"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/consistency",
+      "phonetics": {
+        "us": "/kənˈsɪstənsi/",
+        "uk": "/kənˈsɪstənsi/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xcons/xconsistency__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xcons/xconsistency__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcons/xconsistency__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xcons/xconsistency__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "She has played with great consistency all season.",
+        "We need to ensure the consistency of service to our customers."
+      ]
+    },
+    {
+      "id": 1551,
+      "en": "consolidate",
+      "translations": {
+        "ru": "консолидировать",
+        "uk": "консолідувати"
+      },
+      "cefr": "C1",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/consolidate",
+      "phonetics": {
+        "us": "/kənˈsɑːlɪdeɪt/",
+        "uk": "/kənˈsɒlɪdeɪt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xcons/xconsolidate__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xcons/xconsolidate__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcons/xconsolidate__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xcons/xconsolidate__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "With this new movie he has consolidated his position as the country's leading director.",
+        "Italy consolidated their lead with a second goal."
+      ]
+    },
+    {
+      "id": 1552,
+      "en": "constituency",
+      "translations": {
+        "ru": "избирательный округ",
+        "uk": "виборчий округ"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/constituency",
+      "phonetics": {
+        "us": "/kənˈstɪtʃuənsi/",
+        "uk": "/kənˈstɪtʃuənsi/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xcons/xconstituency__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xcons/xconstituency__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcons/xconstituency__gb_4.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xcons/xconstituency__gb_4.ogg"
+        }
+      },
+      "examples": [
+        "Unemployment is high in her constituency.",
+        "He owns a house in his Darlington constituency."
+      ]
+    },
+    {
+      "id": 1553,
+      "en": "constitute",
+      "translations": {
+        "ru": "составлять",
+        "uk": "становити"
+      },
+      "cefr": "C1",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/constitute",
+      "phonetics": {
+        "us": "/ˈkɑːnstɪtuːt/",
+        "uk": "/ˈkɒnstɪtjuːt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xcons/xconstitute__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xcons/xconstitute__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcons/xconstitute__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xcons/xconstitute__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Does such an activity constitute a criminal offence?",
+        "Climate change constitutes a major threat to life.",
+        "to constitute a danger/crime/breach/nuisance",
+        "His action was interpreted as constituting a threat to the community."
+      ]
+    },
+    {
+      "id": 1554,
+      "en": "constitution",
+      "translations": {
+        "ru": "конституция",
+        "uk": "конституція"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/constitution",
+      "phonetics": {
+        "us": "/ˌkɑːnstɪˈtuːʃn/",
+        "uk": "/ˌkɒnstɪˈtjuːʃn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xcons/xconstitution__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xcons/xconstitution__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcons/xconstitution__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xcons/xconstitution__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "your right to vote under the constitution",
+        "According to the constitution…",
+        "to propose a new amendment to the Constitution",
+        "the South African Constitution",
+        "A two-thirds majority is needed to amend the club’s constitution."
+      ]
+    },
+    {
+      "id": 1555,
+      "en": "constitutional",
+      "translations": {
+        "ru": "конституционный",
+        "uk": "конституційний"
+      },
+      "cefr": "C1",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/constitutional_2",
+      "phonetics": {
+        "us": "/ˌkɑːnstɪˈtuːʃənl/",
+        "uk": "/ˌkɒnstɪˈtjuːʃənl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xcons/xconstitutional__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xcons/xconstitutional__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcons/xconstitutional__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xcons/xconstitutional__gb_1.ogg"
+        }
+      },
+      "examples": []
+    },
+    {
+      "id": 1556,
+      "en": "constraint",
+      "translations": {
+        "ru": "ограничение",
+        "uk": "обмеження"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/constraint",
+      "phonetics": {
+        "us": "/kənˈstreɪnt/",
+        "uk": "/kənˈstreɪnt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xcons/xconstraint__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xcons/xconstraint__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcons/xconstraint__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xcons/xconstraint__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "constraints of time/money/space",
+        "financial/economic/legal/political constraints",
+        " constraint on something This decision will impose serious constraints on all schools."
+      ]
+    },
+    {
+      "id": 1557,
+      "en": "consultation",
+      "translations": {
+        "ru": "консультация",
+        "uk": "консультація"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/consultation",
+      "phonetics": {
+        "us": "/ˌkɑːnslˈteɪʃn/",
+        "uk": "/ˌkɒnslˈteɪʃn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xcons/xconsultation__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xcons/xconsultation__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcons/xconsultation__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xcons/xconsultation__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a consultation document/paper/period/process",
+        " consultation with somebody/something The decision was taken after close consultation with local residents.",
+        " in consultation with somebody/something acting in consultation with all the departments involved"
+      ]
+    },
+    {
+      "id": 1558,
+      "en": "contemplate",
+      "translations": {
+        "ru": "размышлять",
+        "uk": "розмірковувати"
+      },
+      "cefr": "C1",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/contemplate",
+      "phonetics": {
+        "us": "/ˈkɑːntəmpleɪt/",
+        "uk": "/ˈkɒntəmpleɪt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xcont/xcontemplate__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xcont/xcontemplate__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcont/xcontemplate__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xcont/xcontemplate__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " contemplate something You're too young to be contemplating retirement.",
+        " contemplate doing something I have never contemplated living abroad.",
+        " contemplate how/what, etc… He continued while she contemplated how to answer."
+      ]
+    },
+    {
+      "id": 1559,
+      "en": "contempt",
+      "translations": {
+        "ru": "презрение",
+        "uk": "презирство"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/contempt",
+      "phonetics": {
+        "us": "/kənˈtempt/",
+        "uk": "/kənˈtempt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xcont/xcontempt__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xcont/xcontempt__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcont/xcontempt__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xcont/xcontempt__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " with contempt She looked at him with contempt.",
+        "I shall treat that suggestion with the contempt it deserves.",
+        " beneath contempt His treatment of his children is beneath contempt (= so bad that it is not even worth feeling contempt for).",
+        " in contempt Politicians seem to be generally held in contempt by ordinary people.",
+        " contempt for somebody/something They had shown a contempt for the values she thought important."
+      ]
+    },
+    {
+      "id": 1560,
+      "en": "contend",
+      "translations": {
+        "ru": "утверждать",
+        "uk": "стверджувати"
+      },
+      "cefr": "C1",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/contend",
+      "phonetics": {
+        "us": "/kənˈtend/",
+        "uk": "/kənˈtend/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xcont/xcontend__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xcont/xcontend__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcont/xcontend__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xcont/xcontend__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "I would contend that the minister's thinking is flawed on this point."
+      ]
+    },
+    {
+      "id": 1561,
+      "en": "contender",
+      "translations": {
+        "ru": "претендент",
+        "uk": "претендент"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/contender",
+      "phonetics": {
+        "us": "/kənˈtendər/",
+        "uk": "/kənˈtendə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xcont/xcontender__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xcont/xcontender__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcont/xcontender__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xcont/xcontender__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " contender (for something) a contender for a gold medal in the Olympics",
+        "a leading/serious/strong contender for the party leadership",
+        " contender to do something Germany last night emerged as a contender to stage next year's event."
+      ]
+    },
+    {
+      "id": 1562,
+      "en": "content",
+      "translations": {
+        "ru": "довольный",
+        "uk": "задоволений"
+      },
+      "cefr": "C1",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/content2_1",
+      "phonetics": {
+        "us": "/kənˈtent/",
+        "uk": "/kənˈtent/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xcont/xcontent__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xcont/xcontent__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcont/xcontent__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xcont/xcontent__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "He seemed more content, less bitter.",
+        " content with something Not content with stealing my boyfriend (= not thinking that this was enough), she has turned all my friends against me.",
+        "He had to be content with third place."
+      ]
+    },
+    {
+      "id": 1563,
+      "en": "contention",
+      "translations": {
+        "ru": "спор",
+        "uk": "суперечка"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/contention",
+      "phonetics": {
+        "us": "/kənˈtenʃn/",
+        "uk": "/kənˈtenʃn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xcont/xcontention__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xcont/xcontention__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcont/xcontention__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xcont/xcontention__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "One area of contention is the availability of nursery care.",
+        "Privatization of the health service remains a point of contention.",
+        "There is no contention between the two groups."
+      ]
+    },
+    {
+      "id": 1564,
+      "en": "continually",
+      "translations": {
+        "ru": "постоянно",
+        "uk": "постійно"
+      },
+      "cefr": "C1",
+      "type": "adverb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/continually",
+      "phonetics": {
+        "us": "/kənˈtɪnjuəli/",
+        "uk": "/kənˈtɪnjuəli/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xcont/xcontinually__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xcont/xcontinually__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcont/xcontinually__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xcont/xcontinually__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "They argue continually about money."
+      ]
+    },
+    {
+      "id": 1565,
+      "en": "contractor",
+      "translations": {
+        "ru": "подрядчик",
+        "uk": "підрядник"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/contractor",
+      "phonetics": {
+        "us": "/ˈkɑːntræktər/",
+        "uk": "/ˈkɒntræktə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xcont/xcontractor__us_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xcont/xcontractor__us_2.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcont/xcontractor__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xcont/xcontractor__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a building/roofing/electrical contractor ",
+        "a defence/security/military/civilian contractor",
+        "a private/an independent contractor",
+        "to employ an outside contractor"
+      ]
+    },
+    {
+      "id": 1566,
+      "en": "contradiction",
+      "translations": {
+        "ru": "противоречие",
+        "uk": "протиріччя"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/contradiction",
+      "phonetics": {
+        "us": "/ˌkɑːntrəˈdɪkʃn/",
+        "uk": "/ˌkɒntrəˈdɪkʃn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xcont/xcontradiction__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xcont/xcontradiction__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcont/xcontradiction__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xcont/xcontradiction__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " contradiction (between A and B) There is a contradiction between the two sets of figures.",
+        "How can we resolve this apparent contradiction?",
+        " in contradiction to something His public speeches are in direct contradiction to his personal lifestyle."
+      ]
+    },
+    {
+      "id": 1567,
+      "en": "contrary",
+      "translations": {
+        "ru": "противоположный",
+        "uk": "протилежний"
+      },
+      "cefr": "C1",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/contrary1_1#contrary1_sng_1",
+      "phonetics": {
+        "us": "/ˈkɑːntreri/",
+        "uk": "/ˈkɒntrəri/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xcont/xcontrary__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xcont/xcontrary__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcont/xcontrary__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xcont/xcontrary__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Contrary to popular belief, many cats dislike milk.",
+        "The government has decided that the publication of the report would be ‘contrary to the public interest’.",
+        "Contrary to expectations and the weather forecast, we had a fine day for the experiment."
+      ]
+    },
+    {
+      "id": 1568,
+      "en": "contrary",
+      "translations": {
+        "ru": "противоположность",
+        "uk": "протилежність"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/contrary1_2",
+      "phonetics": {
+        "us": "/ˈkɑːntreri/",
+        "uk": "/ˈkɒntrəri/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xcont/xcontrary__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xcont/xcontrary__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcont/xcontrary__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xcont/xcontrary__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "In the end the contrary was proved true: he was innocent and she was guilty."
+      ]
+    },
+    {
+      "id": 1569,
+      "en": "contributor",
+      "translations": {
+        "ru": "вкладчик",
+        "uk": "вкладник"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/contributor",
+      "phonetics": {
+        "us": "/kənˈtrɪbjətər/",
+        "uk": "/kənˈtrɪbjətə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xcont/xcontributor__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xcont/xcontributor__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcont/xcontributor__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xcont/xcontributor__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a regular contributor to this magazine",
+        "I am a contributor to several blogs."
+      ]
+    },
+    {
+      "id": 1570,
+      "en": "conversion",
+      "translations": {
+        "ru": "преобразование",
+        "uk": "перетворення"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/conversion",
+      "phonetics": {
+        "us": "/kənˈvɜːrʒn/",
+        "uk": "/kənˈvɜːʃn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xconv/xconversion__us_1_rr.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xconv/xconversion__us_1_rr.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xconv/xconversion__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xconv/xconversion__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Their main business is the conversion of farm buildings into family homes.",
+        "Conversion to gas central heating will save you a lot of money.",
+        "No conversion from analogue to digital data is needed.",
+        "a metric conversion table (= showing how to change metric amounts into or out of another system)",
+        "a firm which specializes in house conversions (= turning large houses into several smaller flats)"
+      ]
+    },
+    {
+      "id": 1571,
+      "en": "convict",
+      "translations": {
+        "ru": "осуждать",
+        "uk": "засуджувати"
+      },
+      "cefr": "C1",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/convict_1",
+      "phonetics": {
+        "us": "/kənˈvɪkt/",
+        "uk": "/kənˈvɪkt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xconv/xconvict__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xconv/xconvict__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xconv/xconvict__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xconv/xconvict__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " be convicted (of something) He was convicted of fraud.",
+        "a convicted murderer",
+        " convict somebody (of something) There wasn’t enough evidence to convict her."
+      ]
+    },
+    {
+      "id": 1572,
+      "en": "conviction",
+      "translations": {
+        "ru": "осуждение",
+        "uk": "засудження"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/conviction",
+      "phonetics": {
+        "us": "/kənˈvɪkʃn/",
+        "uk": "/kənˈvɪkʃn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xconv/xconviction__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/x/xco/xconv/xconviction__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xconv/xconviction__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/x/xco/xconv/xconviction__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "He plans to appeal against his conviction.",
+        " conviction for something She has six previous convictions for theft.",
+        " on conviction an offence that carries, on conviction, a sentence of not more than five years’ imprisonment"
+      ]
+    },
+    {
+      "id": 1573,
+      "en": "cooperate",
+      "translations": {
+        "ru": "сотрудничать",
+        "uk": "співпрацювати"
+      },
+      "cefr": "C1",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/cooperate",
+      "phonetics": {
+        "us": "/kəʊˈɑːpəreɪt/",
+        "uk": "/kəʊˈɒpəreɪt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/coo/coope/cooperate__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/coo/coope/cooperate__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/coo/coope/cooperate__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/coo/coope/cooperate__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The two groups agreed to cooperate with each other.",
+        "They had cooperated closely in the planning of the project."
+      ]
+    },
+    {
+      "id": 1574,
+      "en": "cooperative",
+      "translations": {
+        "ru": "кооперативный",
+        "uk": "кооперативний"
+      },
+      "cefr": "C1",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/cooperative_1",
+      "phonetics": {
+        "us": "/kəʊˈɑːpərətɪv/",
+        "uk": "/kəʊˈɒpərətɪv/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/coo/coope/cooperative__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/coo/coope/cooperative__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/coo/coope/cooperative__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/coo/coope/cooperative__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "Cooperative activity is essential to effective community work.",
+        "The documentary was a cooperative effort by film-makers from five countries.",
+        "This is a cooperative venture with the University of Copenhagen."
+      ]
+    },
+    {
+      "id": 1575,
+      "en": "coordinate",
+      "translations": {
+        "ru": "координировать",
+        "uk": "координувати"
+      },
+      "cefr": "C1",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/coordinate_1",
+      "phonetics": {
+        "us": "/kəʊˈɔːrdɪneɪt/",
+        "uk": "/kəʊˈɔːdɪneɪt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/coo/coord/coordinate__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/coo/coord/coordinate__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/coo/coord/coordinate__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/coo/coord/coordinate__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " coordinate something They appointed a new manager to coordinate the work of the team.",
+        "We need to develop a coordinated approach to the problem.",
+        "a carefully coordinated policy",
+        " coordinate something with something We try to coordinate our activities with those of other groups."
+      ]
+    },
+    {
+      "id": 1576,
+      "en": "coordination",
+      "translations": {
+        "ru": "координация",
+        "uk": "координація"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/coordination",
+      "phonetics": {
+        "us": "/kəʊˌɔːrdɪˈneɪʃn/",
+        "uk": "/kəʊˌɔːdɪˈneɪʃn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/coo/coord/coordination__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/coo/coord/coordination__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/coo/coord/coordination__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/coo/coord/coordination__gb_2.ogg"
+        }
+      },
+      "examples": [
+        "The aim was to improve the coordination of services.",
+        " coordination between A and B a need for greater coordination between departments",
+        " coordination in something a lack of coordination in conservation policy",
+        " in coordination with somebody/something a pamphlet produced by the government in coordination with (= working together with) the Sports Council",
+        "advice on colour coordination (= choosing colours that look nice together, for example in clothes or furniture)"
+      ]
+    },
+    {
+      "id": 1577,
+      "en": "coordinator",
+      "translations": {
+        "ru": "координатор",
+        "uk": "координатор"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/coordinator",
+      "phonetics": {
+        "us": "/kəʊˈɔːrdɪneɪtər/",
+        "uk": "/kəʊˈɔːdɪneɪtə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/coo/coord/coordinator__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/coo/coord/coordinator__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/coo/coord/coordinator__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/coo/coord/coordinator__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The campaign needs an effective coordinator."
+      ]
+    },
+    {
+      "id": 1578,
+      "en": "cop",
+      "translations": {
+        "ru": "коп",
+        "uk": "коп"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/cop_1",
+      "phonetics": {
+        "us": "/kɑːp/",
+        "uk": "/kɒp/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cop/cop__/cop__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cop/cop__/cop__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cop/cop__/cop__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cop/cop__/cop__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Somebody call the cops!",
+        "children playing cops and robbers",
+        "a TV cop show"
+      ]
+    },
+    {
+      "id": 1579,
+      "en": "copper",
+      "translations": {
+        "ru": "медь",
+        "uk": "мідь"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/copper",
+      "phonetics": {
+        "us": "/ˈkɑːpər/",
+        "uk": "/ˈkɒpə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cop/coppe/copper__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cop/coppe/copper__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cop/coppe/copper__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cop/coppe/copper__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "a copper mine",
+        "copper pipes",
+        "copper-coloured hair"
+      ]
+    },
+    {
+      "id": 1580,
+      "en": "copyright",
+      "translations": {
+        "ru": "авторское право",
+        "uk": "авторське право"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/copyright_1",
+      "phonetics": {
+        "us": "/ˈkɑːpiraɪt/",
+        "uk": "/ˈkɒpiraɪt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cop/copyr/copyright__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cop/copyr/copyright__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cop/copyr/copyright__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cop/copyr/copyright__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Copyright expires seventy years after the death of the author.",
+        "They were sued for breach/infringement of copyright.",
+        " copyright in/on something Who owns the copyright on this song?",
+        " out of copyright His work is now out of copyright.",
+        " in copyright The songs remain in copyright."
+      ]
+    },
+    {
+      "id": 1581,
+      "en": "correction",
+      "translations": {
+        "ru": "исправление",
+        "uk": "виправлення"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/correction_1",
+      "phonetics": {
+        "us": "/kəˈrekʃn/",
+        "uk": "/kəˈrekʃn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cor/corre/correction__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cor/corre/correction__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cor/corre/correction__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cor/corre/correction__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "I've made a few small corrections to your report.",
+        "The paper had to publish a correction to the story."
+      ]
+    },
+    {
+      "id": 1582,
+      "en": "correlate",
+      "translations": {
+        "ru": "соотносить",
+        "uk": "співвідносити"
+      },
+      "cefr": "C1",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/correlate_1",
+      "phonetics": {
+        "us": "/ˈkɔːrəleɪt/",
+        "uk": "/ˈkɒrəleɪt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cor/corre/correlate__us_1_rr.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cor/corre/correlate__us_1_rr.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cor/corre/correlate__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cor/corre/correlate__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The figures do not seem to correlate.",
+        " correlate with something A high-fat diet correlates with a greater risk of heart disease.",
+        "The average speed of the vehicles correlates closely with the severity of the accident caused."
+      ]
+    },
+    {
+      "id": 1583,
+      "en": "correlation",
+      "translations": {
+        "ru": "корреляция",
+        "uk": "кореляція"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/correlation",
+      "phonetics": {
+        "us": "/ˌkɔːrəˈleɪʃn/",
+        "uk": "/ˌkɒrəˈleɪʃn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cor/corre/correlation__us_1_rr.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cor/corre/correlation__us_1_rr.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cor/corre/correlation__gb_2.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cor/corre/correlation__gb_2.ogg"
+        }
+      },
+      "examples": [
+        " correlation between A and B There is a direct correlation between exposure to sun and skin cancer.",
+        " correlation of A with B the correlation of social power with wealth"
+      ]
+    },
+    {
+      "id": 1584,
+      "en": "correspond",
+      "translations": {
+        "ru": "соответствовать",
+        "uk": "відповідати"
+      },
+      "cefr": "C1",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/correspond",
+      "phonetics": {
+        "us": "/ˌkɔːrəˈspɑːnd/",
+        "uk": "/ˌkɒrəˈspɒnd/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cor/corre/correspond__us_1_rr.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cor/corre/correspond__us_1_rr.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cor/corre/correspond__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cor/corre/correspond__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Your account and hers do not correspond.",
+        " correspond with something Your account of events does not correspond with hers.",
+        " correspond to something The written record of the conversation doesn't correspond to (= is different from) what was actually said."
+      ]
+    },
+    {
+      "id": 1585,
+      "en": "correspondence",
+      "translations": {
+        "ru": "переписка",
+        "uk": "листування"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/correspondence",
+      "phonetics": {
+        "us": "/ˌkɔːrəˈspɑːndəns/",
+        "uk": "/ˌkɒrəˈspɒndəns/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cor/corre/correspondence__us_1_rr.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cor/corre/correspondence__us_1_rr.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cor/corre/correspondence__gb_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cor/corre/correspondence__gb_3.ogg"
+        }
+      },
+      "examples": [
+        "personal/private correspondence",
+        "The editor welcomes correspondence from readers on any subject.",
+        "the correspondence column/page (= in a newspaper)",
+        " correspondence with somebody Jane Austen's correspondence with her sister"
+      ]
+    },
+    {
+      "id": 1586,
+      "en": "correspondent",
+      "translations": {
+        "ru": "корреспондент",
+        "uk": "кореспондент"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/correspondent",
+      "phonetics": {
+        "us": "/ˌkɔːrəˈspɑːndənt/",
+        "uk": "/ˌkɒrəˈspɒndənt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cor/corre/correspondent__us_1_rr.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cor/corre/correspondent__us_1_rr.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cor/corre/correspondent__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cor/corre/correspondent__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "She's the BBC's political correspondent.",
+        "a foreign/war/sports correspondent",
+        "our Delhi correspondent"
+      ]
+    },
+    {
+      "id": 1587,
+      "en": "corresponding",
+      "translations": {
+        "ru": "соответствующий",
+        "uk": "відповідний"
+      },
+      "cefr": "C1",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/corresponding",
+      "phonetics": {
+        "us": "/ˌkɔːrəˈspɑːndɪŋ/",
+        "uk": "/ˌkɒrəˈspɒndɪŋ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cor/corre/corresponding__us_1_rr.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cor/corre/corresponding__us_1_rr.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cor/corre/corresponding__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cor/corre/corresponding__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "A change in the money supply brings a corresponding change in expenditure.",
+        "Profits have risen by 15 per cent compared with the corresponding period last year.",
+        "The Redskins lost to the Cowboys in the corresponding game last year.",
+        "Fewer houses are available, but there is no corresponding decrease in demand.",
+        " corresponding to something Give each picture a number corresponding to its position on the page."
+      ]
+    },
+    {
+      "id": 1588,
+      "en": "corrupt",
+      "translations": {
+        "ru": "коррумпированный",
+        "uk": "корумпований"
+      },
+      "cefr": "C1",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/corrupt_1",
+      "phonetics": {
+        "us": "/kəˈrʌpt/",
+        "uk": "/kəˈrʌpt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cor/corru/corrupt__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cor/corru/corrupt__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cor/corru/corrupt__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cor/corru/corrupt__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "It was seen as the only way to overthrow a corrupt regime.",
+        "They promised to seek out the corrupt officials who had accepted the bribes.",
+        "one of the most notoriously corrupt city councils"
+      ]
+    },
+    {
+      "id": 1589,
+      "en": "corruption",
+      "translations": {
+        "ru": "коррупция",
+        "uk": "корупція"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/corruption",
+      "phonetics": {
+        "us": "/kəˈrʌpʃn/",
+        "uk": "/kəˈrʌpʃn/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cor/corru/corruption__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cor/corru/corruption__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cor/corru/corruption__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cor/corru/corruption__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "allegations of bribery and corruption",
+        "The new district attorney has promised to fight police corruption."
+      ]
+    },
+    {
+      "id": 1590,
+      "en": "costly",
+      "translations": {
+        "ru": "дорогостоящий",
+        "uk": "дорогий"
+      },
+      "cefr": "C1",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/costly",
+      "phonetics": {
+        "us": "/ˈkɔːstli/",
+        "uk": "/ˈkɒstli/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cos/costl/costly__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cos/costl/costly__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cos/costl/costly__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cos/costl/costly__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Buying new furniture may prove too costly."
+      ]
+    },
+    {
+      "id": 1591,
+      "en": "councillor",
+      "translations": {
+        "ru": "советник",
+        "uk": "радник"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/councillor",
+      "phonetics": {
+        "us": "/ˈkaʊnsələr/",
+        "uk": "/ˈkaʊnsələ(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cou/counc/councillor__us_2_rr.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cou/counc/councillor__us_2_rr.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cou/counc/councillor__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cou/counc/councillor__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Councillor Ann Jones",
+        "Talk to your local councillor about the problem."
+      ]
+    },
+    {
+      "id": 1592,
+      "en": "counselling",
+      "translations": {
+        "ru": "консультирование",
+        "uk": "консультування"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/counselling",
+      "phonetics": {
+        "us": "/ˈkaʊnsəlɪŋ/",
+        "uk": "/ˈkaʊnsəlɪŋ/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cou/couns/counselling__us_1_rr.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cou/couns/counselling__us_1_rr.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cou/couns/counselling__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cou/couns/counselling__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The couple decided to go for relationship counselling.",
+        "Some groups offer bereavement counselling.",
+        "a student counselling service"
+      ]
+    },
+    {
+      "id": 1593,
+      "en": "counsellor",
+      "translations": {
+        "ru": "консультант",
+        "uk": "консультант"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/counsellor",
+      "phonetics": {
+        "us": "/ˈkaʊnsələr/",
+        "uk": "/ˈkaʊnsələ(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cou/couns/counsellor__us_2_rr.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cou/couns/counsellor__us_2_rr.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cou/couns/counsellor__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cou/couns/counsellor__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "I went to see a debt counsellor and she agreed to come to the bank with me."
+      ]
+    },
+    {
+      "id": 1594,
+      "en": "counter",
+      "translations": {
+        "ru": "противодействовать",
+        "uk": "протидіяти"
+      },
+      "cefr": "C1",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/counter_2",
+      "phonetics": {
+        "us": "/ˈkaʊntər/",
+        "uk": "/ˈkaʊntə(r)/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cou/count/counter__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cou/count/counter__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cou/count/counter__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cou/count/counter__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " counter somebody/something Such arguments are not easily countered.",
+        " counter that… I tried to argue but he countered that the plans were not yet finished.",
+        " counter (somebody) + speech ‘But I was standing right here!’ he countered.",
+        " counter (somebody/something) with something Butler has countered with a lawsuit against the firm."
+      ]
+    },
+    {
+      "id": 1595,
+      "en": "counterpart",
+      "translations": {
+        "ru": "коллега",
+        "uk": "колега"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/counterpart",
+      "phonetics": {
+        "us": "/ˈkaʊntərpɑːrt/",
+        "uk": "/ˈkaʊntəpɑːt/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cou/count/counterpart__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cou/count/counterpart__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cou/count/counterpart__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cou/count/counterpart__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "The Foreign Minister held talks with his Chinese counterpart.",
+        "The women's shoe, like its male counterpart, is specifically designed for the serious tennis player."
+      ]
+    },
+    {
+      "id": 1596,
+      "en": "countless",
+      "translations": {
+        "ru": "бесчисленный",
+        "uk": "незліченний"
+      },
+      "cefr": "C1",
+      "type": "adjective",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/countless",
+      "phonetics": {
+        "us": "/ˈkaʊntləs/",
+        "uk": "/ˈkaʊntləs/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cou/count/countless__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cou/count/countless__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cou/count/countless__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cou/count/countless__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "I've warned her countless times.",
+        "The new treatment could save Emma's life and the lives of countless others."
+      ]
+    },
+    {
+      "id": 1597,
+      "en": "coup",
+      "translations": {
+        "ru": "переворот",
+        "uk": "переворот"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/coup",
+      "phonetics": {
+        "us": "/kuː/",
+        "uk": "/kuː/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cou/coup_/coup__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cou/coup_/coup__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cou/coup_/coup__gb_3.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cou/coup_/coup__gb_3.ogg"
+        }
+      },
+      "examples": [
+        "He seized power in a military coup in 2008.",
+        "to stage/mount a coup",
+        "He was sentenced to death for his part in the attempted coup.",
+        "a failed/an abortive coup",
+        "She lost her position in a boardroom coup (= a sudden change of power among senior managers in a company)."
+      ]
+    },
+    {
+      "id": 1598,
+      "en": "courtesy",
+      "translations": {
+        "ru": "вежливость",
+        "uk": "ввічливість"
+      },
+      "cefr": "C1",
+      "type": "noun",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/courtesy_1",
+      "phonetics": {
+        "us": "/ˈkɜːrtəsi/",
+        "uk": "/ˈkɜːtəsi/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cou/court/courtesy__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cou/court/courtesy__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cou/court/courtesy__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cou/court/courtesy__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "I was treated with the utmost courtesy by the staff.",
+        "We asked them, as a matter of courtesy, if we could photograph their house.",
+        "It's only common courtesy to tell the neighbours that we'll be having a party (= the sort of behaviour that people would expect)."
+      ]
+    },
+    {
+      "id": 1599,
+      "en": "craft",
+      "translations": {
+        "ru": "создавать",
+        "uk": "створювати"
+      },
+      "cefr": "C1",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/craft_2",
+      "phonetics": {
+        "us": "/kræft/",
+        "uk": "/krɑːft/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cra/craft/craft__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cra/craft/craft__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cra/craft/craft__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cra/craft/craft__gb_1.ogg"
+        }
+      },
+      "examples": [
+        " be crafted (from something) All the furniture is crafted from natural materials.",
+        "a carefully crafted speech"
+      ]
+    },
+    {
+      "id": 1600,
+      "en": "crawl",
+      "translations": {
+        "ru": "ползти",
+        "uk": "повзти"
+      },
+      "cefr": "C1",
+      "type": "verb",
+      "href": "https://www.oxfordlearnersdictionaries.com/definition/english/crawl_1",
+      "phonetics": {
+        "us": "/krɔːl/",
+        "uk": "/krɔːl/"
+      },
+      "audio": {
+        "us": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cra/crawl/crawl__us_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cra/crawl/crawl__us_1.ogg"
+        },
+        "uk": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cra/crawl/crawl__gb_1.mp3",
+          "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/cra/crawl/crawl__gb_1.ogg"
+        }
+      },
+      "examples": [
+        "Our baby is just starting to crawl.",
+        "A man was crawling away from the burning wreckage.",
+        "She crawled under the fence."
+      ]
+    }
+  ]
+}

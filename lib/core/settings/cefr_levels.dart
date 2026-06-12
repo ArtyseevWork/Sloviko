@@ -7,7 +7,7 @@ import '../di/providers.dart';
 /// Active CEFR levels — user-selected filter for word rotation.
 /// Default: A1, A2, B1, B2 (covers most learners).
 class CefrLevelsNotifier extends ChangeNotifier {
-  static const all = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'];
+  static const all = ['A1', 'A2', 'B1', 'B2', 'C1'];
   static const defaultActive = ['A1', 'A2', 'B1', 'B2'];
   static const _key = 'active_cefr_levels';
 
