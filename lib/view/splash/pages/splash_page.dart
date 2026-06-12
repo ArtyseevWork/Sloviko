@@ -29,9 +29,14 @@ class _SplashPageState extends ConsumerState<SplashPage> {
     final repo = ref.read(wordsRepositoryProvider);
     await repo.bootstrap();
     await ref.read(applyDecayProvider).call();
-    // Fire-and-forget remote top-up scoped to the user's active CEFR levels.
+    // Refresh the remote batch manifest so installed builds learn about new
+    // batches added to the repo. Then fire-and-forget the remote top-up.
     final levels = ref.read(cefrLevelsProvider).levels;
-    unawaited(ref.read(loadNextBatchProvider).call(levels));
+    unawaited(
+      repo.refreshManifest().then(
+            (_) => ref.read(loadNextBatchProvider).call(levels),
+          ),
+    );
     await Future.delayed(const Duration(milliseconds: 1500));
     if (!mounted) return;
     Go.to(context, Routes.quiz);

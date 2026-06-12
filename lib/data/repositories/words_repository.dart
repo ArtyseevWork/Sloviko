@@ -28,9 +28,14 @@ class WordsRepository {
 
   static const _kSeedLoaded = 'seed_loaded';
   static const _kLastLoadedBatch = 'last_loaded_batch';
+  static const _kCachedManifest = 'cached_batch_manifest';
+  static const _kManifestSeparator = ',';
   static const _seedAsset = 'assets/seed/words.json';
 
-  /// Defined batch progression. After seed, load batches in this order.
+  /// Compiled-in fallback order — used when no remote manifest has been
+  /// cached yet (first launch, offline, or repo manifest unreachable). The
+  /// runtime always prefers a freshly-fetched remote manifest so installed
+  /// app builds can pick up new batches without an APK update.
   static const batchOrder = [
     'a1_batch_1',
     'a2_batch_2',
@@ -120,21 +125,41 @@ class WordsRepository {
 
   // ── remote batch loading
 
-  Future<String?> nextBatchId() async {
-    final last = await _stateDao.get(_kLastLoadedBatch);
-    if (last == null) return batchOrder.first;
-    final idx = batchOrder.indexOf(last);
-    if (idx < 0 || idx >= batchOrder.length - 1) return null;
-    return batchOrder[idx + 1];
+  /// Pulls the remote batch-order manifest and caches it in app_state. Called
+  /// from splash so new app sessions pick up any batches appended to the repo
+  /// since the APK was built. Silent no-op when offline.
+  Future<void> refreshManifest() async {
+    final remote = await _remote.fetchManifest();
+    if (remote == null || remote.isEmpty) return;
+    await _stateDao.set(_kCachedManifest, remote.join(_kManifestSeparator));
   }
 
-  /// First batch in batchOrder whose CEFR level is in [activeLevels] AND that
-  /// hasn't been inserted into the DB yet. Allows skipping levels the user
-  /// doesn't want or back-filling earlier levels they enabled later.
+  /// Cached remote manifest if available, otherwise the compiled fallback.
+  Future<List<String>> currentBatchOrder() async {
+    final cached = await _stateDao.get(_kCachedManifest);
+    if (cached != null && cached.isNotEmpty) {
+      return cached.split(_kManifestSeparator);
+    }
+    return batchOrder;
+  }
+
+  Future<String?> nextBatchId() async {
+    final order = await currentBatchOrder();
+    final last = await _stateDao.get(_kLastLoadedBatch);
+    if (last == null) return order.first;
+    final idx = order.indexOf(last);
+    if (idx < 0 || idx >= order.length - 1) return null;
+    return order[idx + 1];
+  }
+
+  /// First batch in the current order whose CEFR level is in [activeLevels]
+  /// AND that hasn't been inserted into the DB yet. Allows skipping levels
+  /// the user doesn't want or back-filling earlier levels they enabled later.
   Future<String?> nextBatchForLevels(List<String> activeLevels) async {
     if (activeLevels.isEmpty) return null;
+    final order = await currentBatchOrder();
     final loaded = await _wordsDao.distinctBatches();
-    for (final id in batchOrder) {
+    for (final id in order) {
       if (loaded.contains(id)) continue;
       final level = id.substring(0, 2).toUpperCase();
       if (activeLevels.contains(level)) return id;
