@@ -71,6 +71,9 @@ class WordsRepository {
     'b2_batch_8',
     'b2_batch_9',
     'b2_batch_10',
+    'a1_batch_9',
+    'a2_batch_10',
+    'b1_batch_9',
   ];
 
   /// Ensures DB is open and seed words are loaded on first launch.
