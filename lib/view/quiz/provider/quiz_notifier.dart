@@ -8,7 +8,6 @@ import '../../../core/settings/cefr_levels.dart';
 import '../../../core/settings/daily_goal.dart';
 import '../../../domain/models/question.dart';
 import '../../../domain/usecases/get_next_question.dart';
-import '../../../domain/usecases/load_next_batch.dart';
 import '../../../domain/usecases/mark_as_known.dart';
 import '../../../domain/usecases/submit_answer.dart';
 
@@ -82,7 +81,6 @@ class QuizNotifier extends ChangeNotifier {
   final GetNextQuestion _getNext;
   final SubmitAnswer _submit;
   final MarkAsKnown _markKnown;
-  final LoadNextBatch _loadBatch;
   final AudioService _audio;
   final Future<int> Function(List<String>) _totalCount;
   final Future<int> Function(List<String>) _learnedCount;
@@ -98,7 +96,6 @@ class QuizNotifier extends ChangeNotifier {
     required GetNextQuestion getNext,
     required SubmitAnswer submit,
     required MarkAsKnown markKnown,
-    required LoadNextBatch loadBatch,
     required AudioService audio,
     required Future<int> Function(List<String>) totalCount,
     required Future<int> Function(List<String>) learnedCount,
@@ -109,7 +106,6 @@ class QuizNotifier extends ChangeNotifier {
   })  : _getNext = getNext,
         _submit = submit,
         _markKnown = markKnown,
-        _loadBatch = loadBatch,
         _audio = audio,
         _totalCount = totalCount,
         _learnedCount = learnedCount,
@@ -232,8 +228,6 @@ class QuizNotifier extends ChangeNotifier {
     );
     _safeNotify();
 
-    unawaited(_loadBatch.call(state.activeLevels));
-
     Future.delayed(const Duration(milliseconds: 1400), () {
       state = state.copy(clearScoreFloat: true);
       _safeNotify();
@@ -269,7 +263,6 @@ final quizNotifierProvider = ChangeNotifierProvider<QuizNotifier>((ref) {
     getNext: ref.watch(getNextQuestionProvider),
     submit: ref.watch(submitAnswerProvider),
     markKnown: ref.watch(markAsKnownProvider),
-    loadBatch: ref.watch(loadNextBatchProvider),
     audio: ref.watch(audioServiceProvider),
     totalCount: (lvls) => repo.totalCount(levels: lvls),
     learnedCount: (lvls) => repo.learnedCount(levels: lvls),

@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
-import '../../../core/di/providers.dart';
 import '../../../core/icons/detto_icon.dart';
 import '../../../core/locale/app_locale.dart';
 import '../../../core/locale/native_lang.dart';
@@ -10,7 +9,6 @@ import '../../../core/router/go.dart';
 import '../../../core/settings/cefr_levels.dart';
 import '../../../core/settings/daily_goal.dart';
 import '../../../core/theme/theme_provider.dart';
-import '../../quiz/provider/quiz_notifier.dart';
 
 class SettingsPage extends ConsumerWidget {
   const SettingsPage({super.key});
@@ -57,8 +55,6 @@ class SettingsPage extends ConsumerWidget {
                   _SectionLevels(),
                   SizedBox(height: 10),
                   _SectionGoal(),
-                  SizedBox(height: 10),
-                  _SectionUpdate(),
                 ],
               ),
             ),
@@ -236,94 +232,6 @@ class _StepperBtn extends ConsumerWidget {
             child: DettoIcon(icon, size: 20.sp, color: c.text),
           ),
         ),
-      ),
-    );
-  }
-}
-
-enum _LoadResult { idle, loading, success, nothing }
-
-class _SectionUpdate extends ConsumerStatefulWidget {
-  const _SectionUpdate();
-
-  @override
-  ConsumerState<_SectionUpdate> createState() => _SectionUpdateState();
-}
-
-class _SectionUpdateState extends ConsumerState<_SectionUpdate> {
-  _LoadResult _state = _LoadResult.idle;
-
-  Future<void> _loadMore() async {
-    if (_state == _LoadResult.loading) return;
-    setState(() => _state = _LoadResult.loading);
-    final levels = ref.read(cefrLevelsProvider).levels;
-    final ok = await ref.read(loadNextBatchProvider).call(levels, force: true);
-    if (!mounted) return;
-    setState(() => _state = ok ? _LoadResult.success : _LoadResult.nothing);
-    if (ok) {
-      // Refresh the quiz so freshly loaded words are mixed into rotation.
-      await ref.read(quizNotifierProvider).reload();
-    }
-  }
-
-  @override
-  Widget build(BuildContext context) {
-    final c = ref.watch(dettoThemeProvider).palette(context);
-    String labelKey;
-    switch (_state) {
-      case _LoadResult.idle:
-        labelKey = 'settings_load_more';
-        break;
-      case _LoadResult.loading:
-        labelKey = 'settings_load_in_progress';
-        break;
-      case _LoadResult.success:
-        labelKey = 'settings_load_done';
-        break;
-      case _LoadResult.nothing:
-        labelKey = 'settings_load_nothing';
-        break;
-    }
-    return _Card(
-      title: AppLocale.text('settings_update'),
-      child: GestureDetector(
-        onTap: _state == _LoadResult.loading ? null : _loadMore,
-        child: Container(
-          height: 48.h,
-          decoration: BoxDecoration(
-            color: c.accentBg,
-            borderRadius: BorderRadius.circular(12.r),
-            border: Border.all(color: c.accent, width: 1.5),
-          ),
-          child: Row(
-            mainAxisAlignment: MainAxisAlignment.center,
-            children: [
-              if (_state == _LoadResult.loading) ...[
-                SizedBox(
-                  width: 16.w,
-                  height: 16.w,
-                  child: CircularProgressIndicator(strokeWidth: 2, color: c.accentTxt),
-                ),
-                SizedBox(width: 10.w),
-              ] else ...[
-                DettoIcon(Icons.cloud_download_outlined, size: 16.sp, color: c.accentTxt),
-                SizedBox(width: 8.w),
-              ],
-              Text(
-                AppLocale.text(labelKey),
-                style: TextStyle(
-                  fontSize: 14.sp,
-                  fontWeight: FontWeight.w700,
-                  color: c.accentTxt,
-                ),
-              ),
-            ],
-          ),
-        ),
-      ),
-      footer: Text(
-        AppLocale.text('settings_update_hint'),
-        style: TextStyle(fontSize: 12.sp, color: c.textSub),
       ),
     );
   }

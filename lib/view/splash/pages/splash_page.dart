@@ -6,7 +6,6 @@ import '../../../core/di/providers.dart';
 import '../../../core/locale/app_locale.dart';
 import '../../../core/router/app_router.dart';
 import '../../../core/router/go.dart';
-import '../../../core/settings/cefr_levels.dart';
 import '../../../core/theme/theme_provider.dart';
 import '../widgets/logo_mark.dart';
 
@@ -25,18 +24,11 @@ class _SplashPageState extends ConsumerState<SplashPage> {
   }
 
   Future<void> _boot() async {
-    // Seed words on first launch + apply forgetting-curve decay.
+    // Load the bundled dictionary into the DB on first launch + apply the
+    // forgetting-curve decay tick. Everything ships in the APK — no network.
     final repo = ref.read(wordsRepositoryProvider);
     await repo.bootstrap();
     await ref.read(applyDecayProvider).call();
-    // Refresh the remote batch manifest so installed builds learn about new
-    // batches added to the repo. Then fire-and-forget the remote top-up.
-    final levels = ref.read(cefrLevelsProvider).levels;
-    unawaited(
-      repo.refreshManifest().then(
-            (_) => ref.read(loadNextBatchProvider).call(levels),
-          ),
-    );
     await Future.delayed(const Duration(milliseconds: 1500));
     if (!mounted) return;
     Go.to(context, Routes.quiz);
@@ -127,5 +119,3 @@ class _SplashPageState extends ConsumerState<SplashPage> {
   }
 }
 
-// Tiny stub so we don't pull dart:async just for unawaited.
-void unawaited(Future<void> _) {}
