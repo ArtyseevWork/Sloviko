@@ -1,7 +1,10 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
+import '../../../core/audio/audio_service.dart';
+import '../../../core/icons/detto_icon.dart';
 import '../../../core/locale/app_locale.dart';
 import '../../../core/theme/theme_provider.dart';
 import '../../../domain/models/question.dart';
@@ -23,9 +26,19 @@ class WordArea extends ConsumerWidget {
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     final c = ref.watch(dettoThemeProvider).palette(context);
+    final word = question.target;
     final isEn = question.direction == QuestionDirection.enToRu;
-    final prompt = isEn ? question.target.en : question.target.tr(nativeLang);
-    final langLabelKey = isEn ? 'quiz_lang_en' : 'quiz_lang_native_$nativeLang';
+    final prompt = isEn ? word.en : word.tr(nativeLang);
+
+    final ipa = word.phoneticsUk ?? word.phoneticsUs;
+    final showIpa = isEn && ipa != null && ipa.isNotEmpty;
+    final subLabel = showIpa
+        ? ipa
+        : AppLocale.text(isEn ? 'quiz_lang_en' : 'quiz_lang_native_$nativeLang');
+
+    final audioUrl = word.audioUk ?? word.audioUs;
+    final hasAudio = audioUrl != null && audioUrl.isNotEmpty;
+
     return Padding(
       padding: EdgeInsets.symmetric(horizontal: 28.w),
       child: Column(
@@ -49,18 +62,97 @@ class WordArea extends ConsumerWidget {
           ),
           SizedBox(height: 12.h),
           Text(
-            AppLocale.text(langLabelKey),
+            subLabel,
             style: TextStyle(
-              fontSize: 11.sp,
-              fontWeight: FontWeight.w600,
-              letterSpacing: 2,
+              fontSize: showIpa ? 15.sp : 11.sp,
+              fontWeight: showIpa ? FontWeight.w500 : FontWeight.w600,
+              letterSpacing: showIpa ? 0 : 2,
               color: c.textSub,
             ),
           ),
-          SizedBox(height: 22.h),
+          SizedBox(height: 14.h),
+          Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              if (hasAudio) ...[
+                _SpeakerButton(url: audioUrl),
+                SizedBox(width: 12.w),
+              ],
+              _ScoreChip(short: word.shortScore, long: word.longScore),
+            ],
+          ),
+          SizedBox(height: 14.h),
           Text(
             AppLocale.text('quiz_hint'),
             style: TextStyle(fontSize: 14.sp, color: c.textSub),
+          ),
+        ],
+      ),
+    );
+  }
+}
+
+class _SpeakerButton extends ConsumerWidget {
+  final String url;
+  const _SpeakerButton({required this.url});
+
+  @override
+  Widget build(BuildContext context, WidgetRef ref) {
+    final c = ref.watch(dettoThemeProvider).palette(context);
+    return GestureDetector(
+      onTap: () {
+        HapticFeedback.selectionClick();
+        ref.read(audioServiceProvider).playUrl(url);
+      },
+      child: Container(
+        width: 36.w,
+        height: 36.w,
+        decoration: BoxDecoration(
+          color: c.accentBg,
+          shape: BoxShape.circle,
+          border: Border.all(color: c.accent, width: 1.2),
+        ),
+        child: Center(
+          child: DettoIcon(Icons.volume_up_rounded,
+              size: 18.sp, color: c.accentTxt),
+        ),
+      ),
+    );
+  }
+}
+
+class _ScoreChip extends ConsumerWidget {
+  final int short;
+  final int long;
+  const _ScoreChip({required this.short, required this.long});
+
+  @override
+  Widget build(BuildContext context, WidgetRef ref) {
+    final c = ref.watch(dettoThemeProvider).palette(context);
+    return Container(
+      padding: EdgeInsets.symmetric(horizontal: 10.w, vertical: 6.h),
+      decoration: BoxDecoration(
+        color: c.surface,
+        borderRadius: BorderRadius.circular(12.r),
+        border: Border.all(color: c.border),
+      ),
+      child: Row(
+        mainAxisSize: MainAxisSize.min,
+        children: [
+          DettoIcon(Icons.bolt_rounded, size: 14.sp, color: c.textSub),
+          SizedBox(width: 4.w),
+          Text(
+            '$short',
+            style: TextStyle(
+                fontSize: 13.sp, fontWeight: FontWeight.w700, color: c.text),
+          ),
+          SizedBox(width: 10.w),
+          DettoIcon(Icons.star_rounded, size: 14.sp, color: c.textSub),
+          SizedBox(width: 4.w),
+          Text(
+            '$long',
+            style: TextStyle(
+                fontSize: 13.sp, fontWeight: FontWeight.w700, color: c.text),
           ),
         ],
       ),
